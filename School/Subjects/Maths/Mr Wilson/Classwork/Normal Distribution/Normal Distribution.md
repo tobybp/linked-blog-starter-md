@@ -1,0 +1,1 @@
+![[Backup/Excalidraw/Normal Distribution]]

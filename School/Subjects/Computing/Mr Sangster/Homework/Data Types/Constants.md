@@ -1,0 +1,1 @@
+Constants are variables that are set at compile time, and do not change throughout the program.
