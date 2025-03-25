@@ -49,3 +49,4 @@
 ## Rubber
 - When rubber is stretched the stiffness gradually decreases and it becomes relatively easy to stretch as the chains uncoil; once this has happened the rubber is much stiffer
 - The effect of hysteresis in rubber is to transfer energy to its molecules, resulting in heating
+- RAHHHH
