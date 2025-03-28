@@ -1,3 +1,3 @@
 [[Maths]]
 #25/3/25
-![[Backup/Excalidraw/Arcs and Sectors]]
+![[Backup/Excalidraw/Arcs and Sectors|700]]
