@@ -10,4 +10,7 @@
 - Receives the reply
 ## Role of the Server
 - The server waits for requests from the clients
-- It may need to pass the request to another server, meaning the server then becomes the client.
+- It may need to pass the request to another server, meaning the server then becomes the client to the new server.
+## Client-Server Networking
+Features:
+- 
