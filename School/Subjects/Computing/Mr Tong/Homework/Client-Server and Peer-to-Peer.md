@@ -13,4 +13,7 @@
 - It may need to pass the request to another server, meaning the server then becomes the client to the new server.
 ## Client-Server Networking
 Features:
-- A central
+- A central server that is used to manage security
+- Some of the files are held in the central server
+- Some processing tasks are performed by the server
+- Clients
