@@ -28,3 +28,4 @@ Features:
 	- Mail
 	- File
 	- Database
+## Peer-to-Peer Architecture
