@@ -16,4 +16,15 @@ Features:
 - A central server that is used to manage security
 - Some of the files are held in the central server
 - Some processing tasks are performed by the server
-- Clients
+- Clients issue requests to the server for services such as email, file storage, backup and printing
+- Suitable for many different types of organisation, small and large
+- Can require IT staff to administer the network
+![[Pasted image 20250329170656.png|600]]
+## Multiple Servers
+- There are often many servers with specific tasks, especially in a large client-server network.
+- Each one will be dedicated to a certain task:
+	- Web
+	- Print
+	- Mail
+	- File
+	- Database
