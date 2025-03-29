@@ -13,4 +13,4 @@
 - It may need to pass the request to another server, meaning the server then becomes the client to the new server.
 ## Client-Server Networking
 Features:
-- 
+- A central
