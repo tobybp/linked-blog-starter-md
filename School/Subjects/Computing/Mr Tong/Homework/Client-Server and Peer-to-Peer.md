@@ -50,3 +50,5 @@ Features:
 - BBC iPlayer uses P2P networking
 - This means that even with thousands of people downloading at the same time, data can be passed between the computers rather than just from the server.
 - P2P networks are also used for the illegal distribution of copyrighted materials such as music and films, as it is difficult to close them down.
+## Peer-to-Peer File Sharing
+- A file request may return many parts of the same file from multiple copies from multiple computers.
