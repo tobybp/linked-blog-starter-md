@@ -34,4 +34,19 @@ Features:
 ## Peer-to-Peer Networking
 - Suitable for small companies with few computers
 - No central server controlling the files or security
-- 
+- All computers can see files on any other computer
+- All computers can communicate without having to go through a central server
+- If a computer switches off, data can't be retrieved
+## Architectures
+| Client Server                                              | Peer-to-Peer                                                                         |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| User IDs, passwords and access levels centrally controlled | Files and programs stored on individual computers                                    |
+| Used in many small, medium-size and large organisations    | Suitable for a home computer network                                                 |
+| Can be expensive to set up and to manage                   | \|7. Can be expensive to set up and to manage\|4. Cheap to set up and maintain\|<br> |
+| Backup is centralised and usually automated                | Each computer on the network can act as both client and server                       |
+| No access to other users’ files                            | Can be used for sharing of music and streaming coverage of live events               |
+## Peer-to-Peer on a WAN
+- P2P configuration can be used for file sharing websites
+- BBC iPlayer uses P2P networking
+- This means that even with thousands of people downloading at the same time, data can be passed between the computers rather than just from the server.
+- P2P networks are also used for the illegal distribution of copyrighted materials such as music and films, as it is difficult to close them down.
