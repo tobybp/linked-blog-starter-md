@@ -52,3 +52,11 @@ Features:
 - P2P networks are also used for the illegal distribution of copyrighted materials such as music and films, as it is difficult to close them down.
 ## Peer-to-Peer File Sharing
 - A file request may return many parts of the same file from multiple copies from multiple computers.
+- ![[Pasted image 20250330144757.png]]
+## Cloud Computing
+- "The cloud" is an imaginative term for internet computing, using remote servers run by organisations.
+- Instead of using their own networks, many organisations now rely on cloud computing in order to share software and files.
+## Advantages of Cloud Computing
+- Some software does not have to be downloaded to the computer. All software and data files are held "in the cloud"\
+- Software and data is accessible from anywhere in the world on any device
+- 
