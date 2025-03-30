@@ -57,6 +57,7 @@ Features:
 - "The cloud" is an imaginative term for internet computing, using remote servers run by organisations.
 - Instead of using their own networks, many organisations now rely on cloud computing in order to share software and files.
 ## Advantages of Cloud Computing
-- Some software does not have to be downloaded to the computer. All software and data files are held "in the cloud"\
+- Some software does not have to be downloaded to the computer. All software and data files are held "in the cloud"
 - Software and data is accessible from anywhere in the world on any device
-- 
+- Data is automatically backed up so no danger of losing it
+- The software and data doesn't occupy the hard drive
