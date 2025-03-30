@@ -29,3 +29,9 @@ Features:
 	- File
 	- Database
 ## Peer-to-Peer Architecture
+- Has no central server
+- ![[Pasted image 20250330143353.png|500]]
+## Peer-to-Peer Networking
+- Suitable for small companies with few computers
+- No central server controlling the files or security
+- 
