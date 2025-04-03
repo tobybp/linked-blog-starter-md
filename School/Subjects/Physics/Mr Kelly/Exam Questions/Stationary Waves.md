@@ -10,8 +10,9 @@
 8) A
 9) B
 10) C
-11) speed = freq x dihstance
-	340 = 0.17 x freq = 340 / 0.17 = 2000
+11) speed = frequency x dihstance
+	340 = 0.17 x frequency = 340 / 0.17 = 200∑0
 	D
 12) ![[Excalidraw/Drawing 2025-04-03 10.56.31.excalidraw.md]]
-13) A stationary wave, has fixed positions for its nodes, they stay still. 
+13) A stationary wave, has fixed positions for its nodes, they stay still. A progressive wave, progresses and does not stay still.
+14) 
