@@ -32,3 +32,8 @@ You will need:
 ## Two Stations Transmitting
 - Several devices are able to transmit using a singular WAP.
 - A protocol is needed to prevent two devices from transmitting simultaneously.
+## Collision Avoidance
+![[Pasted image 20250403153458.png|500]]
+## CSMA/CA
+- The flowchart shows the Carrier Sense Multiple Access with Collision Avoidance protocol.
+- Collisions are avoided by each station
