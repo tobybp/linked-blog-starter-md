@@ -36,4 +36,6 @@ You will need:
 ![[Pasted image 20250403153458.png|500]]
 ## CSMA/CA
 - The flowchart shows the Carrier Sense Multiple Access with Collision Avoidance protocol.
-- Collisions are avoided by each station
+- Collisions are avoided by each station transmitting when the channel is idle.
+## CSMA/CA using RTS/CTS
+![[Pasted image 20250403153810.png]]
