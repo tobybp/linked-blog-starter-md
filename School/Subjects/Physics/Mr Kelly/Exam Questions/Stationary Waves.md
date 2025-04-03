@@ -15,4 +15,7 @@
 	D
 12) ![[Excalidraw/Drawing 2025-04-03 10.56.31.excalidraw.md]]
 13) A stationary wave, has fixed positions for its nodes, they stay still. A progressive wave, has a transfer of energy from one place to another, it does not stay still.
-14) 
+14) 6.8%
+15) Difference: Stationary sound waves are coherent whilst progressive are incoherent.
+	Similarity: both are longitudinal.
+16) 
