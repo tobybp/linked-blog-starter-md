@@ -7,4 +7,9 @@
 6) C
 7) 150 x 3/4 = 112.5, add 75 for every harmonic
 	112.5 - 75 = 37.5, so B
-8) 180 is one, add 60 for every harmonic, so
+8) A
+9) B
+10) C
+11) speed = freq x dihstance
+	340 = 0.17 x freq = 340 / 0.17 = 2000
+	
