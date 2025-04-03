@@ -12,4 +12,5 @@
 10) C
 11) speed = freq x dihstance
 	340 = 0.17 x freq = 340 / 0.17 = 2000
-	
+	D
+12) 
