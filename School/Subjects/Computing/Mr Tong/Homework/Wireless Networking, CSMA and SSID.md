@@ -22,4 +22,13 @@ You will need:
 - Unique name given to each network.
 - Must be used by all of the devices on the network.
 - Can be set automatically or manually
-- Can be hidden to make a 
+- Can be hidden to make a network harder to detect and therefore more secure.
+- Can be set to broadcast to wireless devices in range of an access point.
+## Securing a Wireless Network
+- Wireless networks are generally less secure than wired ones. Unauthorised users can be hard to spot and transmitted data can easily be intercepted.
+- Security measures include:
+	- WPA and WPA2
+	- MAC address whitelists
+## Two Stations Transmitting
+- Several devices are able to transmit using a singular WAP.
+- A protocol is needed to prevent two devices from transmitting simultaneously.
