@@ -14,5 +14,5 @@
 	340 = 0.17 x frequency = 340 / 0.17 = 200∑0
 	D
 12) ![[Excalidraw/Drawing 2025-04-03 10.56.31.excalidraw.md]]
-13) A stationary wave, has fixed positions for its nodes, they stay still. A progressive wave, progresses and does not stay still.
+13) A stationary wave, has fixed positions for its nodes, they stay still. A progressive wave, has a transfer of energy from one place to another, it does not stay still.
 14) 
