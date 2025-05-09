@@ -31,4 +31,5 @@ velocity of gun:
 2) A
 3) C
 4) An object stays at rest / at a constant velocity until it is acted upon by a resultant force
-5) 
+5) The person on the skateboard moves to the left due to newton's first law of motion. She will start stationary and move in the opposite direction to the ball due to newton's third law.
+6) Because the type of forces are not the same. The clothes are acting down with gravitational potential energy
