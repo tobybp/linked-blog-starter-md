@@ -48,3 +48,6 @@ Degree to which kinetic energy was conserved:
 - Not really possible due to not being in a closed environment
 
 ## Kinetic Energy = 1/2mv^2
+
+Beach ball question:
+	
