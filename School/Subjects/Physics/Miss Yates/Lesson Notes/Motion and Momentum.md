@@ -34,3 +34,9 @@ velocity of gun:
 5) The velocity of the person is towards the left, the momentum of the person is equal to the momentum of the ball. Total momentum is zero at the start. Speed of person < speed of ball.
 6) Because the type of forces are not the same. The clothes are acting down with gravitational potential energy. Both forces are acting on the same object. They should be acting on different.
 7) Have the same magnitude, same type of force, act in different directions, act on different bodies.
+
+Principle of conservation of momentum:
+	In a closed system
+
+### Dropping balls:
+Momentum was not conserved, total energy was conserved.
