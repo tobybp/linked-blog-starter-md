@@ -30,4 +30,5 @@ velocity of gun:
 1) B
 2) A
 3) C
-4) 
+4) An object stays at rest / at a constant velocity until it is acted upon by a resultant force
+5) 
