@@ -50,4 +50,9 @@ Degree to which kinetic energy was conserved:
 ## Kinetic Energy = 1/2mv^2
 
 Beach ball question:
-	
+	momentum before = (5x2) + (-7 x 3) = -11kgm/s
+	momentum after = -11kgm/s = (-8 x 2) + (v x 3)
+	v = (-11 + 16) / 3 = 1.7m/s
+b) 
+	KE before: (1/2 x 2 x 5^2) + (1/2 x 3 x -7^2) = 98.5J
+	KE after: (1/2 x 2 x -8^2) + ()
