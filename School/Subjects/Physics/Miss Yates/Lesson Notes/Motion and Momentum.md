@@ -18,4 +18,16 @@ runners:
 momentum before = (90 x 5) + (70 x -2) = 310kgm/s
 
 A gun of mass 5kg resting on a smooth surface fires a bullet of mass 50g at a speed of 500m/s. Calculate the speed and direction of motion of the gun.
-Before: m = 5.05kg
+Before: 
+	momentum = mv = 5.05 x 0 = 0kgm/s
+bullet after firing: 
+	= 0.05 x 500 = 25kgm/s
+gun after firing:
+	25 + gun momentum = 0kgm/s
+	momentum of gun = -25kgm/s
+velocity of gun:
+	v = momentum / mass = -25 / 5 = -5m/s
+1) B
+2) A
+3) C
+4) 
