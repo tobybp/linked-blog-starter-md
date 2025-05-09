@@ -39,4 +39,9 @@ Principle of conservation of momentum:
 	In a closed system
 
 ### Dropping balls:
-Momentum was not conserved, total energy was conserved.
+Momentum was not conserved because external forces were acting, such as drag.
+Total energy was conserved (law of conservation of energy).
+Degree to which kinetic energy was conserved:
+
+### Billiard balls:
+- The temperature of the balls increases
