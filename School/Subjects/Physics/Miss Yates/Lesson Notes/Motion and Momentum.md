@@ -12,3 +12,10 @@
 linear momentum = product of an object's mass and linear velocity
 
 
+Principle of conservation of momentum = In a closed system the total momentum in any direction remains constant
+
+runners:
+momentum before = (90 x 5) + (70 x -2) = 310kgm/s
+
+A gun of mass 5kg resting on a smooth surface fires a bullet of mass 50g at a speed of 500m/s. Calculate the speed and direction of motion of the gun.
+Before: m = 5.05kg
