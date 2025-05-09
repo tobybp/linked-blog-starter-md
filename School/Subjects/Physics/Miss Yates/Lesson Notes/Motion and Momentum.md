@@ -31,5 +31,6 @@ velocity of gun:
 2) A
 3) C
 4) An object stays at rest / at a constant velocity until it is acted upon by a resultant force
-5) The person on the skateboard moves to the left due to newton's first law of motion. She will start stationary and move in the opposite direction to the ball due to newton's third law.
-6) Because the type of forces are not the same. The clothes are acting down with gravitational potential energy
+5) The velocity of the person is towards the left, the momentum of the person is equal to the momentum of the ball. Total momentum is zero at the start. Speed of person < speed of ball.
+6) Because the type of forces are not the same. The clothes are acting down with gravitational potential energy. Both forces are acting on the same object. They should be acting on different.
+7) Have the same magnitude, same type of force, act in different directions, act on different bodies.
