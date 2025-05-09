@@ -45,3 +45,6 @@ Degree to which kinetic energy was conserved:
 
 ### Billiard balls:
 - The temperature of the balls increases
+- Not really possible due to not being in a closed environment
+
+## Kinetic Energy = 1/2mv^2
