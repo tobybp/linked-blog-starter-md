@@ -10,3 +10,7 @@
 ## Gold-leaf Electroscope
 - The gold leaf and the stem of the electroscope deflect away from each other with both the white and clear plastic charging rods.
 - The gold leaf repels away from the stem when they both become the same positive/negative charge.
+## Photoelectric Effect (background)
+- Max Planck has discovered a link between energy and frequency of electromagnetic energy in the late 1800's.
+- This gave rise to the equation:
+	E = hf (hence the Planck constant of proportionality)
