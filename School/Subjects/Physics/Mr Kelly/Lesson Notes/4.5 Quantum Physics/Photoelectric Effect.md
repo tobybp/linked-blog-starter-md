@@ -18,7 +18,7 @@
 	h = $6.63$ x $10^{-34}$Js
 ## The energy of a photon
 - The energy of a photon is determined using the equation:
-	E = hf = hc/λ (from wavespeed equation v = fλ)
+	E = hf = hc/λ (from wave speed equation v = fλ)
 	where:
 		E = energy of the incident photon
 		h = Plancks constant
@@ -26,9 +26,14 @@
 		λ = wavelength of incident radiation
 		c = speed of light in a vacuum
 ## Phet practical
-Zinc = 288nm        --> 
-Sodium = 539nm   -->
-Copper = 263nm   -->
-Platinum = 196nm -->
-Calcium = 427nm  -->
+Zinc = 288nm        --> 6.9 x $10^{-19}$
+Sodium = 539nm   --> 3.69 x $10^{-19}$
+Copper = 263nm   --> 7.56 x $10^{-19}$
+Platinum = 196nm --> 1.015 x $10^{-18}$
+Calcium = 427nm  --> 4.66 x $10^{-19}$
 ?????? = 335nm     -->
+## Observations
+- White light seems to have no effect, either the frequency or intensity.
+- UV seems to discharge the plate, regardless of intensity
+- Particle model of light theorised.
+- leads to the photoelectric 
