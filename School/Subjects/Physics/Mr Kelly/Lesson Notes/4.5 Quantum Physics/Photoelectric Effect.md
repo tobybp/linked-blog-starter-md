@@ -26,7 +26,9 @@
 		λ = wavelength of incident radiation
 		c = speed of light in a vacuum
 ## Phet practical
-Zinc = 288nm
-Sodium = 539nm
-Copper = 263nm
-Platinum = 196nm
+Zinc = 288nm        --> 
+Sodium = 539nm   -->
+Copper = 263nm   -->
+Platinum = 196nm -->
+Calcium = 427nm  -->
+?????? = 335nm     -->
