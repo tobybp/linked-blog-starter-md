@@ -33,7 +33,7 @@ Platinum = 196nm --> 1.015 x $10^{-18}$
 Calcium = 427nm  --> 4.66 x $10^{-19}$
 ?????? = 335nm     -->
 ## Observations
-- White light seems to have no effect, either the frequency or intensity.
+- White light seems to have no effect, either the frequency or intensity
 - UV seems to discharge the plate, regardless of intensity
-- Particle model of light theorised.
-- leads to the photoelectric 
+- Particle model of light theorised
+- leads to the photoelectric equation
