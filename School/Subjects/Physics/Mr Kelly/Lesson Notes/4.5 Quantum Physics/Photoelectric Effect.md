@@ -7,6 +7,6 @@
 ## Coulombmeter findings
 - The white plastic charges negatively
 - The clear plastic (pyrex) charges positively
-## Gold-lead Electroscope
+## Gold-leaf Electroscope
 - The gold leaf and the stem of the electroscope deflect away from each other with both the white and clear plastic charging rods.
 - The gold leaf repels away from the stem when they both become the same positive/negative charge.
