@@ -25,3 +25,8 @@
 		f = frequency of incident radiation
 		λ = wavelength of incident radiation
 		c = speed of light in a vacuum
+## Phet practical
+Zinc = 288nm
+Sodium = 539nm
+Copper = 263nm
+Platinum = 196nm
