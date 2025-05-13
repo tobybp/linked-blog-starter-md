@@ -59,4 +59,6 @@
 	1/2 x 1 x 0.2$^2$ = 0.02
 	1/2 x 1 x 0.3$^2$ = 0.045
 	The collision is elastic because the momentum was conserved.
-2) a) 
+2) a) = 100, 10 x n
+	= 13.3
+	b) the collision is not elastic
