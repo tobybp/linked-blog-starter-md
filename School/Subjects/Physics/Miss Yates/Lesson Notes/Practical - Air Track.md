@@ -7,14 +7,14 @@
 | Trial | Trolley 1        | Trolley 1      | Trolley 2        | Trolley 2      |
 | ----- | ---------------- | -------------- | ---------------- | -------------- |
 | (m/s) | Initial velocity | Final Velocity | Initial velocity | Final Velocity |
-| 1     |                  |                |                  |                |
-| 2     |                  |                |                  |                |
-| 3     |                  |                |                  |                |
+| 1     | 0.45             | 0.30           | 0.53             | 0.25           |
+| 2     | 0.43             | 0.32           | 0.55             | 0.23           |
+| 3     | 0.47             | 0.31           | 0.55             | 0.26           |
 ### Putty-pin Attachment
 
 | Trial | Trolley 1        | Trolley 1      | Trolley 2        | Trolley 2      |
 | ----- | ---------------- | -------------- | ---------------- | -------------- |
 | (m/s) | Initial velocity | Final Velocity | Initial velocity | Final Velocity |
 | 1     | 0.49             | 0.17           | 0.95             | 0.17           |
-| 2     | 0.59             |                |                  |                |
-| 3     |                  |                |                  |                |
+| 2     | 0.59             | 0.10           | 0.89             | 0.10           |
+| 3     | 0.41             | 0.11           | 0.69             | 0.11           |
