@@ -47,4 +47,15 @@
 | 2     | 0.079     | 0.172          | 0.251 | 0.002     | 0.172          | 0.174 |
 | 3     | 0.038     | 0.103          | 0.142 | 0.003     | 0.103          | 0.106 |
 ## Questions:
-1) Magnetic: neither conser
+1) Magnetic: neither conserved
+	Putty and pin: neither conserved, but momentum was somewhat conserved
+2) Not a closed system therefore momentum was not conserved.
+	Magnetic = elastic
+	Pin and putty = inelastic
+### Exam Questions:
+1) a) 0.3
+	b) 1/2 x 1 x 0.3$^2$ = 0.045
+	1/2 x 1 x -0.2$^2$ = 0.02
+	1/2 x 1 x 0.2$^2$ = 0.02
+	1/2 x 1 x 0.3$^2$ = 0.045
+	The collision is elastic because the momentum was conserved.
