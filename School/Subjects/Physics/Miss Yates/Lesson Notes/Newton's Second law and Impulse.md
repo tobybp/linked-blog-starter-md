@@ -50,3 +50,7 @@ A force is applied to a toy car with a mass 0.5kg. The force varies as shown.
 
 #### Without airbag vs with airbag
 ![[Excalidraw/airbagnoairbag.md|700]]
+## Exam Questions
+1) (10 x 45)/2 + 70 x 45 + (20 x 45)/2 = 3825kgm/s / 1000 -> seconds = 3.825kgm/s
+	= B
+2) 
