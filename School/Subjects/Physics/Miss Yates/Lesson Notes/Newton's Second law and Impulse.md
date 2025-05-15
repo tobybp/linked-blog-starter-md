@@ -55,4 +55,5 @@ A force is applied to a toy car with a mass 0.5kg. The force varies as shown.
 	= B
 2) (0.058 x 7.2) - (0.058 x -3.6) =  0.63kgm/s
 	F = 0.63 / 0.052 / F = 0.058 x 2-8 = 12.05 = 12N
-3) 
+3) a) 0.16 x 20 = 3.2
+	b) 3.2 / 0.033 = 98
