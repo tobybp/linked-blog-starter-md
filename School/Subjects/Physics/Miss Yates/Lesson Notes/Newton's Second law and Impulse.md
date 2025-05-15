@@ -53,4 +53,6 @@ A force is applied to a toy car with a mass 0.5kg. The force varies as shown.
 ## Exam Questions
 1) (10 x 45)/2 + 70 x 45 + (20 x 45)/2 = 3825kgm/s / 1000 -> seconds = 3.825kgm/s
 	= B
-2) 
+2) (0.058 x 7.2) - (0.058 x -3.6) =  0.63kgm/s
+	F = 0.63 / 0.052 / F = 0.058 x 2-8 = 12.05 = 12N
+3) 
