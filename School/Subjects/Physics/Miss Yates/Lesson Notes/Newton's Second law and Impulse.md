@@ -42,5 +42,11 @@ Forces causing acceleration are not always constant. To analyse these, we need t
 A force is applied to a toy car with a mass 0.5kg. The force varies as shown.
 ##### Calculate:
 1) Impulse of the force
-	
+	4 + 8 + 8 = 20kgm/s
 2) The final velocity of the toy car
+	p = mv
+	20 = 0.5 x v
+	v = 40m/s
+
+#### Without airbag vs with airbag
+![[Excalidraw/airbagnoairbag.md|700]]
