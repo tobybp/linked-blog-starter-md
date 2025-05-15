@@ -34,4 +34,13 @@ How does the force applied by the racket to the ball change over time?
 ![[Excalidraw/tennisforce.md]]
 ## Impulse
 Forces causing acceleration are not always constant. To analyse these, we need to use the idea of the impulse of a force.
-#### Definition: The impulse of a fore
+##### Definition: The impulse of a force is the product of the force and the time for which the force is applied (impulse = F x ∆t)
+#### Impulse = Change in momentum
+- Impulse has units Ns or kgm/s (it must have same units as momentum)
+- Impulse is equal to the area under the curve on a force-time graph
+### Example:
+A force is applied to a toy car with a mass 0.5kg. The force varies as shown.
+##### Calculate:
+1) Impulse of the force
+	
+2) The final velocity of the toy car
