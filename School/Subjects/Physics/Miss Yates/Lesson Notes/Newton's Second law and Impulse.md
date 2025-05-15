@@ -17,3 +17,11 @@ What is the net force on a dummy of 4.5kg travelling at 15m/s in a test crash, i
 ## Practice Questions
 1) A car takes 4.2s to come to a stop with a change of momentum of $5.1$ x $10^4$ kgm/s. What is the net force acting on the car?
 	F = ∆p / ∆t
+	F = $5.1$ x $10^4$ / 4.2
+	F = 12142.85714
+2) A force of 320N acts on a ball for 1.5s calculate the change in momentum
+	320 = ∆p / 1.5
+	320 x 1.5 = 480kgm/s
+3) A steam train is burning coal and travelling at 5m/s after 500s its mass has a decreased from 4100kg to 3800kg, calculate the force acting on the train.
+	F = ∆p / ∆t
+	F = ()
