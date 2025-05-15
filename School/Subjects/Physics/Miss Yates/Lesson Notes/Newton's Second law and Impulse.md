@@ -24,4 +24,14 @@ What is the net force on a dummy of 4.5kg travelling at 15m/s in a test crash, i
 	320 x 1.5 = 480kgm/s
 3) A steam train is burning coal and travelling at 5m/s after 500s its mass has a decreased from 4100kg to 3800kg, calculate the force acting on the train.
 	F = ∆p / ∆t
-	F = ()
+	F = (4100 - 3800) / 500
+	F = 3N
+4) A tennis ball is in contact with a wall for 2ms, it has a mass of 60g and initial velocity of 14m/s, calculate the force on the ball
+	F = ∆p / ∆t = 60 x 10^-3 x 14 / (2 x 10^-3)
+	F = 420N
+## Tennis Serve
+How does the force applied by the racket to the ball change over time?
+![[Excalidraw/tennisforce.md]]
+## Impulse
+Forces causing acceleration are not always constant. To analyse these, we need to use the idea of the impulse of a force.
+#### Definition: The impulse of a fore
