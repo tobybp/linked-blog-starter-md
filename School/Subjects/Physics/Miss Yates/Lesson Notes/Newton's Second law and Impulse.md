@@ -61,3 +61,8 @@ A force is applied to a toy car with a mass 0.5kg. The force varies as shown.
 	b) 0.16 x 20 = (m+16) x 8 + 0.16 x -12
 	(m + 0.16) x 8 = 5.12
 	m = 0.48
+5) 0.5 x 0.4 x 18  = 3.6
+	3.6 / 0.045 = 80m/s
+6) The time taken for the driver to stop is more or distance travelled by the driver is greater 
+	F = ma
+	a decreases...
