@@ -15,7 +15,6 @@ The Planck constant can be determined from the gradient of the graph hc / e
 627 x 10^-9
 1.60217663 × 10^-19
 
-
 1.60217663 × 10^-19 x 1.12 = (h x 299792458) / 627 x 10^-9
 1.794437826 x 10^-19 = (h x 299792458) / 627 x 10^-9
 1.125112517 x 10^-25 = h x 299792458
@@ -23,3 +22,7 @@ The Planck constant can be determined from the gradient of the graph hc / e
 6.62607015×10^−34 - 3.752971386 x 10^-34 = 2.87309
 / constant = 0.4336...
 = 43.36%
+
+## Summary Questions
+1) a) Ve = hf
+	6.63 x 10 $^{-34}$ x 1.02 x 10$^{-14}$ = 
