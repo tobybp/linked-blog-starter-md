@@ -24,5 +24,8 @@ The Planck constant can be determined from the gradient of the graph hc / e
 = 43.36%
 
 ## Summary Questions
-1) a) Ve = hf
-	6.63 x 10 $^{-34}$ x 1.02 x 10$^{-14}$ = 
+1)  Ve = hf
+	a) 6.63 x 10 $^{-34}$ x 1.02 x 10$^{-14}$ = 6.7626 x 10$^{-20}$
+	b) 6.63 x 10 $^{-34}$ x 97 x 10$^{6}$ = 6.4311 x 10$^{-26}$
+	c) 6.63 x 10 $^{-34}$ x 6 x 10$^{14}$ = 3.978 x 10$^{-19}$
+2) The colours with a higher wavelength such as blu
