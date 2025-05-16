@@ -13,7 +13,7 @@
 ## Photoelectric Effect (background)
 - Max Planck has discovered a link between energy and frequency of electromagnetic energy in the late 1800's.
 - This gave rise to the equation:
-	E = hf (hence the Planck constant of proportionality)
+	==E = hf (hence the Planck constant of proportionality)==
 	Energy of electromagnetic radiation = Planck constant x Frequency
 	h = $6.63$ x $10^{-34}$Js
 ## The energy of a photon
