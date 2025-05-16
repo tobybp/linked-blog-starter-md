@@ -10,3 +10,5 @@ Expressing this in terms of the wavelength of the emitted photon λ gives:
 This equation can be used to find h using a single LED, but using a variety of different wavelength LEDs gives a more accurate value.
 We can plot a graph of V against 1/λ. The equation y = mx + c is equivalent of V = hc / λe
 The Planck constant can be determined from the gradient of the graph hc / e
+1.12
+299792458
