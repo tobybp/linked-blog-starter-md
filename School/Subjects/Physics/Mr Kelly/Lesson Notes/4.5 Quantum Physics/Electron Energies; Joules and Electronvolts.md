@@ -23,6 +23,10 @@ Work done on electron W:
 #### Einstein's Theory
 - A **photon** (particle) of light is absorbed by the **surface** of the metal plate
 - The **energy** carried by this **photon** is determined by E = hf
-- ### **One surface electron absorbs one photon (one-to-one interaction)**
+- #### **One surface electron absorbs one photon (one-to-one interaction)**
 - If the **incident** energy is sufficient, the electron is **liberated** (leaves the surface)
 - This energy is known as the **workfunction energy φ**
+- E > φ = KEₘₐₓ of the ejected electron
+- The ejected electron is known as a **photoelectron**
+### Questions
+	- What 
