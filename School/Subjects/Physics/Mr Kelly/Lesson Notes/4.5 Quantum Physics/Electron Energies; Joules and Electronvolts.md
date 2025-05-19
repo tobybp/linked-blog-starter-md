@@ -29,11 +29,21 @@ Work done on electron W:
 - E > φ = KEₘₐₓ of the ejected electron
 - The ejected electron is known as a **photoelectron**
 ### Questions
-- What if E = φ or E < φ? 
+- ##### What if E = φ or E < φ? 
 	
-- Intensity; increasing the no. of photons increases energy?
+- ##### Intensity; increasing the no. of photons increases energy?
 	No, the energy of the photon is depicted by E = hf
 	The intensity is only affecting the number of photons.
-- Metal surface?
-- Type of metal?
-- Why UV and not visible light?
+- ##### Metal surface?
+- ##### Type of metal?
+	The workfunction energy depends on the type of metal.
+- ##### Why UV and not visible light?
+	Because with visible light the energy is less than the workfunction energy.
+## The Photoeletric Equation
+The photoelectric equation describes the energy changes and the "quantised" energy of photons during the photoelectric effect.
+Incident photon energy, E = hf = hc/λ
+Energy is ALWAYS conserved.
+Therefore, hf = φ + 1/2mv$^2$ₘₐₓ = φ = KEₘₐₓ
+where:
+	φ = workfunction energy = the minimum energy required to liberate an electron from the surface of a metal
+	1/2mv$^2$ = kinetic energy of the liberated system.
