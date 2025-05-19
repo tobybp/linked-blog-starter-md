@@ -14,6 +14,9 @@ Work done on electron W:
 	W = 1 electron volt = 1.6 x 10$^{-19}$J
 
 ![[Excalidraw/tubelectrons.md|700]]
+
+---
+
 ## Photoelectric Effect
 #### Observations
 - White light seems to have no effect, either the frequency or intensity
@@ -39,11 +42,13 @@ Work done on electron W:
 	The workfunction energy depends on the type of metal.
 - ##### Why UV and not visible light?
 	Because with visible light the energy is less than the workfunction energy.
+
+---
 ## The Photoeletric Equation
-The photoelectric equation describes the energy changes and the "quantised" energy of photons during the photoelectric effect.
+The photoelectric equation describes the energy changes and the "**quantised**" energy of **photons** during the **photoelectric** effect.
 Incident photon energy, E = hf = hc/λ
 Energy is ALWAYS conserved.
 Therefore, hf = φ + 1/2mv$^2$ₘₐₓ = φ = KEₘₐₓ
 where:
-	φ = workfunction energy = the minimum energy required to liberate an electron from the surface of a metal
+	**φ = workfunction energy** = the **minimum** energy required to **liberate** an electron from the **surface** of a metal
 	1/2mv$^2$ = kinetic energy of the liberated system.
