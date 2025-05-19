@@ -35,4 +35,17 @@ The Planck constant can be determined from the gradient of the graph hc / e
 	b) 3.3x10$^{-14}$ / 1.6 x 10$^{-19}$
 	= 2 x 10$^5$
 	c) 600nJ -> 600 x 10$^{-9}$ / 1.6 x 10$^{-19}$
-	= 3.75 x 10
+	= 3.75 x 10$^{12}$
+5) 
+h = c
+
+| Radio    | 3x10^8 /  |     |
+| -------- | --------- | --- |
+| Infrared |           |     |
+| Red      |           |     |
+| Green    |           |     |
+| Blue     |           |     |
+| UV       |           |     |
+| X-Ray    |           |     |
+| Gamma    |           |     |
+6) 
