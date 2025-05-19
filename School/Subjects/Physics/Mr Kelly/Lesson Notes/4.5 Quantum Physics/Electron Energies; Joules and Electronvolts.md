@@ -29,4 +29,11 @@ Work done on electron W:
 - E > φ = KEₘₐₓ of the ejected electron
 - The ejected electron is known as a **photoelectron**
 ### Questions
-	- What 
+- What if E = φ or E < φ? 
+	
+- Intensity; increasing the no. of photons increases energy?
+	No, the energy of the photon is depicted by E = hf
+	The intensity is only affecting the number of photons.
+- Metal surface?
+- Type of metal?
+- Why UV and not visible light?
