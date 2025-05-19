@@ -30,4 +30,9 @@ The Planck constant can be determined from the gradient of the graph hc / e
 	c) 6.63 x 10 $^{-34}$ x 6 x 10$^{14}$ = 3.978 x 10$^{-19}$
 2) The colours blue and indigo would have the highest energy due to having the longest wavelength
 3) 3.32 x 10$^{-18}$ / 6.63 x 10 $^{-34}$  = 5 x 10$^{15}$ 
-4) a) 
+4) a) 1/ 1.6 x 10^-19
+	= 6.25 x 10$^{18}$
+	b) 3.3x10$^{-14}$ / 1.6 x 10$^{-19}$
+	= 2 x 10$^5$
+	c) 600nJ -> 600 x 10$^{-9}$ / 1.6 x 10$^{-19}$
+	= 3.75 x 10

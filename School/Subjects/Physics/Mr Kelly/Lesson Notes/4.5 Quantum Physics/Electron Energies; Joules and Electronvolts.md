@@ -53,4 +53,5 @@ where:
 	**φ = workfunction energy** = the **minimum** energy required to **liberate** an electron from the **surface** of a metal
 	1/2mv$^2$ = kinetic energy of the liberated system.
 
-A minimum frequency is required to overcome the workfunction eergy, This is known as the **threshold frequency
+A minimum frequency is required to overcome the workfunction energy, This is known as the **threshold frequency, fₒ**.
+Any excess energy given by the photons is given to the electrons as KE, hence KEₘₐₓ
