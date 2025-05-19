@@ -22,7 +22,6 @@ The Planck constant can be determined from the gradient of the graph hc / e
 6.62607015×10^−34 - 3.752971386 x 10^-34 = 2.87309
 / constant = 0.4336...
 = 43.36%
-
 ## Summary Questions
 1)  Ve = hf
 	a) 6.63 x 10 $^{-34}$ x 1.02 x 10$^{-14}$ = 6.7626 x 10$^{-20}$
@@ -37,15 +36,14 @@ The Planck constant can be determined from the gradient of the graph hc / e
 	c) 600nJ -> 600 x 10$^{-9}$ / 1.6 x 10$^{-19}$
 	= 3.75 x 10$^{12}$
 5) 
-h = c
 
-| Radio    | 3x10^8 /  |     |
-| -------- | --------- | --- |
-| Infrared |           |     |
-| Red      |           |     |
-| Green    |           |     |
-| Blue     |           |     |
-| UV       |           |     |
-| X-Ray    |           |     |
-| Gamma    |           |     |
+| Radio    | 3x10^8 / 31             |     |
+| -------- | ----------------------- | --- |
+| Infrared | 3x10^8 / 1.2 x 10$^-5$  |     |
+| Red      | 3x10^8 / 6.6 x 10$^-7$  |     |
+| Green    | 3x10^8 / 5.4 x 10$^-7$  |     |
+| Blue     | 3x10^8 / 4.6 x 10$^-7$  |     |
+| UV       | 3x10^8 / 2.1 x 10$^-7$  |     |
+| X-Ray    | 3x10^8 / 1.2 x 10$^-9$  |     |
+| Gamma    | 3x10^8 / 8.3 x 10$^-13$ |     |
 6) 
