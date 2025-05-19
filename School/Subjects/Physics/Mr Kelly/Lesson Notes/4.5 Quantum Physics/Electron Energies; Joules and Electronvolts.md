@@ -9,3 +9,9 @@ From the definition for p.d (the work done per unit charge) we could say that:
 work done = charge x potential difference
 W = q x V
 
+Work done on electron W:
+	W = qV = (1.6 x 10$^{-19}$C)(1 J/C)
+	W = 1 electron volt = 1.6 x 10$^{-19}$J
+
+![[Excalidraw/tubelectrons.md|700]]
+## 
