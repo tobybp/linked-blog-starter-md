@@ -52,3 +52,5 @@ Therefore, hf = φ + 1/2mv$^2$ₘₐₓ = φ = KEₘₐₓ
 where:
 	**φ = workfunction energy** = the **minimum** energy required to **liberate** an electron from the **surface** of a metal
 	1/2mv$^2$ = kinetic energy of the liberated system.
+
+A minimum frequency is required to overcome the workfunction eergy, This is known as the **threshold frequency
