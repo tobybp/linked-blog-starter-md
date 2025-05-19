@@ -21,6 +21,8 @@ Work done on electron W:
 - Particle model of light theorised
 - leads to the photoelectric equation
 #### Einstein's Theory
- - A **photon** (particle) of light is absorbed by the **surface** of the metal plate
- - The **energy** carried by this **photon** is determined by E = hf
- - **One surface electron absorbs one photon (one-to-one interaction)**
+- A **photon** (particle) of light is absorbed by the **surface** of the metal plate
+- The **energy** carried by this **photon** is determined by E = hf
+- ### **One surface electron absorbs one photon (one-to-one interaction)**
+- If the **incident** energy is sufficient, the electron is **liberated** (leaves the surface)
+- This energy is known as the **workfunction energy φ**
