@@ -1,4 +1,4 @@
-[[Physics]]
+ [[Physics]]
 #16/4/25
 ![[Pasted image 20250516145435.png|400]]
 ### LEDs and the Planck Constant
