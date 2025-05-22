@@ -1,1 +1,1 @@
-![[Excalidraw/ExpLogs.md]]
+![[ExpLogs]]

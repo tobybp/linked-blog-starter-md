@@ -31,7 +31,7 @@ What is the net force on a dummy of 4.5kg travelling at 15m/s in a test crash, i
 	F = 420N
 ## Tennis Serve
 How does the force applied by the racket to the ball change over time?
-![[Excalidraw/tennisforce.md]]
+![[tennisforce]]
 ## Impulse
 Forces causing acceleration are not always constant. To analyse these, we need to use the idea of the impulse of a force.
 ##### Definition: The impulse of a force is the product of the force and the time for which the force is applied (impulse = F x ∆t)
@@ -49,7 +49,7 @@ A force is applied to a toy car with a mass 0.5kg. The force varies as shown.
 	v = 40m/s
 
 #### Without airbag vs with airbag
-![[Excalidraw/airbagnoairbag.md|700]]
+![[airbagnoairbag|700]]
 ## Exam Questions
 1) (10 x 45)/2 + 70 x 45 + (20 x 45)/2 = 3825kgm/s / 1000 -> seconds = 3.825kgm/s
 	= B
