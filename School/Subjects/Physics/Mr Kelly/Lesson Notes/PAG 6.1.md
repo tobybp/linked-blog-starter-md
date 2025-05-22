@@ -9,5 +9,5 @@
 | Red    | 1.47    |
 | Orange | 1.57    |
 | Yellow | 1.55    |
-| Green  |         |
-| Blue   |         |
+| Green  | 1.66    |
+| Blue   | 2.19    |
