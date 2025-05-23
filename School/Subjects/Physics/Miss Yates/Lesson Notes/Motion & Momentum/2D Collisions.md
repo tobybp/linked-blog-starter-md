@@ -21,3 +21,7 @@ v = -0.8 m/s
 	sqrt(1.6$^2$ - 0.6$^2$) = 1.5
 	1.5 / 0.2 = 7.5
 ![[Excalidraw/ballsdiagram.md|700]]
+### Challenge Question
+x direction: total initial momentum = total final momentum
+
+y direction: total initial momentum = total final momentum
