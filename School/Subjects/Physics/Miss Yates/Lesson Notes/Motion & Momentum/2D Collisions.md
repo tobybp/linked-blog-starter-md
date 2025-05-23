@@ -29,4 +29,5 @@ y direction: total initial momentum = total final momentum
 (1.5 x -12sin30) + (0.5 x 60sin45)
 Energy conservation
 (1/2 x 1.5 x 12$^2$) + (1/2 x 0.5 x 60$^2$) = (1/2 x 1.5 x 30$^2$) + (1/2 x 1/2 x V$^2$B)
+1332 = V$^2$b
 Vb = 36..5
