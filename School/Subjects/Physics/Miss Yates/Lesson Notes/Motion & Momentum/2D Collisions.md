@@ -25,4 +25,8 @@ v = -0.8 m/s
 x direction: total initial momentum = total final momentum
 1.5 x cos30 x 12 + cos45 x 60 x 1/2 = 31.6 = cos(angleA) + cos(angleB) x Vb
 y direction: total initial momentum = total final momentum
-12.21 = 45sin(angleA) - 0.5Vb x sin(angleB) = (1/5 x -30sin(angleA)) + (0.5 x Vb x sin)
+12.21 = 45sin(angleA) - 0.5Vb x sin(angleB) = (1/5 x -30sin(angleA)) + (0.5 x Vb x sin(angleB))
+(1.5 x -12sin30) + (0.5 x 60sin45)
+Energy conservation
+(1/2 x 1.5 x 12$^2$) + (1/2 x 0.5 x 60$^2$) = (1/2 x 1.5 x 30$^2$) + (1/2 x 1/2 x V$^2$B)
+Vb = 36..5
