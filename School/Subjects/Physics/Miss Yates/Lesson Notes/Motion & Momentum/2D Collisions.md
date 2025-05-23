@@ -23,5 +23,6 @@ v = -0.8 m/s
 ![[Excalidraw/ballsdiagram.md|700]]
 ### Challenge Question
 x direction: total initial momentum = total final momentum
-
+1.5 x cos30 x 12 + cos45 x 60 x 1/2 = 31.6 = cos(angleA) + cos(angleB) x Vb
 y direction: total initial momentum = total final momentum
+12.21 = 45sin(angleA) - 0.5Vb x sin(angleB) = (1/5 x -30sin(angleA)) + (0.5 x Vb x sin)
