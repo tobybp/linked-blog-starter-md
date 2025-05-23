@@ -18,4 +18,6 @@ v = -0.8 m/s
 3) Calculate magnitude of p1:
 	p1 = mv = 0.2 x 3 = 0.6 kgm/s
 4) Use Pythagoras' theorem to solve for p2 and the speed of ball B:
-	
+	sqrt(1.6$^2$ - 0.6$^2$) = 1.5
+	1.5 / 0.2 = 7.5
+![[Excalidraw/ballsdiagram.md|700]]
