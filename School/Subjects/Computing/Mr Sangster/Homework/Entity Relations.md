@@ -57,33 +57,24 @@ Subscription (subID, startDate, endDate, custID, productID)
 ### **Database Structure**
 
 - A **relation** is a table.
-
+- Rows = Records
 - Columns = Fields/Attributes
-    
 - Use prefix `tbl` for table names (e.g., `tblCustomer`, `tblProduct`)
-    
 
 ---
 
 ### **Handling Many-to-Many Relationships**
 
 - Cannot be implemented directly in tables.
-    
 - Require a **link table** (e.g. `Subscription`) containing foreign keys:
-    
-    plaintext
-    
-    CopyEdit
-    
-    `Subscription (subID, startDate, endDate, custID, productID)`
-    
+```
+Subscription (subID, startDate, endDate, custID, productID)
+```
 
 ---
 
 ### **Best Practices**
 
 - Always identify entities before designing a database.
-    
 - Avoid multiple fields (like `ProdID1`, `ProdID2`, etc.) for the same relationship.
-    
 - Use ERDs to clearly visualize relationships.
