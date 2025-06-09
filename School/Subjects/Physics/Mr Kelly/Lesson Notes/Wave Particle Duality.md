@@ -21,4 +21,8 @@
 - de Broglie stated that all particles have an associated wavelength which can be calculated using the relationship:
 	- λ ∝ 1/P
 	- λ = h/p
-	- gives λ = h / mv
+	- gives λ = h / mv      v = E/Q      Ek = QV     = eV     = 1.6 x 10$^{-19}$ x 2600 Ek = 4.16 x 10$^{-16}$
+	- λ = de Broglie wavelength
+	- h = Planck constant
+	- p = momentum
+	- 
