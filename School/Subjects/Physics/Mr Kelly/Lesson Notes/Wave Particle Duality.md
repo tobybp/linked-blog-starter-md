@@ -10,3 +10,9 @@
 	- They can be accelerated by potential differences.
 - Electrons are waves
 	- If they diffract
+## The Electron Gun
+- hot cathode produces electrons due to thermionic emission
+- Electron accelerated in vacuum tube by applying a p.d between cathode (-) an anode (+)
+- Electrons pass through the carbon  and diffract. 
+- The spacing between the carbon lattice acts as a diffraction grating
+- The diffraction "rings" on the screen are a 3D diffraction pattern, similar to what we have seen with a LASER.
