@@ -16,3 +16,4 @@
 - Electrons pass through the carbon  and diffract. 
 - The spacing between the carbon lattice acts as a diffraction grating
 - The diffraction "rings" on the screen are a 3D diffraction pattern, similar to what we have seen with a LASER.
+- de Broglie suggested that it would appear that electrons do fit in with the wave behaviour as explained by Young. Therefore electrons have a wave nature even though they are particles.
