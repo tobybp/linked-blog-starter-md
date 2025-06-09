@@ -39,4 +39,4 @@ u = 6.63 x 10$^{-34}$ / 1x78 = 8.5 x 10$^{-36}$
 
 ## Yellow sheet extra Qs
 1c) Calculate the momentum of these photons: 1.05 x 10$^{-27}$
-5c) Calulate the de Broglie wavelength of an electron travelling at this speed: 6.63 x 10
+5c) Calulate the de Broglie wavelength of an electron travelling at this speed: 6.63 x 10$^{-34}$ / 9.11 x 10$^{-31}$ x 
