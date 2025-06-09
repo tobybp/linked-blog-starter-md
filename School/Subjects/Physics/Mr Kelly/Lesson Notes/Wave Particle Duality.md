@@ -36,3 +36,6 @@
 λ = h / mv = 6.63 x 10$^{-34}$ / 78 x u
 λ = 1m
 u = 6.63 x 10$^{-34}$ / 1x78 = 8.5 x 10$^{-36}$
+
+## Yellow sheet extra Qs
+1c) Calculate the momentum of these photons:
