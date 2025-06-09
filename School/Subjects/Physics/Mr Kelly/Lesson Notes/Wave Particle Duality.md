@@ -25,4 +25,9 @@
 	- λ = de Broglie wavelength
 	- h = Planck constant
 	- p = momentum
-	- 
+- Ek = 1/2mv$^2$
+- v = sqrt(Ek / 1/2m)
+- = sqrt(2Ek / m)
+- = sqrt(2 x 4.16 x 10$^{-16}$ / 9.11 x 10$^{-31}$) 
+- 3.02 x 10$^{7}$m/s
+6.63 x 10$^{-34}$ / 9.11 x 10$^{-31}$ x 3.02 x 10$^{7}$
