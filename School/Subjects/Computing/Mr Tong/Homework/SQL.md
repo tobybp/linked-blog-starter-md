@@ -10,7 +10,6 @@
         - Integration with other programming languages.
 
 ---
-
 ## 🔍 **SQL Syntax: SELECT…FROM…WHERE…ORDER BY**
 
 - **SELECT**: Choose the fields to display.
@@ -36,7 +35,6 @@ ORDER BY price DESC, productName ASC;
 ```
 
 ---
-
 ## **Using Wildcards**
 
 - **Asterisk (*)**: Selects all fields.
@@ -51,7 +49,6 @@ LIKE "Comp*";
 _(Finds subjects starting with "Comp")_
 
 ---
-
 ## **Operators in the WHERE Clause**
 - Comparison Operators:
     - `=`, `<>` (not equal), `>`, `<`, `>=`, `<=`
@@ -82,29 +79,20 @@ WHERE tblSubscription.custID = tblCustomer.custID
 AND tblSubscription.productID = tblProduct.productID;
 ```
 
-
-- **Note:** Table names must prefix field names when the same field name exists in multiple tables.
-    
-
 ---
-
-## 🔁 **Using the JOIN Keyword**
+## **Using the JOIN Keyword**
 
 - JOIN is an alternative to the WHERE clause for linking tables.
-    
 - Example:
-    
-
-sql
-
-CopyEdit
-
-`SELECT tblPlayer.surname, tblPlayer.firstname, tblTeam.teamName FROM tblTeam JOIN tblPlayer ON tblTeam.teamID = tblPlayer.teamID WHERE tblTeam.teamName = "Binham";`
+```SQL
+SELECT tblPlayer.surname, tblPlayer.firstname, tblTeam.teamName 
+FROM tblTeam 
+JOIN tblPlayer ON tblTeam.teamID = tblPlayer.teamID 
+WHERE tblTeam.teamName = "Binham";
+```
 
 ---
-
-## ⚡ **Important SQL Notes**
+## **SQL Notes**
 
 - Some databases require **semicolon (;)** at the end of SQL statements.
-    
 - Semicolons **separate** SQL statements (not used at the end of each line).
