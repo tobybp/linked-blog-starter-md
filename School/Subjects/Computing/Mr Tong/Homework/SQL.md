@@ -18,99 +18,70 @@
 - **WHERE**: Apply search criteria.
 - **ORDER BY**: Sort the results (ascending by default, descending with `DESC`).
 ### Example:
-
 ```SQL
-SELECT productID, productName, subject, price FROM tblProduct WHERE level = 4 ORDER BY productName;
+SELECT productID, productName, subject, price 
+FROM tblProduct 
+WHERE level = 4 
+ORDER BY productName;
 ```
 
-
 ---
-
-## 🔢 **Ordering Results**
-
+## **Ordering Results**
 - Use `ORDER BY` to sort results:
-    
     - Default: Ascending (ASC)
-        
     - To sort in descending order: `DESC`
-        
-
 ### Example:
-
-sql
-
-CopyEdit
-
-`ORDER BY price DESC, productName ASC;`
+```SQL
+ORDER BY price DESC, productName ASC;
+```
 
 ---
 
-## ✨ **Using Wildcards**
+## **Using Wildcards**
 
 - **Asterisk (*)**: Selects all fields.
-    
 - **LIKE**: Used to search for patterns.
-    
 - Example:
-    
-
-sql
-
-CopyEdit
-
-`SELECT * FROM tblProduct WHERE subject LIKE "Comp*";`
-
+```SQL
+SELECT * 
+FROM tblProduct 
+WHERE subject 
+LIKE "Comp*";
+```
 _(Finds subjects starting with "Comp")_
 
 ---
 
-## ⚙️ **Operators in the WHERE Clause**
-
+## **Operators in the WHERE Clause**
 - Comparison Operators:
-    
     - `=`, `<>` (not equal), `>`, `<`, `>=`, `<=`
-        
 - Logical Operators:
-    
     - `AND`, `OR`, `NOT`
-        
 - Range & List Operators:
-    
     - `BETWEEN`: Selects values within a range (inclusive)
-        
     - `IN`: Selects values that match any value in a list
-        
-
 ### Example:
-
-sql
-
-CopyEdit
-
-`SELECT * FROM tblProduct WHERE price BETWEEN 5.00 AND 10.00;`
+```SQL
+SELECT * 
+FROM tblProduct 
+WHERE price BETWEEN 5.00 AND 10.00;
+```
 
 ---
-
-## 🔗 **Using Multiple Tables**
-
+## **Using Multiple Tables**
 - Relational databases often require linking tables using key fields.
-    
 - **Example database:**
-    
     - `tblCustomer` (custID, firstname, surname, etc.)
-        
     - `tblSubscription` (subID, custID, productID, startDate, endDate)
-        
     - `tblProduct` (productID, productName, subject, price)
-        
-
 ### Example Query:
+```SQL
+SELECT tblCustomer.custID, surname, tblProduct.productID, productName 
+FROM tblCustomer, tblProduct, tblSubscription 
+WHERE tblSubscription.custID = tblCustomer.custID 
+AND tblSubscription.productID = tblProduct.productID;
+```
 
-sql
-
-CopyEdit
-
-`SELECT tblCustomer.custID, surname, tblProduct.productID, productName FROM tblCustomer, tblProduct, tblSubscription WHERE tblSubscription.custID = tblCustomer.custID AND tblSubscription.productID = tblProduct.productID;`
 
 - **Note:** Table names must prefix field names when the same field name exists in multiple tables.
     
