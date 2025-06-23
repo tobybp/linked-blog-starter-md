@@ -8,3 +8,4 @@
 - Because of the specific wavelengths that are emitted, this is evidence to suggest that in isolated atoms discrete energy levels`(quantum physics)`exist which the electrons are limited to be within.
 ### Electron Levels in Atoms
 ![[Excalidraw/Energyinatoms.md|700]]
+![[Excalidraw/energylevels.md|500]]
