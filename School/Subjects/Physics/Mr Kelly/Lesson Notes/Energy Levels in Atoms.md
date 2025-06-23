@@ -8,4 +8,14 @@
 - Because of the specific wavelengths that are emitted, this is evidence to suggest that in isolated atoms discrete energy levels`(quantum physics)`exist which the electrons are limited to be within.
 ### Electron Levels in Atoms
 ![[Excalidraw/Energyinatoms.md|700]]
-![[Excalidraw/energylevels.md|500]]
+![[Excalidraw/energylevels.md|700]]
+
+During the absorption or emission of a photon of energy:
+hf = hc / λ = E₂ - E₁
+Where:
+	hf = photon energy
+	E₂ = orbital energy after transition
+	E₁ = orbital energy before transition
+Positive values mean absorption of photon and negative mean emission of photon.
+
+16a) 
