@@ -1,4 +1,4 @@
-[[Computing]]
+ [[Computing]]
 #22/6/25
 ## **SQL Basics**
 
@@ -10,7 +10,7 @@
         - Integration with other programming languages.
 
 ---
-## 🔍 **SQL Syntax: SELECT…FROM…WHERE…ORDER BY**
+## **SQL Syntax: SELECT…FROM…WHERE…ORDER BY**
 
 - **SELECT**: Choose the fields to display.
 - **FROM**: Identify the table(s) where the data is stored.
