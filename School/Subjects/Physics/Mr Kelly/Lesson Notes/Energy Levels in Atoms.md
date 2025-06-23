@@ -7,3 +7,4 @@
 - Quantum theory suggests that this arrangement of light originates from the electrons in the atoms within the gas. The electrons gain energy due to the potential difference and then, moments later, irradiate it as an electromagnetic "wave" (proton).
 - Because of the specific wavelengths that are emitted, this is evidence to suggest that in isolated atoms discrete energy levels`(quantum physics)`exist which the electrons are limited to be within.
 ### Electron Levels in Atoms
+![[Excalidraw/Energyinatoms.md|700]]
