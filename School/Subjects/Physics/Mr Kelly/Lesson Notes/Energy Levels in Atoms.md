@@ -18,4 +18,5 @@ Where:
 	E₁ = orbital energy before transition
 Positive values mean absorption of photon and negative mean emission of photon.
 
-16a) 
+16a) They have discrete energy levels and colours of the rainbow
+b) 
