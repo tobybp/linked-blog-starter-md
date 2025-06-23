@@ -19,4 +19,11 @@ Where:
 Positive values mean absorption of photon and negative mean emission of photon.
 
 16a) They have discrete energy levels and colours of the rainbow
-b) 
+b) The emission spectrum will mirror the absorption.
+c) 
+
+| Type of Spectrum | Produced By |
+| ---------------- | ----------- |
+| Line             | Gas         |
+| Band             | Liquid      |
+|                  | Hot Solids  |
