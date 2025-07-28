@@ -25,3 +25,10 @@
 - red and white stripe markers when approaching a concealed level crossing
 - allowed to wait on yellow grid markings when turning right
 - urban clearway sign, no parking on days and times show
+- vehicle registration contains the registered keeper
+- when going straight on signal left before leaving the roundabout
+- Contact DVLA when you change your vehicle
+- waiting restrictions sign is blue with 1 red cross (circular)
+- lower speed limits for contraflow on a motorway
+- contraflow bus lanes found on 1 way streets
+- 
