@@ -31,4 +31,8 @@
 - waiting restrictions sign is blue with 1 red cross (circular)
 - lower speed limits for contraflow on a motorway
 - contraflow bus lanes found on 1 way streets
-- 
+- windsock warning sign means side winds
+- look for pedestrians when bus pulls into bus stop
+- tyre pressure check when tyres are cold
+- under 1.35metres use a child restraint (11 year old)
+- turning right onto a dual carriageway check central reservation is wide enough
