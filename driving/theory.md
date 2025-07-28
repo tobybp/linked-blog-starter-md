@@ -42,4 +42,7 @@
 - pull up on hard shoulder if you get a puncture on the motorway
 - third party only is minimum insurance cover
 - may wait in a box junction if traffic prevents you from turning right
+- lines in the middle of the road warn of hazards ahead
+- end sign means end of restriction
+- to supervise a learner, 3 years after pass and at least 21yrs
 - 
