@@ -2,3 +2,9 @@
 - In wet conditions, 4 second gap
 - puffin crossings are electronically controlled
 - toucan crossings allow for cyclists at same time as pedestrians
+- slow vehicle overtaking you, slow down
+- Only flash headlights to show others you're there
+- tyre tread must be at least 1.6mm deep across central 3/4
+- Illegal to drive with deep cuts in side walls
+- ABS warning light should go off at 5-10mph
+- 
