@@ -13,4 +13,7 @@
 - poor visibility use dipped lights
 - when leaving car on two way road, park in direction of traffic.
 	- if speed limit > 30, turn on parking lights
+- 70mph uses 15% more fuel than 50mph
+- in built up areas you must not use your horn between 11:30pm and 7am unless a danger
+- continuous high speeds increase breakdown risk
 - 
