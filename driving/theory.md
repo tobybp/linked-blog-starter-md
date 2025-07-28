@@ -36,3 +36,6 @@
 - tyre pressure check when tyres are cold
 - under 1.35metres use a child restraint (11 year old)
 - turning right onto a dual carriageway check central reservation is wide enough
+- under 14? you're responsible for seatbelts
+- red and yellow striped signs on HGVs
+- 
