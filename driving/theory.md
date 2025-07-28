@@ -1,1 +1,4 @@
-- 
+- In dry conditions, 2 second gap
+- In wet conditions, 4 second gap
+- puffin crossings are electronically controlled
+- toucan crossings allow for cyclists at same time as pedestrians
