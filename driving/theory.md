@@ -22,3 +22,6 @@
 - cyclists at roundabouts in left hand lanes could go anywhere
 - roof-rack reduces stability
 - patrol vehicle will flash headlights and point to the left for you to stop
+- red and white stripe markers when approaching a concealed level crossing
+- allowed to wait on yellow grid markings when turning right
+- urban clearway sign, no parking on days and times show
