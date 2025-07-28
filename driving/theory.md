@@ -9,3 +9,6 @@
 - ABS warning light should go off at 5-10mph
 - If no child restraint, use an adult seatbelt
 - deactivate airbag if using a rear-facing baby seat
+- fine for no seatbelt up to £500
+- poor visibility use dipped lights
+- when leaving car on two way road, park in direction of traffic
