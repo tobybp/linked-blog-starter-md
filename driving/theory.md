@@ -38,4 +38,8 @@
 - turning right onto a dual carriageway check central reservation is wide enough
 - under 14? you're responsible for seatbelts
 - red and yellow striped signs on HGVs
+- red circle = must not do
+- pull up on hard shoulder if you get a puncture on the motorway
+- third party only is minimum insurance cover
+- may wait in a box junction if traffic prevents you from turning right
 - 
