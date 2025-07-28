@@ -16,4 +16,9 @@
 - 70mph uses 15% more fuel than 50mph
 - in built up areas you must not use your horn between 11:30pm and 7am unless a danger
 - continuous high speeds increase breakdown risk
-- 
+- ask for drivers license if involved in a collision
+- nobody has priority when traffic lights are out of order
+- yellow school sign on back of school bus/coach
+- cyclists at roundabouts in left hand lanes could go anywhere
+- roof-rack reduces stability
+- patrol vehicle will flash headlights and point to the left for you to stop
