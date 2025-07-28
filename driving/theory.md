@@ -11,4 +11,6 @@
 - deactivate airbag if using a rear-facing baby seat
 - fine for no seatbelt up to £500
 - poor visibility use dipped lights
-- when leaving car on two way road, park in direction of traffic
+- when leaving car on two way road, park in direction of traffic.
+	- if speed limit > 30, turn on parking lights
+- 
