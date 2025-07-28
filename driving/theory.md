@@ -8,4 +8,4 @@
 - Illegal to drive with deep cuts in side walls
 - ABS warning light should go off at 5-10mph
 - If no child restraint, use an adult seatbelt
-- deactivate 
+- deactivate airbag if using a rear-facing baby seat
