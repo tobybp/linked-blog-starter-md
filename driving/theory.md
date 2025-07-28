@@ -7,4 +7,5 @@
 - tyre tread must be at least 1.6mm deep across central 3/4
 - Illegal to drive with deep cuts in side walls
 - ABS warning light should go off at 5-10mph
-- 
+- If no child restraint, use an adult seatbelt
+- deactivate 
