@@ -46,3 +46,4 @@
 - end sign means end of restriction
 - to supervise a learner, 3 years after pass and at least 21yrs
 - flashing amber lights warn its a slow vehicle
+- can park 10m from a junction
