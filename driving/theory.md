@@ -1,5 +1,6 @@
 - In dry conditions, 2 second gap
 - In wet conditions, 4 second gap
+- In icy conditions, 10 second gap
 - puffin crossings are electronically controlled
 - toucan crossings allow for cyclists at same time as pedestrians
 - slow vehicle overtaking you, slow down
@@ -16,12 +17,13 @@
 - 70mph uses 15% more fuel than 50mph
 - in built up areas you must not use your horn between 11:30pm and 7am unless a danger
 - continuous high speeds increase breakdown risk
-- ask for drivers license if involved in a collision
+- will ask for drivers license if involved in a collision
 - nobody has priority when traffic lights are out of order
 - yellow school sign on back of school bus/coach
 - cyclists at roundabouts in left hand lanes could go anywhere
+- they stay in left lane for safety
 - roof-rack reduces stability
-- patrol vehicle will flash headlights and point to the left for you to stop
+- patrol vehicle will flash headlights, indicate left and point to the left for you to stop
 - red and white stripe markers when approaching a concealed level crossing
 - allowed to wait on yellow grid markings when turning right
 - urban clearway sign, no parking on days and times show
