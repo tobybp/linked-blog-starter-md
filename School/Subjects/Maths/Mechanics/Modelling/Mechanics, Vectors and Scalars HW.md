@@ -20,20 +20,20 @@
 | Peg                     | A support from which a body is suspended; assumed to be dimensionless and fixed.                   |
 ## Fill in the Blanks
 
-| Quantity     | Vector or Scalar | Non-SI Units     | SI Units |
-| ------------ | ---------------- | ---------------- | -------- |
-| Mass         | Scalar           | 528g             |          |
-| Time         | Scalar           | 13 minutes       |          |
-| Displacement | Vector           | 28.3km           |          |
-| Speed        | Scalar           | 75cms$^{-1}$     |          |
-| Distance     | Vector           | 4.3x10$^{5}$mm   |          |
-| Velocity     | Vector           | 90kmh$^{-1}$     |          |
-| Acceleration | Vector           | 885cms$^{-2}$    |          |
-| Time         | Scalar           | 5h 18min         |          |
-| Speed        | Scalar           | 5.4m per minute  |          |
-| Distance     | Vector           | 7560mm           |          |
-| Velocity     | Vector           | -0.083kms$^{-1}$ |          |
-| Mass         | Scalar           | 39000mg          |          |
-| Volume       | Scalar           | 480000cm$^{3}$   |          |
-| Pressure     | Scalar           | 1.5Ncm$^{-2}$    |          |
-| Density      | Scalar           | 1.12gcm$^{-3}$   |          |
+| Quantity     | Vector or Scalar | Non-SI Units     | SI Units       |
+| ------------ | ---------------- | ---------------- | -------------- |
+| Mass         | Scalar           | 528g             | 0.528kg        |
+| Time         | Scalar           | 13 minutes       | 780s           |
+| Displacement | Vector           | 28.3km           | 28,300m        |
+| Speed        | Scalar           | 75cms$^{-1}$     | 0.75ms$^{-1}$  |
+| Distance     | Vector           | 4.3x10$^{5}$mm   | 43m            |
+| Velocity     | Vector           | 90kmh$^{-1}$     | 25ms$^{-1}$    |
+| Acceleration | Vector           | 885cms$^{-2}$    | 8.8ms$^{-1}$   |
+| Time         | Scalar           | 5h 18min         | 19080s         |
+| Speed        | Scalar           | 5.4m per minute  | 0.09ms$^{-1}$  |
+| Distance     | Vector           | 7560mm           | 7.56m          |
+| Velocity     | Vector           | -0.083kms$^{-1}$ | -83ms$^{-1}$   |
+| Mass         | Scalar           | 39000mg          | 0.039kg        |
+| Volume       | Scalar           | 480000cm$^{3}$   | 0.48m$^{3}$    |
+| Pressure     | Scalar           | 1.5Ncm$^{-2}$    | 15000Nm$^{-2}$ |
+| Density      | Scalar           | 1.12gcm$^{-3}$   | 1120kgm$^{-3}$ |
