@@ -40,5 +40,7 @@ To convert radians to degrees:
 The angular displacement (θ) is the angle that an object in circular motion has turned through.
 θ = 1 radian when the angle created when an object travels along an arc of distance s = r
 independent of the size of the circle.
-Anticlockwise displacement is +ve
-and a clock
+	Anticlockwise displacement is +ve
+	and a clockwise displacement is -ve.
+In terms of radians: θ = s/r
+There are 2π radians in a circle equivalent to 360º
