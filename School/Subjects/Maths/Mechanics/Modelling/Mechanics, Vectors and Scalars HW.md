@@ -29,7 +29,7 @@
 | Distance     | Vector           | 4.3x10$^{5}$mm |          |
 | Velocity     | Vector           | 90kmh$^{-1}$   |          |
 | Acceleration | Vector           | 885cms$^{-2}$  |          |
-| Time         | Scalar           |                |          |
+| Time         | Scalar           | 5h 18min       |          |
 | Speed        | Scalar           |                |          |
 | Distance     | Vector           |                |          |
 | Velocity     | Vector           |                |          |
