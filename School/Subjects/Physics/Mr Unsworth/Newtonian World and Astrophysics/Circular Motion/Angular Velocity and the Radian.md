@@ -44,3 +44,10 @@ independent of the size of the circle.
 	and a clockwise displacement is -ve.
 In terms of radians: θ = s/r
 There are 2π radians in a circle equivalent to 360º
+## Equations for ω
+When a body moves in a circular path of radius r, for a distance s.
+The angular velocity (ω) is the reate of change of angular displacement.
+Angular velocity:
+	ω = dθ/dt = θ/t
+If we now consider the case of a complete revolution
+	 The object will travel a total of 2π/TΩ
