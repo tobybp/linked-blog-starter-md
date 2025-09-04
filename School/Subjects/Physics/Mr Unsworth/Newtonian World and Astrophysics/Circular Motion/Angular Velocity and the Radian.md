@@ -18,4 +18,16 @@ There must therefore be a force acting on the object with a uniform magnitude.
 One radian is the angle subtended (angle moved through) by an arc equal to the radius of a circle.
 Circumference of a circle = 2πr
 **So there are 2π radians in 360º**
-![[Excalidraw/RAD.md]]
+![[Excalidraw/RAD.md|700]]
+Angle units:
+- Revolutions: 1 circle = 1 rev
+- Degrees: 1 circle = 360º
+- Radians: 1 circle = 2π
+**2π = 360º = 1 *rev***
+#### Questions:
+1) Convert 60º to radians
+	60(2π / 360)
+	= 1/3π
+2) Convert 2 revolutions to radians
+	2 x 2π
+	= 4π
