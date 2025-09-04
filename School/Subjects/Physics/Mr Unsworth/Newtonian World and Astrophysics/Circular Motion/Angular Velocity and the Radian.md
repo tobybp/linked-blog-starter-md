@@ -46,8 +46,11 @@ In terms of radians: θ = s/r
 There are 2π radians in a circle equivalent to 360º
 ## Equations for ω
 When a body moves in a circular path of radius r, for a distance s.
-The angular velocity (ω) is the reate of change of angular displacement.
+**The angular velocity (ω) is the rate of change of angular displacement.**
 Angular velocity:
 	ω = dθ/dt = θ/t
 If we now consider the case of a complete revolution
-	 The object will travel a total of 2π/TΩ
+	 The object will travel a total of 2π radians in period T with a unit of rads$^{-1}$
+		 ω = 2π/T 
+We also know that frequency (f) f = 1/T
+and substituting this back into above we obtain ω = 2πf
