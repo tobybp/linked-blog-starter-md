@@ -1,5 +1,6 @@
 `spec 5.2.1`
 #4/9/25 
+[[Physics]]
 
 "The centrifugal force is pushing them outwards causing them to fly off"
 **There is no such thing as "centrifugal force".**
@@ -11,3 +12,4 @@ In fact what you are feeling is the increase in centripetal force.
 ## Conditions for Circular Motion
 When a body travels in a circle, it must constantly change its direction. Its speed may be constant, but its velocity must continually change.
 If the velocity changes at a constant rate, then the body must be accelerating with a constant magnitude.
+There must therefore be a force acting on the object with a uniform magnitude.
