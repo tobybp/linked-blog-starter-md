@@ -31,3 +31,14 @@ Angle units:
 2) Convert 2 revolutions to radians
 	2 x 2π
 	= 4π
+### Conversion Factors
+To convert degrees to radians:
+	value of angle x π/180
+To convert radians to degrees:
+	value of radians x 180/π
+## Angular Displacement (θ)
+The angular displacement (θ) is the angle that an object in circular motion has turned through.
+θ = 1 radian when the angle created when an object travels along an arc of distance s = r
+independent of the size of the circle.
+Anticlockwise displacement is +ve
+and a clock
