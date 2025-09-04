@@ -20,20 +20,20 @@
 | Peg                     | A support from which a body is suspended; assumed to be dimensionless and fixed.                   |
 ## Fill in the Blanks
 
-| Quantity     | Vector or Scalar | Non-SI Units | SI Units |
-| ------------ | ---------------- | ------------ | -------- |
-| Mass         | ScalarScalar     |              |          |
-| Time         |                  |              |          |
-| Displacement | Scalar           |              |          |
-| Speed        | Scalar           |              |          |
-| Distance     |                  |              |          |
-| Velocity     |                  |              |          |
-| Acceleration |                  |              |          |
-| Time         | Scalar           |              |          |
-| Speed        | Scalar           |              |          |
-| Distance     |                  |              |          |
-| Velocity     |                  |              |          |
-| Mass         | Scalar           |              |          |
-| Volume       | Scalar           |              |          |
-| Pressure     | Scalar           |              |          |
-| Density      | Scalar           |              |          |
+| Quantity     | Vector or Scalar | Non-SI Units   | SI Units |
+| ------------ | ---------------- | -------------- | -------- |
+| Mass         | Scalar           | 528g           |          |
+| Time         | Scalar           | 13 minutes     |          |
+| Displacement | Vector           | 28.3km         |          |
+| Speed        | Scalar           | 75cms$^{-1}$   |          |
+| Distance     | Vector           | 4.3x10$^{5}$mm |          |
+| Velocity     | Vector           | 90kmh$^{-1}$   |          |
+| Acceleration | Vector           | 885cms$^{-2}$  |          |
+| Time         | Scalar           |                |          |
+| Speed        | Scalar           |                |          |
+| Distance     | Vector           |                |          |
+| Velocity     | Vector           |                |          |
+| Mass         | Scalar           |                |          |
+| Volume       | Scalar           |                |          |
+| Pressure     | Scalar           |                |          |
+| Density      | Scalar           |                |          |
