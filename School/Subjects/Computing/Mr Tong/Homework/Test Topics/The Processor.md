@@ -1,3 +1,4 @@
+[[Computing]]
 ## Central Processing Unit (CPU)
 - The CPU is similar to the human brain but it can't think for itself. 
 - Controls, calculates and executes all instructions in a computer
