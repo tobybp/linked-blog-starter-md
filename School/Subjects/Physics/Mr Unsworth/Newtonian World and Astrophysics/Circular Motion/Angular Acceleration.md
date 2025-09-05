@@ -21,4 +21,8 @@ or v = 2πrf`
 	ω = 2π / 3.2x10^7
 	ω = 1.96 x 10^-7
 	2)
-		v = rω = 1.5x10^11 x 2x10^-7 = 30kms
+		v = rω = 1.5x10^11 x 2x10^-7 = 30km/s
+## Centripetal Acceleration
+a = v$^2$/r this proof you do not need to know
+Consider an object moving at constant speed v, from
+a = rω$^2$
