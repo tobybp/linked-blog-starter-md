@@ -16,3 +16,9 @@ or v = 2πrf`
 	ω = θ/t = 640π / 2.4 = 838 rad/s
 	v = rω
 	v = 0.05 x 838 = 41.9m/s
+#### At what angular speed does the Earth orbit the sun? (Time taken for one revolution = 3.2x10$^7$s)
+	ω = 2π/T
+	ω = 2π / 3.2x10^7
+	ω = 1.96 x 10^-7
+	2)
+		v = rω = 1.5x10^11 x 2x10^-7 = 30kms
