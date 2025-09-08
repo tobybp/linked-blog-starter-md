@@ -12,4 +12,11 @@
 - Oh, and also the weak interaction (weak force)?
 ## Investigating Charge (rods)
 - What did you do?
+	Rub rods with cloth
+- What did you observe?
+	repulsion (same), attraction (opposite)
+	2 observations, therefore at least 2 types of charge
+ - What is happening?
+	Electrons transfer, lose electrons = +ve, gain electrons = -ve
+- Why?
 	
