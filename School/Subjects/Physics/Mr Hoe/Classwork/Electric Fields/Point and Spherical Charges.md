@@ -20,12 +20,14 @@
 	Electrons transfer, lose electrons = +ve, gain electrons = -ve
 - Why?
 	
-## Investigating Charge (balloon)
-"We al"
-- What did you do?
-	
-- What did you observe?
-	
- - What is happening?
-	
-- Why?
+### Investigating Charge (balloon)
+"We always think **positively**"
+### As a reminder...
+- There is an invisible stuff called **charge**
+- There is (at least) **two types** of charge
+- We already know **protons** are **positive**
+- We already know **electrons** are **negative**
+- We can **charge through friction**
+- This **causes electrons to move**
+- **Gaining** electrons -> becoming **negative**
+- **Losing** electrons -> becoming **positive**
