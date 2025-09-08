@@ -20,3 +20,12 @@
 	Electrons transfer, lose electrons = +ve, gain electrons = -ve
 - Why?
 	
+## Investigating Charge (balloon)
+"We al"
+- What did you do?
+	
+- What did you observe?
+	
+ - What is happening?
+	
+- Why?
