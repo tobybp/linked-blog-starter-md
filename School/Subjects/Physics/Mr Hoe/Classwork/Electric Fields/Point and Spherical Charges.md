@@ -10,3 +10,6 @@
 - All forces are derived from these fields
 - Except for the strong force
 - Oh, and also the weak interaction (weak force)?
+## Investigating Charge (rods)
+- What did you do?
+	
