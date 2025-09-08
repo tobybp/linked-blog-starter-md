@@ -31,3 +31,14 @@
 - This **causes electrons to move**
 - **Gaining** electrons -> becoming **negative**
 - **Losing** electrons -> becoming **positive**
+## Electric Field around a Point Charge
+- Evenly spread out angles
+- Closer together lines means a stronger field (more field strength)
+- Outward direction
+- Symmetrical
+- Radial
+- Field lines perpendicular to surface
+- Uniform angular spacing
+## What is an electric field?
+### Definition: a region of space where a charged object experiences a force
+- Produced by a charged 
