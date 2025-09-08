@@ -4,7 +4,7 @@
 - A region of space
 - Where you can experience a force
 - If you have the right property
-- Electric -> ;charge
+- Electric -> charge
 - Gravitational -> mass
 - Magnetic -> magnetic properties
 - All forces are derived from these fields
