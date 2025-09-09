@@ -16,3 +16,4 @@ we also obtain F = (mr$^2$ω$^2$) / r    =    mrω$^2$
 How fast must a roller coaster go through a 25 meter radius vertical loop in order to maintain a constant centripetal acceleration of 1g?
 	a = v$^2$/r 
 	with a = 9.81ms$^{-2}$ and r = 25m v = √(25m x 9.81ms$^{-2}$) = 15.7ms$^{-1}$
+67
