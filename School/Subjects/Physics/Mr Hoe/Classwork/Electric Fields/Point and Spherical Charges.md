@@ -46,3 +46,4 @@
 - Direction -> effect on positive charge
 
 ## Bouncing Sphere
+Insulated sphere of aluminium foil, Positive plate on the left, negative on the right. Pushes to the left, gets repelled. Hits the plate on the right and gains electrons, becomes negatively charged and is attracted to the left, and repelled from the right. Hits the plate on the left and vice versa.
