@@ -5,7 +5,6 @@ b) What is the angular velocity of Earth? = 7.3 x 10$^{-5}$ rad s$^{-1}$
 c) Given that Earth has a radius of 6.4 x 10$^6$m at its equator, what is the linear velocity at Earth's surface? = 467ms$^{-1}$
 `Centrifugal force does not exist on its own
 `Centrifugal is an "apparent force"
-
 ## Equations for Centripetal Force
 Using F = ma
 by substituting for a by using **a = v$^2$ / r**
