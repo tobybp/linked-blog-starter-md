@@ -8,9 +8,12 @@ c) Given that Earth has a radius of 6.4 x 10$^6$m at its equator, what is the li
 
 ## Equations for Centripetal Force
 Using F = ma
-by substituting for a by using a = v$^2$ / r
-we obtain F = mv$^2$ / r
+by substituting for a by using **a = v$^2$ / r**
+we obtain **F = mv$^2$ / r**
 now substituting for v using v = rω
 we also obtain F = (mr$^2$ω$^2$) / r    =    mrω$^2$
 ## Centripetal Force and Acceleration
-How fast must a roller coaster go through a 25 meter radius vertical loop in order to maintain a constant centripetal acceleration of 1g
+How fast must a roller coaster go through a 25 meter radius vertical loop in order to maintain a constant centripetal acceleration of 1g?
+	a = v$^2$/r 
+	with a = 9.81ms$^{-2}$ and r = 25m v = √(25m x 9.81ms$^{-2}$) = 15.7ms$^{-1}$
+
