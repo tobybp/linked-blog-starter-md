@@ -17,3 +17,4 @@ How fast must a roller coaster go through a 25 meter radius vertical loop in ord
 	a = v$^2$/r 
 	with a = 9.81ms$^{-2}$ and r = 25m v = √(25m x 9.81ms$^{-2}$) = 15.7ms$^{-1}$
 
+skibidi
