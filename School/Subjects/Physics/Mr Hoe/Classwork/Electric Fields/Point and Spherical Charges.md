@@ -19,7 +19,6 @@
  - What is happening?
 	Electrons transfer, lose electrons = +ve, gain electrons = -ve
 - Why?
-	
 ### Investigating Charge (balloon)
 "We always think **positively**"
 ### As a reminder...
