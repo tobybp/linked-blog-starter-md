@@ -1,0 +1,2 @@
+[[Maths]]
+![[Excalidraw/whiteboard.md]]
