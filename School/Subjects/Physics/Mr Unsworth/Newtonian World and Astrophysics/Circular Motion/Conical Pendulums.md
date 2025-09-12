@@ -18,4 +18,10 @@ The bob is rotated in a horizontal circle with the string at 30 degrees to the v
 asdf
 	v$^2$ = rgtanθ
 	v$^2$ = 0.3 x 9.81 x tan30
-	v$^2$ = 1.6991
+	v$^2$ = 1.6991...
+	v = 1.3035... ms$^{-1}$ (3sf)
+asdf
+	F = mv$^2$ / r = Tsinθ
+	F = 1 x 1.3035...$^2$ / 0.3
+	F = 5.6638...N
+	F = 5.66N (3sf)
