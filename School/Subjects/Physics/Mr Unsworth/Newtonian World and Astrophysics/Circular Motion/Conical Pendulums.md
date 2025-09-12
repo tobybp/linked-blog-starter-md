@@ -31,3 +31,6 @@ car
 	v = 26.1948
 	v = 26m/s 
 	about 94km/h
+## Vertical Circular Motion - Mass on String
+A body that is in circular motion in the vertical plane also has a centripetal force to cause the change in velocity, but the weight of the body has difffering effects depending upon its position.
+Consider 
