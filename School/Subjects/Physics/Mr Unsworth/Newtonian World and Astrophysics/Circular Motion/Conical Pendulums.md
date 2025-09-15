@@ -1,6 +1,6 @@
 [[Physics]]
 #12/9/25
-![[Excalidraw/conicalpendulum.md]]
+![[conicalpendulum]]
 ## v$^2$ = rgTanθ
 ### v$^2$ ∝ tanθ
 

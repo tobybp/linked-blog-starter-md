@@ -1,2 +1,2 @@
 [[Maths]]
-![[Excalidraw/whiteboard.md]]
+![[Backup/Excalidraw/whiteboard]]
