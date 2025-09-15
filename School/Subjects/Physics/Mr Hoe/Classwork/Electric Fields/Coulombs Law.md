@@ -23,3 +23,18 @@ As a general concept, field strength is the force per unit property...
 Electric field strength is therefore the force per unit charge.
 - Whose field?
 - Whose charge?
+![[Excalidraw/coulombdiagram2.md]]
+
+## Comparing Fields
+### Newton's law of gravitation \[formula]
+### F = GMm/r$^2$ 
+Where:
+	F = force / N
+	G = universal gravitational constant / Nm$^2$kg$^{-2}$
+	M and m = mass / kg
+	r = separation (between centres) / m
+## Electric vs Gravitational fields (force)
+
+| Simi |     |
+| ---- | --- |
+|      |     |
