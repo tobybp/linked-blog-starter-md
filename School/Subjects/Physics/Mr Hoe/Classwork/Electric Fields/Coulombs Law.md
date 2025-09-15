@@ -1,4 +1,6 @@
-	#### F = 1/4πε₀Qq/r$^2$
+[[Physics]]
+#15/9/25
+#### F = 1/4πε₀Qq/r$^2$
 #### F = (1 / 4πε₀) x (Qq / r$^2$)
 Where:
 F = force/N
@@ -35,6 +37,8 @@ Where:
 	r = separation (between centres) / m
 ## Electric vs Gravitational fields (force)
 
-| Simi |     |
-| ---- | --- |
-|      |     |
+| Similarities                                     | Differences                  |
+| ------------------------------------------------ | ---------------------------- |
+| 1/4πε₀ same role as G                            | Charge or mass               |
+| Both inverse square laws                         | Electric - attract and repel |
+| Directly proportional to the product of property | Gravitational - attract only |
