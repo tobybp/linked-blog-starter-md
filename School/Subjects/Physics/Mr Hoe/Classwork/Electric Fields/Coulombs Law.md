@@ -13,5 +13,5 @@ Directly proportional to the product of the charges.
 - Being in air, the value is not significantly different
 - In other materials, it is!
 - This will be important to consider for "capacitors", something for another day
-- SI unit is Fm$^{-1}$
-- 
+- SI unit is Fm$^{-1}$ `Farads per m`
+
