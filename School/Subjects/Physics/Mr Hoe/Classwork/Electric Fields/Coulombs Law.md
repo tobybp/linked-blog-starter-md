@@ -15,3 +15,4 @@ Directly proportional to the product of the charges.
 - This will be important to consider for "capacitors", something for another day
 - SI unit is Fm$^{-1}$ `Farads per m`
 
+![[Excalidraw/coulombdiagram.md]]
