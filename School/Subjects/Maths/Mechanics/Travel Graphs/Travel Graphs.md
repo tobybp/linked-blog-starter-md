@@ -15,3 +15,6 @@ Average velocity = -250 / (9.5 x 600) = -0.4385964912m/s = -0.439m/s
 Gradient = change in velocity = acceleration
 Area = displacement
 Horizontal Line = Constant velocity
+
+When a local train leaves a station it accelerates at a uniform rate of 3ms$^{-2}$ to its maximum speed of 60ms$^{-1}$. It then maintains this speed for 2 minutes before slowing down uniformly to a halt at the next station. The whole journey takes 3 minutes.
+a) Sketch a distance-time graph for the journey.
