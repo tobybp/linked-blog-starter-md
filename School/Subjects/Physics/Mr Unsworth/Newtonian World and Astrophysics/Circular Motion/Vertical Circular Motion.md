@@ -31,4 +31,10 @@ Fn = mv$^2$ / r - mg
 ### Centripetal Force and Planets
 -Looking from "above" on planet Earth.
 ![[Excalidraw/earf.md]]
-Centripetal force Fc = mrω$
+Centripetal force Fc = mrω$^2$
+m = 800 / 9.81 = 81.55kg
+r = 6400km
+ω = 2π / T = 2π / (24, 60, 60) = 7.27 x 10$^{-5}$ rads$^{-1}$
+Fc = mrω$^2$ = 81.55 x 6400 x 10$^3$ x (7.27 x 10$^{-5}$)$^2$
+Fc = 2.76N
+Reading would be 800 - 2.76 = 797.24N
