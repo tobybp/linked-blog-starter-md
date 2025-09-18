@@ -27,3 +27,6 @@ Fn = mg - mv$^2$ / r
 ### Pilot sitting in aeroplane
 ΣF = ma -> ΣF = mv$^2$ / r
 Fn = mv$^2$ / r - mg
+![[Excalidraw/planeupsidedown.md]]
+### Centripetal Force and Planets
+-Looking from "above" on planet Earth.
