@@ -5,3 +5,4 @@
 ## Key stuff
 Centripetal force equation:
 	 F = $mv^2 / r$ 
+N = $mv^2 / r + mg$
