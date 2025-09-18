@@ -24,3 +24,6 @@ Consider the forces acting when sitting on a seat at the top of a Ferris Wheel
 -Fn + mg = mv$^2$ / r
 Fn = mg - mv$^2$ / r
 ![[Excalidraw/ferrisdiagram.md|300]]
+### Pilot sitting in aeroplane
+ΣF = ma -> ΣF = mv$^2$ / r
+Fn = mv$^2$ / r - mg
