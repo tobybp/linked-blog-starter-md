@@ -30,3 +30,5 @@ Fn = mv$^2$ / r - mg
 ![[Excalidraw/planeupsidedown.md]]
 ### Centripetal Force and Planets
 -Looking from "above" on planet Earth.
+![[Excalidraw/earf.md]]
+Centripetal force Fc = mrω$
