@@ -5,4 +5,14 @@ Consider Newton's Second Law.
 ΣF = ma
 Towards the centre is considered positive.
 
-Forces acting are the weight, W = mg
+Forces acting are the weight, W = mg 
+and Tension in the rope (T)
+These two forces provide an acceleration towards the centre (centripetal acceleration)
+ma = +W + T
+mv$^2$ / r = mg + t 
+or T = mv$^2$ / r - mg
+
+#### At the bottom
+ma = - W + T
+mv$^2$ / r = -mg + T 
+or T = mv$^2$ / r + mg
