@@ -16,3 +16,11 @@ or T = mv$^2$ / r - mg
 ma = - W + T
 mv$^2$ / r = -mg + T 
 or T = mv$^2$ / r + mg
+
+### A Ferris Wheel is Different
+Consider the forces acting when sitting on a seat at the top of a Ferris Wheel
+ΣF = ma -> ΣF = mv$^2$ / r
+-Fn + W = mv$^2$ / r
+-Fn + mg = mv$^2$ / r
+Fn = mg - mv$^2$ / r
+![[Excalidraw/ferrisdiagram.md|300]]
