@@ -14,3 +14,4 @@
 		\* between the plates
 For the same p.d and plate separation, E is constant.
 F = Eq
+![[Excalidraw/uniformplates.md|700]]
