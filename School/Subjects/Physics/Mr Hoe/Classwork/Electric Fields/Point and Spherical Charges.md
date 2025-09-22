@@ -40,6 +40,7 @@
 - Uniform angular spacing
 ## What is an electric field?
 ### ==Definition: a region of space where a charged object experiences a force
+	E = F/Q
 - Produced by a charged object
 - Invisible field lines
 - Direction -> effect on positive charge
