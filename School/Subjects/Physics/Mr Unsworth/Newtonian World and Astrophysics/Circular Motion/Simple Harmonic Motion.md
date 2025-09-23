@@ -28,3 +28,8 @@ Now w = 2π / T gives T is constant regardless of amplitude (A) of displacement.
 
 An **isochronous oscillator** is one where the period T is not dependent on the amplitude.
 - "isochronous" means occurring at the same time.
+Remember in circular motion we used a = w$^2$r
+We use a similar equation in SHM
+a = -w$^2$x
+Where x is the displacement from the equilibrium position.
+Again this shows at a ∝ - x
