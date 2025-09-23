@@ -25,3 +25,6 @@ where A is the amplitude
 ![[Excalidraw/SHM.md]]
 As gradient is constant it means whatever the amplitude of that oscillator, the period is the same.
 Now w = 2π / T gives T is constant regardless of amplitude (A) of displacement.
+
+An **isochronous oscillator** is one where the period T is not dependent on the amplitude.
+- "isochronous" means occurring at the same time.
