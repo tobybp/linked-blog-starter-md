@@ -9,3 +9,4 @@ A motion that repeats itself and has the following characteristics
 - **Equilibrium** is at the midpoint of its oscillation; stop the mass at this point and it remains stationary.
 - **Inertia** carries it through the midpoint, when the mass is oscillation,
 (Inertia - an object's reluctance to change velocity)
+#### Simple harmonic motion is a type of oscillation, where the acceleration of the oscillator is directly proportional to the displacement from the equilibrium position, and acts towards the equilibrium position
