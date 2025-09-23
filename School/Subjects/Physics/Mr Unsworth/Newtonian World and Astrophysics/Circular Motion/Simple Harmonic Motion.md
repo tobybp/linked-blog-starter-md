@@ -33,3 +33,5 @@ We use a similar equation in SHM
 a = -w$^2$x
 Where x is the displacement from the equilibrium position.
 Again this shows at a ∝ - x
+
+y = Asin(w)
