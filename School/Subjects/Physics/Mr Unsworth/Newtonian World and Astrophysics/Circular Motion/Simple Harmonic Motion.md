@@ -18,3 +18,7 @@ F ∝ -x
 - In circular motion, the particle will have an angular velocity of w rads$^{-1}$
 - In SHM, w is also called the **Angular Frequency**
 - **Angular Frequency** - the frequency of a steadily recurring phenomenon expressed in radians per second.
+
+A simple pendulum moves in SHM with a ∝ -x,
+The acceleration is maximum when x = +-A,
+where A is the amplitude
