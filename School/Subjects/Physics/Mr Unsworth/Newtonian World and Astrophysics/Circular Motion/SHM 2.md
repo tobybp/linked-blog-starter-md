@@ -21,11 +21,11 @@ Frequency = 1.28hz
 ## Series Springs
 Amplitude = 0.125m
 Time Period = 1.108
-Frequency = 0.926
+Frequency = 0.926hz
 ## Parallel Springs
 Amplitude = 0.125
 Time Period = 0.548
-Frequency = 1.824
+Frequency = 1.824hz
 
 | Time/s                 | 0.0 | 0.2 | 0.5 | 1.3 |
 | ---------------------- | --- | --- | --- | --- |
