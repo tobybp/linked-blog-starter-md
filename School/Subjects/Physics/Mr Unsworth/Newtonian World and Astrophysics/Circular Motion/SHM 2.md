@@ -13,7 +13,7 @@ d$^2$x/dt$^2$ = a = - a x 4π$^2$f$^2$ x cos(2πft)
 | ------------ | ------------- | --------- |
 | Displacement | Acos(ωt)      | m         |
 | Velocty      | -ωAsin(ωt)    | ms$^{-1}$ |
-| Acceleration | -ω$^2$Acos(ω) | ms$^{-1}$ |
+| Acceleration | -ω$^2$Acos(ω) | ms$^{-2}$ |
 ## Practical 1
 
 | Time/s                 | 0.0 | 0.2 | 0.5 | 1.3 |
