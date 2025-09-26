@@ -20,8 +20,13 @@ Time period = 0.78s
 Frequency = 1.28hz
 
 ## Series Springs
+Amplitude = 0.125m
+Time Period = 1.108
+Frequency = 0.926
+
+## Parallel Springs
 Amplitude = 
-Time Period = 
+Time Period = 😭😭🥀🙏💀
 Frequency = 
 
 
