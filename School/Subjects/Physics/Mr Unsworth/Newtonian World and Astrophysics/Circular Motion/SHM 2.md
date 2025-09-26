@@ -3,8 +3,14 @@
 ## Graphical analysis of SHM - Displaced to A
 ![[IMG_4341.jpg|500]]
 
-x = Acos(wt)
-dx / dt = v = - A x w x sin(wt)
-d$^2$x/dt$^2$ = a = - a x w$^2$ x cos(wt)
+x = Acos(ωt)
+dx / dt = v = - A x ω x sin(wt)
+d$^2$x/dt$^2$ = a = - a x ω$^2$ x cos(wt)
 d$^2$x/dt$^2$ = a = - a x 4π$^2$f$^2$ x cos(2πft)
 ## Practical
+
+| Quantitiy    | Formula       | Units     |
+| ------------ | ------------- | --------- |
+| Displacement | Acos(ωt)      | m         |
+| Velocty      | -ωAsin(ωt)    | ms$^{-1}$ |
+| Acceleration | -ω$^2$Acos(ω) | ms$^{-1}$ |
