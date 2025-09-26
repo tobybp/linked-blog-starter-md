@@ -25,9 +25,9 @@ Time Period = 1.108
 Frequency = 0.926
 
 ## Parallel Springs
-Amplitude = 
-Time Period = 😭😭🥀🙏💀
-Frequency = 
+Amplitude = 0.125
+Time Period = 0.548
+Frequency = 1.824
 
 
 | Time/s                 | 0.0 | 0.2 | 0.5 | 1.3 |
