@@ -18,17 +18,14 @@ d$^2$x/dt$^2$ = a = - a x 4π$^2$f$^2$ x cos(2πft)
 Amplitude = 0.115m
 Time period = 0.78s
 Frequency = 1.28hz
-
 ## Series Springs
 Amplitude = 0.125m
 Time Period = 1.108
 Frequency = 0.926
-
 ## Parallel Springs
 Amplitude = 0.125
 Time Period = 0.548
 Frequency = 1.824
-
 
 | Time/s                 | 0.0 | 0.2 | 0.5 | 1.3 |
 | ---------------------- | --- | --- | --- | --- |
