@@ -6,4 +6,4 @@
 x = Acos(wt)
 dx / dt = v = - A x w x sin(wt)
 d$^2$x/dt$^2$ = a = - a x w$^2$ x cos(wt)
-d$^2$x/dt$^2$ = a = - a x 3π x cos(wt)
+d$^2$x/dt$^2$ = a = - a x 4π$^2$f$^2$ x cos(2πft)
