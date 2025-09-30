@@ -4,7 +4,7 @@
 	E = 1 / (√13)$^2$
 	E = 1.8 / (√13 / 2)$^2$ = 0.55
 	= B
-2) capacitance....
+2) capacitance...
 3) a)![[Excalidraw/metalsphere.md]]
 	b) The electric potential is the force experienced by a positive charged particle
 	c) 
@@ -17,4 +17,5 @@
 4) (2 x 1.6 x 10$^{-19}$) / (4π x 8.854 × 10⁻¹² x 1.2 x 10$^{-5}$)
 	 = 0.0002396731317
 	 = 2.4 x 10$^{-4}$ = B
-5) Q = 40V when R away so -
+5) Q = 40V when R away so -1.5Q also R away would be -60V, therefore 40 - 60 = -20V = **A**
+6) 
