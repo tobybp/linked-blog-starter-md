@@ -7,4 +7,7 @@
 2) capacitance....
 3) a)![[Excalidraw/metalsphere.md]]
 	b) The electric potential is the force experienced by a positive charged particle
-	c) i)
+	c) 
+		i) E = V/d
+		E = 5000 / 0.015
+		E = 330,000C
