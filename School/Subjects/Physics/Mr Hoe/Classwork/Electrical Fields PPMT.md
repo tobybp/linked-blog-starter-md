@@ -8,6 +8,5 @@
 3) a)![[Excalidraw/metalsphere.md]]
 	b) The electric potential is the force experienced by a positive charged particle
 	c) 
-		i) E = V/d
-		E = 5000 / 0.015
-		E = 330,000C
+		i) V = Q / 4πε₀r
+		5000 = Q / 4(π)(8.854 × 10⁻¹²)(0.015)
