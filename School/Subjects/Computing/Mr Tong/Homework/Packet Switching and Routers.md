@@ -12,15 +12,13 @@
 
 ---
 ## Data Packets
-
-- A **packet** = payload (data) + **header** + **trailer**.
-- **Payload**: the actual segment of data being transmitted (500–1500 bytes typical).
+- A packet = payload (data) + header + trailer.
+- Payload: the actual segment of data being transmitted (500–1500 bytes typical).
 ### Packet Header Includes:
-
-- Recipient’s **IP address**.
-- Sender’s **IP address**.
-- **Packet number** & **total number of packets**.
-- **Time To Live (TTL) / hop limit**.
+- Recipient’s IP address.
+- Sender’s IP address.
+- Packet number & total number of packets.
+- Time To Live (TTL) / hop limit.
 ### Packet Trailer Includes:
 - **Error checking** information:
     - Checksums or Cyclical Redundancy Checks (CRC).
@@ -46,26 +44,19 @@
 - **Routers** forward packets between networks.
 - Each router uses a **routing table** to decide where to send packets.
 - Each step between routers = **a hop**.
-- Process continues until the **destination node** is reached.
+- Process continues until the destination node is reached.
 
 ---
-
-## 6. Gateways
+## Gateways
 - Needed when data travels between **different networks/protocols**.
 - Functions:
-    - Remove and reapply **headers** in correct format for the new network.
+    - Remove and reapply headers in correct format for the new network.
     - Can be integrated with routers.
 
 ---
-
-## 7. Key Terms Recap
-
+## Key Terms 
 - **Packet switching** = breaking data into small packets sent independently.
-    
 - **Router** = forwards packets to correct destination across networks.
-    
 - **Hop** = each step a packet takes from one router to another.
-    
 - **Gateway** = device that allows communication between networks with different protocols.
-    
 - **Latency** = time taken for a packet to reach its destination.
