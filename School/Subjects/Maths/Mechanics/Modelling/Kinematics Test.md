@@ -30,7 +30,14 @@ b) Total time for which pebble is more than 40m above ground
 	s = ut + 1/2 x at$^2$
 	8 = 21t + -4.905t$^2$
 	4.905t$^2$ - 21t - 8 = 0
-	t = 
+	t = 4.6334
+	...
+	s = 22.48
+	u = 21
+	v = 0
+	a = -9.81
+	t = ?
+	 = 21/2 x t
 
 
 ![[Pasted image 20251001110213.png|700]]
