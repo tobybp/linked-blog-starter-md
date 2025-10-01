@@ -1,7 +1,6 @@
 [[Computing]]
 #1/10/25 
 ## Circuit Switching vs. Packet Switching
-
 - **Circuit Switching**
     - Creates a dedicated communication link between two endpoints (like a traditional phone call).
     - Works well for single connections but not scalable for billions of devices on the Internet.
