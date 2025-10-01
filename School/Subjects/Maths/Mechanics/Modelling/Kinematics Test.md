@@ -22,12 +22,15 @@ a) The speed with which the pebble strikes the ground
 	v = √1,068.8976
 	v = 32.69
 b) Total time for which pebble is more than 40m above ground
-	s = > 8
+	s = 8
 	u = 21
-	v = 0
+	v = 
 	a = -9.81
 	t = ?
-	(v + u) / 2 x t > 8
+	s = ut + 1/2 x at$^2$
+	8 = 21t + -4.905t$^2$
+	4.905t$^2$ - 21t - 8 = 0
+	t = 
 
 
 ![[Pasted image 20251001110213.png|700]]
