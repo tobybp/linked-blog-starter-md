@@ -15,3 +15,11 @@ F = ma
 ##### Newton's Third Law
 When one object A exerts a force on another object B, then object B exeerts an equal and opposite force on object A.
 ## Equilibrium
+- No resultant force
+- No resultant moment
+## Force Diagrams
+- Keep them simple
+- Show forces with line at action
+- Roughly 10cm
+- Ruler
+- Pencil
