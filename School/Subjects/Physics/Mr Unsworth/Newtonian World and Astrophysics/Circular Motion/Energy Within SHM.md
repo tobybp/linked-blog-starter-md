@@ -17,3 +17,8 @@
 - Eₜₒₜₐₗ = $1/2kA^2$
 - $1/2kA^2 = 1/2mv^2 + 1/2kx^2$ 
 - v = $√(k/m(A^2 - x^2))$
+![[Excalidraw/energyagainstdisplaccement.md|700]]
+## Practice 1
+Using the graph below for a particle of mass 400g, determine:
+a) The maximum speed of the particle
+b) The period of the motion
