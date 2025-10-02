@@ -23,3 +23,5 @@ When one object A exerts a force on another object B, then object B exeerts an e
 - ≃ 10cm
 - Ruler
 - Pencil
+
+![[Excalidraw/force diagrams.md]]
