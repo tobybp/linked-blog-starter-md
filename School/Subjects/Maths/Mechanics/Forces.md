@@ -24,7 +24,7 @@ When one object A exerts a force on another object B, then object B exeerts an e
 - Ruler
 - Pencil
 
-![[Excalidraw/force diagrams.md]]
+![[Excalidraw/force diagrams.md|600]]
 
 ## Ex 10A
 ![[Excalidraw/Ex10A.md]]
