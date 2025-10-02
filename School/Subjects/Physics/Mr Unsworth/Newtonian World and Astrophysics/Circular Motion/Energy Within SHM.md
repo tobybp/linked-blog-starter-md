@@ -20,5 +20,7 @@
 ![[Excalidraw/energyagainstdisplaccement.md|700]]
 ## Practice 1
 Using the graph below for a particle of mass 400g, determine:
+![[Excalidraw/graphbelow.md|700]]
 a) The maximum speed of the particle
+	KEmax = $/12mv^2$ = $√((2KEmax) / m)$ = $√((2 * 80 * 10^{-3}) / 400 * 10^{-3})$ 0.63ms$^{-1]}$
 b) The period of the motion
