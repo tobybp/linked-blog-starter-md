@@ -11,3 +11,9 @@
 - Eₜₒₜₐₗ = Ep + Ek rearranging gives Ek = Eₜₒₜₐₗ - Ep
 - Giving: Ek = $1/2kA^2$ - $1/2kx^2$
 - Ek = $1/2k(A^2 - x^2)$
+- Ek = $1/2mv^2$
+- Ep = 1/2$kx^2$
+- Eₜₒₜₐₗ = $1/2mv^2 + 1/2kx^2$ = a constant value
+- Eₜₒₜₐₗ = $1/2kA^2$
+- $1/2kA^2 = 1/2mv^2 + 1/2kx^2$ 
+- v = $√(k/m(A^2 - x^2))$
