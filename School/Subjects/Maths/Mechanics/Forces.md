@@ -20,6 +20,6 @@ When one object A exerts a force on another object B, then object B exeerts an e
 ## Force Diagrams
 - Keep them simple
 - Show forces with line at action
-- Roughly 10cm
+- ≃ 10cm
 - Ruler
 - Pencil
