@@ -32,3 +32,7 @@ b) The period of the motion
 	T = 0.35s, ω = $2π/T$ = 18rads$^{-1}$
 	Etot = $1/2mω^2 * A^2$, A = $√((2Etot) / mω^2)$ = $√(2*8 / 0.25*18^2)$ = 0.14m
 	Fₘₐₓ  = maₘₐₓ = mAω$^2$ = 0.25 x 0.14 x 18$^2$ = 11N
+
+1a) 
+	A stabilising mechanism for electrical equipment on board a high-speed train is modelled with 5g mass and two springs.
+	i) determine max acceleration of mass during oscillations.
