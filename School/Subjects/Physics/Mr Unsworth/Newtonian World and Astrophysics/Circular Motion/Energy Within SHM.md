@@ -47,5 +47,5 @@ b)
 	ω$^2$A = $2π / (0.143)$ x 0.006 = 12m/s$^2$
 	..
 	ii) Calculate max kinetic energy of the mass during the oscillations
-	
-	
+	KE = 1/2 x 0.005 x (2π x 0.143 x 0.006)$^2$
+	KE = 1.7 x 10$^{-4}$(J)
