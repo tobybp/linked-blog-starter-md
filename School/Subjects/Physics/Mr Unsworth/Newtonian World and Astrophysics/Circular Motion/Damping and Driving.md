@@ -6,4 +6,4 @@
 - (Note that the period does NOT change though - as SHM oscillations are known as isochronous)
 - When an oscillation is started from a single iteration, then it will oscillate at its natural frequency
 - When a system vibrates with a natural frequency, its motion is called free oscillation
-- If a force a
+- If a force acts continuously to input energy into a system (to compensate for the energy lost to damping) then these are called forced oscillations
