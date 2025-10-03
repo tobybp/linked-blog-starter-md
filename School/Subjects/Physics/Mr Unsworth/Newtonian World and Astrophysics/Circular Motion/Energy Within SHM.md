@@ -53,3 +53,6 @@ b)
 	Frequency is the same as it is independent of the amplitude
 	ii) maximum velocity is reduced because amplitude is reduced
 	Max KE is reduced to one quarter 
+3) asdf
+4) EPE decreases from bottom to top
+	GPE increases from bottom to top
