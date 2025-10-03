@@ -41,7 +41,8 @@ b) The period of the motion
 b)
 	i) determine max acceleration of mass during oscillations.
 	Ek = $1/2mv^2$ 
-	T = 285s
+	T = 143s
 	m = 5 x 10$^{-3}$
 	A = 6
-	
+	$2π / (1.43  * 10^{-3})$ = $(4π)^2 * 18 * 10^{-3}$
+	= 2.84
