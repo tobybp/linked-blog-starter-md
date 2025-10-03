@@ -56,3 +56,5 @@ b)
 3) asdf
 4) EPE decreases from bottom to top
 	GPE increases from bottom to top
+	KE starts at zero, finishes at zero and max at equilibrium point
+	Air gains thermal energy
