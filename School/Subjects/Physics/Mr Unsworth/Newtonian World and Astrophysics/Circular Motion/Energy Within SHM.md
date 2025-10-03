@@ -37,4 +37,7 @@ b) The period of the motion
 
 1a) 
 	A stabilising mechanism for electrical equipment on board a high-speed train is modelled with 5g mass and two springs.
+	![[Excalidraw/1a.md]]
+b)
 	i) determine max acceleration of mass during oscillations.
+	
