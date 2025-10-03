@@ -40,4 +40,8 @@ b) The period of the motion
 	![[Excalidraw/1a.md]]
 b)
 	i) determine max acceleration of mass during oscillations.
+	Ek = $1/2mv^2$ 
+	T = 285s
+	m = 5 x 10$^{-3}$
+	A = 6
 	
