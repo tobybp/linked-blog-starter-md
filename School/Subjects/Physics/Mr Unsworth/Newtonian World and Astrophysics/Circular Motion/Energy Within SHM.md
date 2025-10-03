@@ -44,5 +44,8 @@ b)
 	T = 143s
 	m = 5 x 10$^{-3}$
 	A = 6
-	$2π / (1.43  * 10^{-3})$ = $(4π)^2 * 18 * 10^{-3}$
-	= 2.84
+	ω$^2$A = $2π / (0.143)$ x 0.006 = 12m/s$^2$
+	..
+	ii) Calculate max kinetic energy of the mass during the oscillations
+	
+	
