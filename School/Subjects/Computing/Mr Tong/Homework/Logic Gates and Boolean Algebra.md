@@ -3,7 +3,7 @@
 ## Binary Switches
 
 - **Concept**: Electronic devices recognize current presence or absence (ON/OFF).
-- **Application**: Computers use billions of switches combined to create **logic gates**.
+- **Application**: Computers use billions of switches combined to create **logic gates**
 
 ---
 ## Logic Gates Overview

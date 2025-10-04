@@ -26,7 +26,7 @@
 
 ---
 ## Example of Data Transfer
-- Sending a **10 GB file** with packets of 1500 bytes:
+- Sending a 10 GB file with packets of 1500 bytes:
     - 10,000,000,000 / 1,500 ≈ 6,666,667 packets needed.
 
 ---
