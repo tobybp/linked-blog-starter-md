@@ -23,14 +23,14 @@ Consider the forces acting when sitting on a seat at the top of a Ferris Wheel
 -Fn + W = mv$^2$ / r
 -Fn + mg = mv$^2$ / r
 Fn = mg - mv$^2$ / r
-![[Excalidraw/ferrisdiagram.md|300]]
+![[ferrisdiagram|300]]
 ### Pilot sitting in aeroplane
 ΣF = ma -> ΣF = mv$^2$ / r
 Fn = mv$^2$ / r - mg
-![[Excalidraw/planeupsidedown.md]]
+![[planeupsidedown]]
 ### Centripetal Force and Planets
 -Looking from "above" on planet Earth.
-![[Excalidraw/earf.md]]
+![[earf]]
 Centripetal force Fc = mrω$^2$
 m = 800 / 9.81 = 81.55kg
 r = 6400km

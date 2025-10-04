@@ -1,6 +1,6 @@
 [[Physics]]
 #2/10/25 
-![[Excalidraw/energywithshm.md|700]]
+![[energywithshm|700]]
 - For a spring, Ep = $1/2 kx^2$
 - Ep is proportional to $x^2$ meaning that the graph of Eₚ against x is a parabola
 - Ep is always positive and varies against x
@@ -17,10 +17,10 @@
 - Eₜₒₜₐₗ = $1/2kA^2$
 - $1/2kA^2 = 1/2mv^2 + 1/2kx^2$ 
 - v = $√(k/m(A^2 - x^2))$
-![[Excalidraw/energyagainstdisplaccement.md|700]]
+![[energyagainstdisplaccement|700]]
 ## Practice 1
 Using the graph below for a particle of mass 400g, determine:
-![[Excalidraw/graphbelow.md|700]]
+![[graphbelow|700]]
 a) The maximum speed of the particle
 	KEₘₐₓ  = $/12mv^2$ = $√((2KEmax) / m)$ = $√((2 * 80 * 10^{-3}) / 400 * 10^{-3})$ 0.63ms$^{-1]}$
 b) The period of the motion
@@ -37,7 +37,7 @@ b) The period of the motion
 
 1a) 
 	A stabilising mechanism for electrical equipment on board a high-speed train is modelled with 5g mass and two springs.
-	![[Excalidraw/1a.md]]
+	![[1a]]
 b)
 	i) determine max acceleration of mass during oscillations.
 	Ek = $1/2mv^2$ 

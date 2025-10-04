@@ -17,7 +17,7 @@ Directly proportional to the product of the charges.
 - This will be important to consider for "capacitors", something for another day
 - SI unit is Fm$^{-1}$ `Farads per m`
 
-![[Excalidraw/coulombdiagram.md|600]]
+![[coulombdiagram|600]]
 
 ## E-Field Strength
 ### What is (electric) field strength
@@ -25,7 +25,7 @@ As a general concept, field strength is the force per unit property...
 Electric field strength is therefore the force per unit charge.
 - Whose field?
 - Whose charge?
-![[Excalidraw/coulombdiagram2.md|600]]
+![[coulombdiagram2|600]]
 
 ## Comparing Fields
 ### Newton's law of gravitation \[formula]

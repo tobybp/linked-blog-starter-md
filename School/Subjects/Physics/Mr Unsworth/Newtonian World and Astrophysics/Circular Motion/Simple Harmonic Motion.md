@@ -22,7 +22,7 @@ F ∝ -x
 A simple pendulum moves in SHM with a ∝ -x,
 The acceleration is maximum when x = +-A,
 where A is the amplitude
-![[Excalidraw/SHM.md]]
+![[SHM]]
 As gradient is constant it means whatever the amplitude of that oscillator, the period is the same.
 Now w = 2π / T gives T is constant regardless of amplitude (A) of displacement.
 
