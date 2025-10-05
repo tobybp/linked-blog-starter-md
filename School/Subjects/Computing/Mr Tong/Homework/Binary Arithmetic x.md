@@ -1,4 +1,5 @@
 [[Computing]]
+#29/9/25 
 ### Binary Addition
 To look at binary addition, it may first help to look at denary addition in a different light.
 The result of an addition can have a **value** and a **carry** if the result is too large to represent.

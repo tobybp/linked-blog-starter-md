@@ -1,4 +1,5 @@
 [[Computing]]
+#20/10/24
 ## Data Transfer and Storage
 - Data is always moving around computer systems and networks.
 	- Transfer usually happens at high speeds and is accurate.
