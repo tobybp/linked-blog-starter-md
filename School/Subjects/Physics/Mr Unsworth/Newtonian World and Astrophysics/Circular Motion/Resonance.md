@@ -9,4 +9,6 @@ When f(driving) ≈ f(natural) then the amplitude of the forced oscillation is m
 ![[Excalidraw/dampingdiagram.md|600]]
 ![[Excalidraw/displacement damping.md|600]]
 ## p68/69 Questions
-1) a) i) 
+1) a) i) Amplitude is the maximum displacement, displacement is the distance between the stationary point and the current position
+	ii) Frequency is the swings per second whilst the angular frequency is the 2π x the frequency
+	b) i)
