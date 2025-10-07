@@ -1,3 +1,3 @@
 [[Maths]]
 #17/10/25 
-![[Excalidraw/TrigReviewCh6.md]]
+![[Excalidraw/trigch6.md|700]]
