@@ -15,3 +15,4 @@ Magnetic fields are either permanent, due to a magnetised chunk of magnetic mate
 - Flux density symbol = B
 - Flux density unit = tesla (T) or webber per unit area (Wbm$^{-2}$)
 ## Φ / A = B
+![[clockwiseanticlockwise current diagrams|600]]
