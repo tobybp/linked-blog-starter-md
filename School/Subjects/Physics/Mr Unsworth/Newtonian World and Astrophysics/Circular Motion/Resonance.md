@@ -6,3 +6,4 @@ When f(driving) ≈ f(natural) then the amplitude of the forced oscillation is m
 - Sharpness of peak decreases with increased damping
 - Amplitude of oscillations decreases with increased damping
 - Increased damping causes the natural frequency of the system to derease (peak shifts left)
+![[Excalidraw/dampingdiagram.md|600]]
