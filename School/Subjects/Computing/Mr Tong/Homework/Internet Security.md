@@ -6,15 +6,18 @@ A firewall is _software or hardware_ that controls access to and from a network.
 #### Functions:
 - Monitors data packets entering or leaving a network.
 - Blocks or allows traffic based on predetermined rules.
-- Uses **ports** (numbered doors) to manage specific network services (e.g. HTTP → port 80).
+- Uses **ports** (numbered doors) to manage specific network services 
+	(e.g. HTTP → port 80).
 #### Types of Firewalls:
 - **Packet Filtering:**  
     Inspects packet headers (source/destination IP and port numbers). Blocks packets not matching rules.  
     - Example: Block all ports except 80 and 443 for web traffic.  
     - Ports are **not left open** by default to prevent unauthorized access.
+
 - **Stateful Inspection:**  
     Examines packet payloads and tracks ongoing “conversations” between computers.  
     Only allows returning data if it matches an existing, valid session.
+
 - **Proxy Servers:**  
     Acts _on behalf of_ a client to access the internet.  
     Benefits:
