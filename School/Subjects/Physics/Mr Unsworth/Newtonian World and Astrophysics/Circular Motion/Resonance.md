@@ -9,4 +9,4 @@ When f(driving) ≈ f(natural) then the amplitude of the forced oscillation is m
 ![[Excalidraw/dampingdiagram.md|600]]
 ![[Excalidraw/displacement damping.md|600]]
 ## p68/69 Questions
-1) 
+1) a) i) 
