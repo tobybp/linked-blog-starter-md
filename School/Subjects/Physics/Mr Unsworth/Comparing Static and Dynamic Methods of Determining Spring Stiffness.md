@@ -18,9 +18,25 @@ a = -k/m \* x
 - Work out force with a newton metre / datalogger
 - Measure the time period for 10 oscillations and divide this time by 10.
 - Plot a graph of T$^2$ against m and calculate the gradient, to find T$^2$ = 4π$^2$ / r
-## Practical:
+## Practical 1:
 Initial length of spring = 
 
 | Mass (kg) | Weight (N) | Extension (m) |
 | --------- | ---------- | ------------- |
-|           |            |               |
+| 0.1       |            | 0.040         |
+| 0.2       |            | 0.085         |
+| 0.3       |            | 0.130         |
+| 0.4       |            | 0.170         |
+| 0.5       |            | 0.210         |
+| 0.6       |            | 0.270         |
+## Practical 2:
+Initial length of spring = 
+
+| 10 T(s) | T(s)  | Mass (kg) | (T / 2π)^2 x s^2 |
+| ------- | ----- | --------- | ---------------- |
+| 3.96    | 0.396 | 0.1       |                  |
+| 5.81    | 0.581 | 0.2       |                  |
+| 7.71    |       | 0.3       |                  |
+| 8.60    |       | 0.4       |                  |
+| 9.39    |       | 0.5       |                  |
+| 10.29   |       | 0.6       |                  |
