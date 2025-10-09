@@ -44,3 +44,4 @@ Initial length of spring = 0.02m
 | 9.39    | 0.939 | 0.5       | 0.882  |
 | 10.29   | 1.029 | 0.6       | 1.059  |
 T$^2$ against mass
+ 
