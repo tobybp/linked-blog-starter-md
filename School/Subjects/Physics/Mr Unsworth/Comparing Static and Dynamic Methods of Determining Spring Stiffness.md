@@ -4,3 +4,4 @@ F = kx
 ma = kx
 a = -k/m \* x
 ω = √(k/m)
+## Method
