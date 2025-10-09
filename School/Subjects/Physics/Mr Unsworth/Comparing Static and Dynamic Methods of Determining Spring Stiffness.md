@@ -12,6 +12,4 @@ a = -k/m \* x
 - Let go of the mass and record the time for e.g. 10 oscillations.
 - Repeat for different masses
 - Use F = ke to work out the spring constant (k) of your spring.
-- Plot a graph of T$^2$ against m and calculate the gradient, to find the spring constant.
-## Method 2
-skibidi
+- Plot a graph of T$^2$ against m and calculate the gradient, to find T$^2$ = 4π$^2$ / r
