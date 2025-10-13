@@ -2,12 +2,12 @@
 #13/10/25 
 ## Changing I
 
-| Num of Magnets |     |
-| -------------- | --- |
-|                |     |
+| Current (I) | Mass (kg) | Force (N) |
+| ----------- | --------- | --------- |
+|             |           |           |
 
 ## Changing B
 
-| Magnetic Flux Density | Mass | Force |
-| --------------------- | ---- | ----- |
-|                       |      |       |
+| Magnetic Flux Density (Φ) | Mass (kg) | Force (N) |
+| ------------------------- | --------- | --------- |
+|                           |           |           |
