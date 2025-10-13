@@ -1,3 +1,3 @@
 [[Maths]]
 #13/10/25
-![[Excalidraw/LastTrig.md]]
+![[Excalidraw/LastTrig.md||700]]
