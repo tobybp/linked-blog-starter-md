@@ -8,6 +8,6 @@
 
 ## Changing B
 
-| Magnetic Flux Density | Mass | Forcee |
-| --------------------- | ---- | ------ |
-|                       |      |        |
+| Magnetic Flux Density | Mass | Force |
+| --------------------- | ---- | ----- |
+|                       |      |       |
