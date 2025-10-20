@@ -34,3 +34,9 @@ We want F to be maximum when things are all perpendicular
 - We need the magnets to make a 2nd field so that the coil moves due to the motor effect
 - It will move in the direction according to the left hand rule.
 - "Current relative to the field"
+### Model answer
+Current in the coil produces a magnetic field that interacts with the magnetic field around it due to the magnets.
+The force has a consistent direction and causes the coil to begin to spin
+We have to maintain the direction of the force to maintain the spinning
+How?
+Direction of current needs to swap in the coil each half turn, to maintain the current direction.
