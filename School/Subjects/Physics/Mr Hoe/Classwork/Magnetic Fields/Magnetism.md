@@ -22,3 +22,4 @@ A = area
 sinθ = 1 if θ = 90
 We want F to be maximum when things are all perpendicular
 θ = angle between field lines and conductor.
+## Motors
