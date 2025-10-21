@@ -23,5 +23,7 @@ Radial Field - is where the gravitational field strength is varied radially from
 You can model a spherical mass as a point mass
 Always use the centre NOT surface to surface
 ## Newton's Law of Gravitation
-**The size of the gravitational force between two bodies is described by Newton's Law of gravitation.
-Fg = -(Gmn / r$^2$)
+**The size of the gravitational force between two bodies is described by Newton's Law of gravitation.**
+Fg = -(GMm / r$^2$)
+##### Attraction between me and the desk...
+Fg = -(6.67 x 10$^{-11}$ x 20 x 67) / 0.5$^2$
