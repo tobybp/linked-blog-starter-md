@@ -17,4 +17,5 @@ F = ma = kgm$^{-2}$
 Nkg$^{-1}$ is (kgms$^{-2}$)/kg
 = ms$^{-2}$
 ## Gravitational Field Patterns
-Uniform field - is where the 
+Uniform field - is where the gravitational field strength is the same in **magnitude and direction** throughout the field, and the lines must be **parallel** to each other.
+Radial Field - is where the gravitational field strength is varied radially from the centre of the body as distance changes. Further from the centre of the body, the **field strength decreases shown by the field lines getting further apart**
