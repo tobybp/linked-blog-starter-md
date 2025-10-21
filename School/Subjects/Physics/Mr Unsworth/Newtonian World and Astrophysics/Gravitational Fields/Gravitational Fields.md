@@ -6,3 +6,4 @@
 - The force due to gravity is **ALWAYS** an attractive one
 - We can represent these forces with field lines
 - Bodies will move along these resultant field lines.
+- **A gravitational field is a
