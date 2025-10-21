@@ -6,4 +6,6 @@
 - The force due to gravity is **ALWAYS** an attractive one
 - We can represent these forces with field lines
 - Bodies will move along these resultant field lines.
-- **A gravitational field is a
+- **A gravitational field is a region around a body which another body with mass will experience a force.**
+- **The strength of a gravitational field, g, is the force per unit mass on a small test mass placed in the field.**
+- g = F/m (F is the force acting on the small mass, m)
