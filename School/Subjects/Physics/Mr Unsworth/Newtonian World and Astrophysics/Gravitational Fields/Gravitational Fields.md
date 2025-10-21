@@ -27,4 +27,5 @@ Always use the centre NOT surface to surface
 Fg = -(GMm / r$^2$)
 ##### Attraction between me and the desk...
 Fg = -(6.67 x 10$^{-11}$ x 20 x 67) / 0.5$^2$
-Fg = 
+Fg = 0.000000357512
+Fg = 3.57512 x 10$^{-7}$
