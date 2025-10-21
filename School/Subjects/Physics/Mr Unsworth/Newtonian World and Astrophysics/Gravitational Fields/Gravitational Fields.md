@@ -22,3 +22,6 @@ Radial Field - is where the gravitational field strength is varied radially from
 ## Point Masses
 You can model a spherical mass as a point mass
 Always use the centre NOT surface to surface
+## Newton's Law of Gravitation
+**The size of the gravitational force between two bodies is described by Newton's Law of gravitation.
+Fg = -(Gmn / r$^2$)
