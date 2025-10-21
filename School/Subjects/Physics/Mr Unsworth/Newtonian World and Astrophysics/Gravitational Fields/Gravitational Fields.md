@@ -11,4 +11,10 @@
 - g = F/m (F is the force acting on the small mass, m)
 ## Free Fall and Newton's Second Law
 g is also described as the acceleration due to a freely falling body
-Prove that Nkg
+Prove that Nkg$^{-1}$ is the same as ms$^{-2}$
+Nkg$^{-1}$ is force / kg
+F = ma = kgm$^{-2}$
+Nkg$^{-1}$ is (kgms$^{-2}$)/kg
+= ms$^{-2}$
+## Gravitational Field Patterns
+Uniform field - is where the 
