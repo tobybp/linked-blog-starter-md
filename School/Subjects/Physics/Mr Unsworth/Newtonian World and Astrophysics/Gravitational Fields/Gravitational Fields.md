@@ -19,3 +19,6 @@ Nkg$^{-1}$ is (kgms$^{-2}$)/kg
 ## Gravitational Field Patterns
 Uniform field - is where the gravitational field strength is the same in **magnitude and direction** throughout the field, and the lines must be **parallel** to each other.
 Radial Field - is where the gravitational field strength is varied radially from the centre of the body as distance changes. Further from the centre of the body, the **field strength decreases shown by the field lines getting further apart**
+## Point Masses
+You can model a spherical mass as a point mass
+Always use the centre NOT surface to surface
