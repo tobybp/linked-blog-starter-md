@@ -1,3 +1,3 @@
 [[Maths]]
 #12/10/25
-![[Excalidraw/EquationsAndIdenties.md|800]]
+![[EquationsAndIdenties|800]]

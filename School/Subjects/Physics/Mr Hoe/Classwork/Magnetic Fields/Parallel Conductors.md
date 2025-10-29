@@ -1,6 +1,6 @@
 [[Physics]]
 #21/10/25 
-![[Excalidraw/parallelconductors.md|700]]
+![[parallelconductors|700]]
 ## Charges in Fields
 F = Bqv
 F = BIL
@@ -9,4 +9,4 @@ F = Bql / t
 l/t = dist / time
 l/t = v
 
-![[Excalidraw/ChargesInFields.md|700]]
+![[ChargesInFields|700]]

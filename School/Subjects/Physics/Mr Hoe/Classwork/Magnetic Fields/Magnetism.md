@@ -24,7 +24,7 @@ We want F to be maximum when things are all perpendicular
 θ = angle between field lines and conductor.
 ## Motors
 - DC Motor, why does it spin?
-![[Excalidraw/DCMotor.md|700]]
+![[DCMotor|700]]
 ### AC motor, is it different?
 - Because a.c. current changes direction in whole circuit, current direction swaps in coil due to a.c.
 - Contacts are maintained
