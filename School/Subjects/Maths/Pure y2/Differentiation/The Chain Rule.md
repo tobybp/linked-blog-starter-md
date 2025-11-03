@@ -1,3 +1,3 @@
 [[Maths]]
 #3/11/25
-![[ChainRule]]
+![[ChainRule|700]]
