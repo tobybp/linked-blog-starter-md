@@ -1,3 +1,3 @@
 [[Physics]]
 #3/11/25 
-![[Excalidraw/Faradaylaw.md]]
+![[Excalidraw/Faradaylaw.md|700]]
