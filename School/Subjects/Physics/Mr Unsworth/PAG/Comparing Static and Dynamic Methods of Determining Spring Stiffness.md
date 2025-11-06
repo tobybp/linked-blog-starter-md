@@ -30,8 +30,6 @@ Initial length of spring = 0.02m
 | 0.5       | 4.905      | 0.210         |
 | 0.6       | 5.886      | 0.270         |
 Graph of Weight against Extension kg / m
-
-
 ## Practical 2:
 Initial length of spring = 0.02m
 
@@ -44,4 +42,3 @@ Initial length of spring = 0.02m
 | 9.39    | 0.939 | 0.5       | 0.882  |
 | 10.29   | 1.029 | 0.6       | 1.059  |
 T$^2$ against mass
- 
