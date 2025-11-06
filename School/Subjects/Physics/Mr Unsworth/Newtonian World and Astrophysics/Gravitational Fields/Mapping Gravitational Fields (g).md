@@ -21,3 +21,4 @@ T$^2$ = 4π$^2$r$^3$ / MG
 Everything else is constant, so T$^2$ is proportional to r$^3$ 
 ## Kepler's Laws Beyond Planets
 Kepler's laws apply to any small object in orbit around a larger one, including satellites and moons in orbits around planets.
+ 
