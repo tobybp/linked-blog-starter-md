@@ -18,4 +18,4 @@ v$^2$ = GM/r
 as v = 2πr / T, (2πr)$^2$ / T$^2$ = GM/r
 r$^3$ / T$^2$ = GM/4πr$^2$
 T$^2$ = 4π$^2$r$^3$ / MG
-Everything else is constant so T$^2$ is proportional to r$^3$ 
+Everything else is constant, so T$^2$ is proportional to r$^3$ 
