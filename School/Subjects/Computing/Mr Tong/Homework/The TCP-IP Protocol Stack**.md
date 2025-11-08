@@ -12,7 +12,7 @@ It breaks network communication into **four layers**, each with a specific role.
 |3|**Internet Layer**|Handles addressing and routing of packets between networks.|IP (Internet Protocol)|
 |4|**Link Layer**|Operates across the physical connection; manages MAC addressing and hardware transmission.|Ethernet, Wi-Fi|
 
-**Mnemonic:** 🧩 _Apple Tango Is Lush_  
+**Mnemonic:** Apple Tango Is Lush
 (Application, Transport, Internet, Link)
 
 ---
