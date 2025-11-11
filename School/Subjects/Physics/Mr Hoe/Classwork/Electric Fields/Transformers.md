@@ -27,3 +27,4 @@ Reducing efficiency...
 	- Means it magnetises and demagnetises readily
 
 ![[Excalidraw/longdistancebulbs.md|700]]
+![[Excalidraw/physicsisfun.md]]
