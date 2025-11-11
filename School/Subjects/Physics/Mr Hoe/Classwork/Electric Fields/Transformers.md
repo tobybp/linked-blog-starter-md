@@ -25,3 +25,5 @@ Reducing efficiency...
 ##### Cores:
 - Iron core is more 'soft' than steel
 	- Means it magnetises and demagnetises readily
+
+![[Excalidraw/longdistancebulbs.md|700]]
