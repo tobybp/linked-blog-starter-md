@@ -21,3 +21,4 @@ v = √(GM / r)
 - Are in orbit above the equator
 - Remain above the same fixed point in the sky relative to an observer on the Earth
 - Used for communication and weather monitoring
+	- 3 satellites can give complete coverage for the whole of the earth's surface.
