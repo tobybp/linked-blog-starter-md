@@ -17,4 +17,4 @@ Efficiency is affected by:
 - Vibrations (at 50Hz)
 - Think about the induced current (e.m.f.) in secondary coil - this has a polarity which opposes the working of the transformer
 	**IF** current flows in the iron core, this all gets worse.
-![[Excalidraw/hoeisartistic.md]]
+![[Excalidraw/hoeisartistic.md|700]]
