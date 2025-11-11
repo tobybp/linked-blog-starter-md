@@ -11,5 +11,8 @@ v = √(GM / r)
 - Have orbital periods around 90 minutes so can capture multiple images per day
 - Can capture hi-res images
 - Require little energy to put into orbit.
-t## Polar Orbits
-- Ear
+## Polar Orbits
+- Earth mapping
+- Environmental monitoring
+- Military reconnaissance
+- Weather forecasting
