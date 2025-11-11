@@ -16,3 +16,8 @@ v = √(GM / r)
 - Environmental monitoring
 - Military reconnaissance
 - Weather forecasting
+## Geostationary Orbits
+- Have a period of 24 hours, in the same direction as Earth's rotation
+- Are in orbit above the equator
+- Remain above the same fixed point in the sky relative to an observer on the Earth
+- Used for communication and weather monitoring
