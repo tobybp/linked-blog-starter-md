@@ -12,4 +12,8 @@ Power in = Power out if ==100% efficient==
 **I***in***V***in* = **I***out* / **I***in*
 Ratio of the p.ds is inverse the ratio of the currents.
 ![[Excalidraw/ringcoils.md|600]]
-Efficiency is effected by heating effect of a current
+Efficiency is affected by:
+- Heating effect of a current
+- Vibrations (at 50Hz)
+- Think about the induced current (e.m.f.) in secondary coil - this has a polarity which opposes the working of the transformer
+	**IF** current flows in the iron core, this all gets worse.
