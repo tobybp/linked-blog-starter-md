@@ -11,3 +11,5 @@ Varying I leading to a varying e-mag field (B)
 Power in = Power out if ==100% efficient==
 **I***in***V***in* = **I***out* / **I***in*
 Ratio of the p.ds is inverse the ratio of the currents.
+![[Excalidraw/ringcoils.md|600]]
+Efficiency is effected by heating effect of a current
