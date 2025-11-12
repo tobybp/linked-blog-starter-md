@@ -28,3 +28,4 @@ A force PN is now applied to the particle up the slop.
 b) Find the minimum value of P needed to stop the particle from sliding down the slope.
 ![[Excalidraw/particle up slope 2.md]]
 c) Find the minimum value of P needed for the particle to move up the slope
+## Exercise 7C
