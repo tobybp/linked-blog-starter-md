@@ -29,3 +29,4 @@ b) Find the minimum value of P needed to stop the particle from sliding down the
 ![[Excalidraw/particle up slope 2.md]]
 c) Find the minimum value of P needed for the particle to move up the slope
 ## Exercise 7C
+![[Excalidraw/Ex7C.md]]
