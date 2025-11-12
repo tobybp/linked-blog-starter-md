@@ -25,4 +25,5 @@ Mew ranges from 0-1
 a) Find the acceleration of the particle down the slope
 A force PN is now applied to the particle up the slop.
 b) Find the minimum value of P needed to stop the particle from sliding down the slope.
-c) Find the miniimum
+c) Find the minimum value of P needed for the particle to move up the slope
+![[Excalidraw/particle up slope.md]]
