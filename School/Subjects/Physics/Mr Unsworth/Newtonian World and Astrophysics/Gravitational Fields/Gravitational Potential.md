@@ -5,3 +5,6 @@ Since work done depends only on the displacement in the direction of the force (
 If we define GPE = 0 at infinity
 GPE = mgh
 GPE = m(-GM)/r$^2$)r = -GMm/r (=m∆Vg)
+### General Rule
+If masses are getting closer together, ∆GPE < 0
+If masses are getting further apart, ∆GPE > 0
