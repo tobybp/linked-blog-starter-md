@@ -8,3 +8,5 @@ GPE = m(-GM)/r$^2$)r = -GMm/r (=m∆Vg)
 ### General Rule
 If masses are getting closer together, ∆GPE < 0
 If masses are getting further apart, ∆GPE > 0
+
+If an object is given enough kinetic energy it can escape the gravitational field of the larger mass. The mini
