@@ -9,4 +9,7 @@ GPE = m(-GM)/r$^2$)r = -GMm/r (=m∆Vg)
 If masses are getting closer together, ∆GPE < 0
 If masses are getting further apart, ∆GPE > 0
 
-If an object is given enough kinetic energy it can escape the gravitational field of the larger mass. The mini
+If an object is given enough kinetic energy it can escape the gravitational field of the larger mass. The minimum speed to do this is called the escape velocity, Vesc, for which
+KE = GPE
+1/2mv$^2$ = GMm/r
+v = √(2GM/r)
