@@ -1,6 +1,6 @@
 [[Maths]]
 #12/11/25
-![[Excalidraw/A2MathsPhysics.md|700]]
+![[A2MathsPhysics|700]]
 When two objects come into contact there will be a contact friction where F = μR
 μ = coefficient of friction
 R = reaction force
@@ -20,13 +20,13 @@ The friction reaches a maximum on the point of movement (limiting equilibrium) a
 | Mild Steel on Aluminium | Dry               | 0.47                    |
 Mew ranges from 0-1
 ##### A box of mass 20kg is to be pulled across a rough floor by a string inclined at 30° to the horizontal. The coefficient of friction between the box and the floor is 0.6. Find the tension in the string when the box is on the point of moving.
-![[Excalidraw/welikeforcediagrams.md|700]]
+![[welikeforcediagrams|700]]
 ##### A particle of mass 2kg slides down a surface that makes an angle of 25° with the horizontal. The coefficient of friction between the particle and the surface is 0.4.
 a) Find the acceleration of the particle down the slope
-![[Excalidraw/particle up slope.md|700]]
+![[particle up slope|700]]
 A force PN is now applied to the particle up the slop.
 b) Find the minimum value of P needed to stop the particle from sliding down the slope.
-![[Excalidraw/particle up slope 2.md]]
+![[particle up slope 2]]
 c) Find the minimum value of P needed for the particle to move up the slope
 ## Exercise 7C
-![[Excalidraw/Ex7C.md]]
+![[Ex7C]]
