@@ -35,3 +35,6 @@
 - Small, heavy, positive nucleus
 - Very small negative electrons
 ## Further Discoveries
+![[Excalidraw/FurtherDiscoveries.md|700]]
+Nucleus is not one big lump, but made of tiny bits.
+Alpha particles have knocked proton out from the Al nuclei
