@@ -1,6 +1,6 @@
 [[Physics]]
 #17/11/25 
-![[Excalidraw/plumpudding.md|600]]
+![[Excalidraw/plumpudding.md|550]]
 ### Background:
 - Charge and mass
 - Matter tends to be neutral
