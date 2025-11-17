@@ -24,3 +24,7 @@
 - Others are deflected (on the way through the foil)
 - About 1/10,000 reflect off the front of the foil
 - Front of the foil
+### Conclusions:
+- Lots of empty space
+- Small and positive nucleus causing repulsion for alpha
+- Nucleus must be high in mass for alpha particle to rebound (considering momentum)
