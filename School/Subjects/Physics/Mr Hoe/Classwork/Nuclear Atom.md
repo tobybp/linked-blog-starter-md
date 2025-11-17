@@ -17,4 +17,10 @@
 ![[Excalidraw/rutherfordsexperiment.md|700]]
 - Alpha source - radiation
 - Gold foil - absorber or deflector
-- Detector - notice 
+- Detector - notice where alpha particles have travelled
+- Vacuum - so alpha particles are not absorbed
+### Observations:
+- Most of the alpha particles pass straight through (the foil)
+- Others are deflected (on the way through the foil)
+- About 1/10,000 reflect off the front of the foil
+- Front of the foil
