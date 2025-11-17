@@ -28,3 +28,9 @@
 - Lots of empty space
 - Small and positive nucleus causing repulsion for alpha
 - Nucleus must be high in mass for alpha particle to rebound (considering momentum)
+## The Nuclear Model
+![[Excalidraw/NuclearModel.md]]
+- Neutral overall
+- Lots of empty space
+- Small, heavy, positive nucleus
+- Very small negative electrons
