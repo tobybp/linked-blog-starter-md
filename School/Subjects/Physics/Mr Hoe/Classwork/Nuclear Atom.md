@@ -38,3 +38,13 @@
 ![[Excalidraw/FurtherDiscoveries.md|700]]
 Nucleus is not one big lump, but made of tiny bits.
 Alpha particles have knocked proton out from the Al nuclei
+## Comparing the models
+
+| Plum                         | Nuclear Model                      |
+| ---------------------------- | ---------------------------------- |
+| Neutral                      | Neutral                            |
+| Negative plums               | Electrons                          |
+| Positive body                | Positive nucleus                   |
+| Charge is evenly distributed | Charge is localised                |
+| Mass is evenly distributed   | Mass is localised (in the nucleus) |
+| No empty space               | Lots of empty space                |
