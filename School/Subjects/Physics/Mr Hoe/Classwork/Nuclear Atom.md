@@ -13,3 +13,8 @@
 - Evenly distributed with charge
 - No empty space
 - "Gas-like cloud" - plums can stream out from...
+## Rutherford's Experiment
+![[Excalidraw/rutherfordsexperiment.md|700]]
+- Alpha source - radiation
+- Gold foil - absorber or deflector
+- Detector - notice 
