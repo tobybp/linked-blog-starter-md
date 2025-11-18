@@ -36,3 +36,8 @@ R = r₀A$^{1/3}$
 R$^3$ = r₀$^3$A
 mass = A x mass of nucleus
 density = mass / volume = A\*mass of nucleus / 4/3πr₀$^3$A
+
+- Nucleus contains protons and neutrons
+- Anything to concern us about their charge - proton near proton
+- Calculate the coulomb repulsion between two protons
+	
