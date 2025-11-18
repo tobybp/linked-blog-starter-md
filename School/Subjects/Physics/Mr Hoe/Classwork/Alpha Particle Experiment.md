@@ -48,3 +48,7 @@ F = GMm / r$^2$
 	Way way smaller, therefore must be a third force
 Fcharge is much greater than Fgravity
 So, we need something else to make it all balance out... Equilibrium of forces...
+![[Excalidraw/repulseattract.md]]
+- Shor range
+- Attractive when close (<3fm) these distances are quoted in the specification
+- Really attractive at the right dista
