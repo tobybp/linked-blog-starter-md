@@ -37,7 +37,10 @@ R$^3$ = r₀$^3$A
 mass = A x mass of nucleus
 density = mass / volume = A\*mass of nucleus / 4/3πr₀$^3$A
 
+F = 1 / 4πε0 is proportional to q1q2 / r₀$^2$ 
+F = GMm / r$^2$
+
 - Nucleus contains protons and neutrons
 - Anything to concern us about their charge - proton near proton
-- Calculate the coulomb repulsion between two protons
-	
+- Calculate the coulomb repulsion between two protons (Assuming they are r₀ apart)
+	F = 160N
