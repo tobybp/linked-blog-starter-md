@@ -12,13 +12,20 @@
 
 ---
 
-R = r₀ x A$^{1/3}$
-p = m / 4/3πr$^2$v
-r₀ = 
+r = r₀ x A$^{1/3}$
+p = m / (4/3)πr$^2$
+r₀ = 1.2 x 10$^{-15}$
+A = number of nucleons
+R = radius / m
 density = mass/volume
 volume = 4/3πr${^3}$
 mass = nucleus x average mass for a nucleus = 1.67 x 10$^{-27}$
 Calculate the radius of a Lithium-7 nucleus
 	7 protons + neutrons
 	3 protons
+	 = r₀ x 7 
+	 = 2.9 x 10$^{-15}$
+Calculate the density of a Lithium-7 nucleus
+	= m / 4/3π(2.9x10$^{-15}$)$^3$
+	= 1.67 x 10$^{-27}$ / 
 	
