@@ -48,7 +48,9 @@ F = GMm / r$^2$
 	Way way smaller, therefore must be a third force
 Fcharge is much greater than Fgravity
 So, we need something else to make it all balance out... Equilibrium of forces...
-![[Excalidraw/repulseattract.md]]
+![[Excalidraw/repulseattract.md|600]]
 - Shor range
 - Attractive when close (<3fm) these distances are quoted in the specification
-- Really attractive at the right dista
+- Really attractive at the right distance (1.8fm, peak 1.2ish fm)
+- Equal to coulomb force at equilibrium 
+- Repulsive if nucleons are too close (<0.5fm)
