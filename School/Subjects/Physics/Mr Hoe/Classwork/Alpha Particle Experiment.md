@@ -44,3 +44,7 @@ F = GMm / r$^2$
 - Anything to concern us about their charge - proton near proton
 - Calculate the coulomb repulsion between two protons (Assuming they are r₀ apart)
 	F = 160N
+	Gravitational force = 1.4 x 10$^{-34}$N
+	Way way smaller, therefore must be a third force
+Fcharge is much greater than Fgravity
+So, we need something else to make it all balance out... Equilibrium of forces...
