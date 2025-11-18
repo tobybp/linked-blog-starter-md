@@ -6,4 +6,7 @@
 - Very few, around 1 in every 10,000 alpha particles, are reflected, meaning they switch direction and come back towards their source.
 - This means that most of the atoms are made up of empty space, with a small "nucleus" with a positive charge causing deflection and reflection.
 ###### Describe the nature and range of the three forces acting on the protons and neutrons in the nucleus \[5]
-- Electrostatic repulsion - proton 
+- Electrostatic repulsion - proton-on-proton (charge)
+- Strong
+- Gravitational
+R = r0 x A^1/3
