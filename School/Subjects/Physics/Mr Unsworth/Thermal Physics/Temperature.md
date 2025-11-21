@@ -9,3 +9,4 @@ To be able to measure temperature we need:
 - Something that has a thermal (temperature dependent) property
 ### Reference points
 - Certain processes happen at fixed temperatures e.g. water will freeze / melt and boil at set temperatures. This is used to fix reference points.
+## Temperature
