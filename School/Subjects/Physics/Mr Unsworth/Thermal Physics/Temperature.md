@@ -14,3 +14,10 @@ Celsius Scale
 - Zero point - 0°C - freezing point of pure water
 - Upper point - 100°C - boiling point of pure water
 - 100 Equal divisions
+Absolute scale
+- Zero point is 0(zero) K called absolute zero
+- Upper point is 273.15K the triple point of water
+- The size of a 1 Kelvin equal to a 1° Celsius temperature increase
+- 0° Celcius is 273.15K
+- (simplified to 273 for A level)
+T(K) = 0°C + 273
