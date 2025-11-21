@@ -21,3 +21,4 @@ Absolute scale
 - 0° Celcius is 273.15K
 - (simplified to 273 for A level)
 T(K) = 0°C + 273
+100°C = 11.5cm
