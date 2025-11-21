@@ -9,4 +9,8 @@ To be able to measure temperature we need:
 - Something that has a thermal (temperature dependent) property
 ### Reference points
 - Certain processes happen at fixed temperatures e.g. water will freeze / melt and boil at set temperatures. This is used to fix reference points.
-## Temperature
+## Temperature Scales
+Celsius Scale
+- Zero point - 0°C - freezing point of pure water
+- Upper point - 100°C - boiling point of pure water
+- 100 Equal divisions
