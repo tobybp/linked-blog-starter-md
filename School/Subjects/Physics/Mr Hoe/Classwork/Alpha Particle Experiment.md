@@ -31,7 +31,21 @@ positive - alpha particles deflect and are repelled
 heavy - head on collision, the alpha particle recoils completely
 
 b) ![[Excalidraw/alphanucleusdiagram.md]]
-###### i) The alpha particle comes to rest instantaneously a short distance away from the
+###### i) The alpha particle comes to rest instantaneously a short distance away from the aluminium nucleus. It then reverses its direction of travel. Describe and explain the motion of the aluminium nucleus at the instant the alpha particle is at rest.
+Where has the momentum in alpha particle gone?
+Momentum is always conserved
+It is in the Al nucleus
+Al nucleus recoils right
+Al velocity is much less
+p = mv if m bigger, v is smaller!
+###### ii) Calculate the initial speed of the alpha-particle
+mass of alpha-particle = 6.6 x 10^-27 kg
+KE = 1/2mv$^2$ = 8.0MeV - **Need J**
+4 x 1.66 x 10$^{-27}$
+= 1.97 x 10$^7$
+###### iii) The electric force experienced by t
+
+
 
 ---
 
