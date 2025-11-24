@@ -26,8 +26,12 @@ ii) One assumption is that it's perfectly spherical and there is no empty space 
 ###### Explain how the experiments on the scattering of alpha-particles by a metal foil provided evidence for the nuclear model of the atom.
 - In your answer, you should make clear how your conclusions link with the observations.
 Nucleus is small, positive and heavy
-small - most alpha particles pass through
-positive - alpha particles 
+small - most alpha particles pass through the empty space
+positive - alpha particles deflect and are repelled
+heavy - head on collision, the alpha particle recoils completely
+
+b) ![[Excalidraw/alphanucleusdiagram.md]]
+###### i) The alpha particle comes to rest instantaneously a short distance away from the
 
 ---
 
