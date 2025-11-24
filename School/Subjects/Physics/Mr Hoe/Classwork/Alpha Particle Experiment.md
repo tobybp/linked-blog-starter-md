@@ -16,7 +16,18 @@
 	- 0.5 -> 3.0fm attractive
 	- Biggest range
 
-c
+c) i) R = r₀A$^{1/3}$
+m = 235 x 1.7 x 10$^{-27}$
+V = 4/3(πr$^3$) r = 8.8 x 10$^{-15}$
+V = 2.8 x 10$^{-42}
+p = m/v
+Density = 1.4 x 10$^{17}$
+ii) One assumption is that it's perfectly spherical and there is no empty space / evenly distributed.
+###### Explain how the experiments on the scattering of alpha-particles by a metal foil provided evidence for the nuclear model of the atom.
+- In your answer, you should make clear how your conclusions link with the observations.
+Nucleus is small, positive and heavy
+small - most alpha particles pass through
+positive - alpha particles 
 
 ---
 
