@@ -46,7 +46,10 @@ KE = 1/2mv$^2$ = 8.0MeV - **Need J**
 ###### iii) The electric force experienced by the alpha particle when it is close to the aluminium nucleus is 270N. Calculate the separation r between the alpha particle and the aluminium nucleus when the alpha particle experiences this force.
 F = Qq / r$^2$ x 1/ 4π𝜀₀ = 
 ###### iv) Consider the situation where the alpha particle travels much closer to the aluminium nucleus than in b)iii) Discuss how the strong nuclear force may affect the resultant force on the alpha-particle.
-Coulomb force is repulsive (and large), no strong force
+Coulomb force is repulsive (and large), no strong force ...
+
+---
+
 
 ---
 
