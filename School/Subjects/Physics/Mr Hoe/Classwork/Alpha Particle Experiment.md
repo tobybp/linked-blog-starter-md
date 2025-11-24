@@ -7,8 +7,16 @@
 - This means that most of the atoms are made up of empty space, with a small "nucleus" with a positive charge causing deflection and reflection.
 ###### Describe the nature and range of the three forces acting on the protons and neutrons in the nucleus \[5]
 - Electrostatic repulsion - proton-on-proton (charge)
+	- Infinite range, repulsive between charged particles
+	- Large range
 - Strong force (p-p, p-n, n-n)
+	- 0 - 0.5fm repulsive
+	- Short range
 - Gravitational force (p-p, p-n, n-n)
+	- 0.5 -> 3.0fm attractive
+	- Biggest range
+
+c
 
 ---
 
