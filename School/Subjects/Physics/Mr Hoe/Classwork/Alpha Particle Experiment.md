@@ -7,8 +7,8 @@
 - This means that most of the atoms are made up of empty space, with a small "nucleus" with a positive charge causing deflection and reflection.
 ###### Describe the nature and range of the three forces acting on the protons and neutrons in the nucleus \[5]
 - Electrostatic repulsion - proton-on-proton (charge)
-- Strong
-- Gravitational
+- Strong force (p-p, p-n, n-n)
+- Gravitational force (p-p, p-n, n-n)
 
 ---
 
