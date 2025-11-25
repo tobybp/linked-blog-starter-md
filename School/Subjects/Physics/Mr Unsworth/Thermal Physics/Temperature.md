@@ -29,3 +29,5 @@ Actual temp = 16°C
 #25/11/25
 ## The zeroth law
 - Two objects are in thermal equilibrium if thermal energy CAN pass between them, but NO NET thermal energy is actually doing so.
+- If two systems are each in thermal equilibrium with a third system, then they are all in thermal equilibrium with each other.
+- You can say that each of these objects has a thermal property that they all share - this property is called temperature. 
