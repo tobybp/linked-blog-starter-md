@@ -39,3 +39,6 @@ Actual temp = 16°C
 ## Solids, Liquids & Gasses
 ### The kinetic model
 - The kinetic model describes the three common phases of matter in the following matter.
+### Evaporating and boiling
+- Evaporation occurs at all temperatures and is when the most energetic particles escape the liquids surface.
+- Boiling only occurs at the boiling point and is where the whole of the liquid is changing state.
