@@ -42,3 +42,5 @@ Actual temp = 16°C
 ### Evaporating and boiling
 - Evaporation occurs at all temperatures and is when the most energetic particles escape the liquids surface.
 - Boiling only occurs at the boiling point and is where the whole of the liquid is changing state.
+## Triple point of water
+- The temperature and pressure at which a substance can exist in equilibrium in the liquid, solid, and. gaseous states.
