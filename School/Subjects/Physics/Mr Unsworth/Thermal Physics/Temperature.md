@@ -36,3 +36,4 @@ Actual temp = 16°C
 - This means that every system reaches the "no kinetic energy within it point" at the same temperature.
 - Absolute zero = no kinetic energy point
 - This temperature has been experimentally determined to be -273.15°C
+## Solids, Liquids & Gasses
