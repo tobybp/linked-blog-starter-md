@@ -27,3 +27,5 @@ Temperature using homemade thermometer = 15°C
 Actual temp = 16°C
 
 #25/11/25
+## The zeroth law
+- Two objects are in thermal equilibrium if thermal energy CAN pass between them, but NO NET thermal energy is actually doing so.
