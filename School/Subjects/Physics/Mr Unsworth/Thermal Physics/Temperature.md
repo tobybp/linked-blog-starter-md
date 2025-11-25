@@ -44,3 +44,5 @@ Actual temp = 16°C
 - Boiling only occurs at the boiling point and is where the whole of the liquid is changing state.
 ## Triple point of water
 - The temperature and pressure at which a substance can exist in equilibrium in the liquid, solid, and. gaseous states.
+### Brownian Motion
+- Evidence for particles and their random motion
