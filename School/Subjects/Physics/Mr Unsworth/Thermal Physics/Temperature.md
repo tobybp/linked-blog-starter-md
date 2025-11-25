@@ -31,3 +31,8 @@ Actual temp = 16°C
 - Two objects are in thermal equilibrium if thermal energy CAN pass between them, but NO NET thermal energy is actually doing so.
 - If two systems are each in thermal equilibrium with a third system, then they are all in thermal equilibrium with each other.
 - You can say that each of these objects has a thermal property that they all share - this property is called temperature. 
+## Absolute Zero
+- The key discovery leading to absolute zero is that in any system the vibrational energy is proportional to the temperature.
+- This means that every system reaches the "no kinetic energy within it point" at the same temperature.
+- Absolute zero = no kinetic energy point
+- This temperature has been experimentally determined to be -273.15°C
