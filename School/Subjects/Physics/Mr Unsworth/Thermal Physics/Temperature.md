@@ -37,3 +37,5 @@ Actual temp = 16°C
 - Absolute zero = no kinetic energy point
 - This temperature has been experimentally determined to be -273.15°C
 ## Solids, Liquids & Gasses
+### The kinetic model
+- The kinetic model describes the three common phases of matter in the following matter.
