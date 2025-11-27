@@ -10,5 +10,6 @@ The mean kinetic energy of smoke particles = mean kinetic energy of air particle
 - Smoke particles high(er) mass but low velocity
 ## Pressure and Gases
 The **kinetic model** describes the process by which pressure is applied by a gas:
-- The particles in a gas move **randomly** throughout their container
-- The container (or an object within the container) is **continually bombarded** by those particles
+1) The particles in a gas move **randomly** throughout their container
+2) The container (or an object within the container) is **continually bombarded** by those particles
+3) At each collision, a molecule moving with **momentum** (mass x velocity) strikes the surface. The collisions are **elastic**, so the molecule **bounces back with the same velocity in the opposite direction.**
