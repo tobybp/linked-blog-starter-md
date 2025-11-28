@@ -20,3 +20,6 @@
 ## Heating a Substance
 Changing phase from solid to liquid:
 - During **melting**, we are **not changing the temperature**, so **kinetic energy does not increase**, BUT the **potential energy of the molecules does increase**, so the overall **internal energy increases**.
+## Specific Heat Capacity
+Defined as "the energy required to change the temperature of a 1kg mass of a substance by 1 Kelvin"
+Specific Heat Capacity = Energy Transferred / mass x temperature change
