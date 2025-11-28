@@ -14,3 +14,9 @@
 	**Matter cools and releases energy**
 2) This releases thermal energy is converted from potential energy in the particles being lost as they take up the solid arrangement where they are closer together (less stretched elastic)
 	**Released thermal energy reduces the potential energy of particles**
+3) The temperature of matter is controlled by the kinetic energy within the matter. So if the temperature does not fall, it must be true that the kinetic energy in the matter has not fallen.
+	- **Kinetic energy does not reduce**
+	- The **internal energy falls** as a consequence of the **loss of potential energy.**
+## Heating a Substance
+Changing phase from solid to liquid:
+- During **melting**, we are **not changing the temperature**, so **kinetic energy does not increase**, BUT the **potential energy of the molecules does increase**, so the overall **internal energy increases**.
