@@ -80,3 +80,11 @@ Conserved:
 1 = lepton 
 -1 = antilepton
 ### Beta Decay
+Electron emission
+Suggestion n -> p$^+$ + $e^-$
+Full quark equation udd -> uud + e$^-$
+Simplified d -> u + e$^-$
+Charge -1/3e -> +2/3 + -e = -1/3e
+Baryon number 1/3 -> 1/3 + 0
+Lepton number 0 -> 0 + 1
+n -> 
