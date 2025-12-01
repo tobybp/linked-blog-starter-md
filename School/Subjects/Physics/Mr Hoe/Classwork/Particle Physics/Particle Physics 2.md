@@ -69,3 +69,14 @@ Conserved:
 - anti-neutron
 	anti(udd) 
 	Charge -1/3 -1/3 -1/3
+### Leptons
+
+| Name                            | Charge | Lepton Number |
+| ------------------------------- | ------ | ------------- |
+| electron e^-                    | -e     | 1             |
+| Positron e^+                    | +e     | -1            |
+| Neutrino Curly V                | 0      | 1             |
+| Antineutrino Overscored Curly V | 0      | -1            |
+1 = lepton 
+-1 = antilepton
+### Beta Decay
