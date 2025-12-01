@@ -9,4 +9,16 @@ Neutron decay?
 	_Particles can transform?_
 	_Mass adds up?_
 	_Charge is conserved!_
+Parity (Quantum theory)
+- good & evil, up & down
+- Parity - "Equal and opposite"
+- We have neutrons, protons, electrons.
+	What do their opposites look like
 	
+A
+
+| Neutron      | Proton      | Electron |
+| ------------ | ----------- | -------- |
+| Anti-neutron | Anti-proton | Positron |
+| neutral      | e^-         | e^+      |
+| mn           | mp          | me       |
