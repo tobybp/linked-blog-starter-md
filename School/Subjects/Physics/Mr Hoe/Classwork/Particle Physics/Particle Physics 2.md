@@ -87,4 +87,6 @@ Simplified d -> u + e$^-$
 Charge -1/3e -> +2/3 + -e = -1/3e
 Baryon number 1/3 -> 1/3 + 0
 Lepton number 0 -> 0 + 1
-n -> 
+n -> p + e
+we need, anti-lepton, neutral
+n -> p + e + Overscore V
