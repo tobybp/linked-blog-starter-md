@@ -41,8 +41,9 @@ Gluons hold them together
 
 | Name        | Change | Baryon Number | Charm | Strangeness |
 | ----------- | ------ | ------------- | ----- | ----------- |
-| up (u)      | +2/3   | 1/3           | 0     | 0           |
-| down (d)    | -1/3   | 1/3           | 0     | 0           |
-| strange (s) | -1/3   | 1/3           | 0     | -1          |
-| charm (c)   | +2/3   | 1/3           | 1     | 0           |
-|             |        |               |       |             |
+| up (u)      | +2/3e  | 1/3           | 0     | 0           |
+| down (d)    | -1/3e  | 1/3           | 0     | 0           |
+| strange (s) | -1/3e  | 1/3           | 0     | -1          |
+| charm (c)   | +2/3e  | 1/3           | 1     | 0           |
+| top (t)     |        |               |       |             |
+| bottom (b)  |        |               |       |             |
