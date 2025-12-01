@@ -43,7 +43,15 @@ Gluons hold them together
 | ----------- | ------ | ------------- | ----- | ----------- |
 | up (u)      | +2/3e  | 1/3           | 0     | 0           |
 | down (d)    | -1/3e  | 1/3           | 0     | 0           |
-| strange (s) | -1/3e  | 1/3           | 0     | -1          |
-| charm (c)   | +2/3e  | 1/3           | 1     | 0           |
+| strange (s) | -1/3e  | 1/3           | 0     | +1          |
+| charm (c)   | +2/3e  | 1/3           | -1    | 0           |
 | top (t)     |        |               |       |             |
 | bottom (b)  |        |               |       |             |
+### Rules with quarks/hadrons/particles
+Conserved:
+- Mass
+- Energy
+- Charge
+- Baryon Number
+- Lepton Number
+- Strangeness
