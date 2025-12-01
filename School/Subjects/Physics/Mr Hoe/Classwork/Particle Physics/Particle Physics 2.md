@@ -28,3 +28,10 @@ Has mass and mass is mass...
 Substance? - Substantially different?
 e$^-$ + e$^+$ -> 2 photons
 annihilation!
+ΔE = Δmc$^2$
+### New words?
+- Hadron
+- Baryon
+- Anti-Baryon
+- Meson
+- Lepton
