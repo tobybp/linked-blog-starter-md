@@ -30,8 +30,10 @@ e$^-$ + e$^+$ -> 2 photons
 annihilation!
 ΔE = Δmc$^2$
 ### New words?
-- Hadron
-- Baryon
-- Anti-Baryon
-- Meson
-- Lepton
+- Hadron - Made from quarks, with 3 sub-families
+- Baryon = 3 quarks
+- Anti-Baryon = 3 anti-quarks
+- Meson = quark & anti-quark
+- Lepton = made of themselves and fundamental
+Fundamental - cannot be broken down
+Gluons hold them together
