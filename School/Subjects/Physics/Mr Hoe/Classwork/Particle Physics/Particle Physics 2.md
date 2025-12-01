@@ -15,10 +15,16 @@ Parity (Quantum theory)
 - We have neutrons, protons, electrons.
 	What do their opposites look like
 	
-A
+anti-matter:
 
 | Neutron      | Proton      | Electron |
 | ------------ | ----------- | -------- |
 | Anti-neutron | Anti-proton | Positron |
 | neutral      | e^-         | e^+      |
 | mn           | mp          | me       |
+### Anti-matter
+Has charge and charge is charge...
+Has mass and mass is mass...
+Substance? - Substantially different?
+e$^-$ + e$^+$ -> 2 photons
+annihilation!
