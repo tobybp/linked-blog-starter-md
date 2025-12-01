@@ -57,7 +57,15 @@ Conserved:
 - Strangeness
 ### Hadrons we know
 - Proton: +e, baryon number = 1
-	
+	uud
+	Charge +2/3 +2/3 - 1/3
+	baryon 1/3 + 1/3 + 1/3
 - Neutron
+	udd
+	Charge +2/3 - 1/3 - 1/3
 - Anti-proton
+	anti(uud)
+	Charge -2/3 -2/3 +1/3
 - anti-neutron
+	anti(udd) 
+	Charge -1/3 -1/3 -1/3
