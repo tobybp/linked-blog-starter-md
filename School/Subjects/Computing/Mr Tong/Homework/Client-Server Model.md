@@ -26,63 +26,34 @@ A webpage can load the Google Maps API with:
 
 ---
 # HTTP Communication
-
 ## Limitations of standard HTTP
-
 - The client must request data (pull model).
-    
 - If a socket connection is idle too long, the server drops the connection to conserve resources.
-    
 - Suitable for simple request–response, not real-time applications.
-    
 
 ---
-
 # WebSocket Protocol
-
 ## Features
-
 - Creates a persistent TCP socket connection.
-    
 - Full-duplex: client and server can send data at any time.
-    
 - Allows server push (server sends updates without being asked).
-    
 - Works in browsers and other client/server setups.
-    
 - WebSocket Secure encrypts the connection.
-    
-
 ## Advantages
-
 - Smaller packet sizes due to reduced headers.
-    
 - Supports real-time interaction (chat apps, live dashboards, games).
-    
 - Reduces server load, bandwidth usage and the number of required web servers.
-    
 
 ---
-
 # Online Databases
-
 ## Typical usage
-
 - Store and retrieve data requested via client-server interactions.
-    
 - Example: searching for a product online → client sends query → server queries database → results returned.
-    
-
 ## Other examples
-
 - Ticket systems
-    
 - Social media back-end data
-    
 - Online banking
-    
 - Streaming platforms’ metadata stores
-    
 
 ---
 
