@@ -18,3 +18,6 @@ lepton number
 	oh dear... complete the picture...
 	we need a lepton, charge less one.
 	p$^+$ - > n + e$^+$ + v
+Δ𝜖 = Δmc$^2$
+	same energy -> the missing mass
+	from where? the nucleus
