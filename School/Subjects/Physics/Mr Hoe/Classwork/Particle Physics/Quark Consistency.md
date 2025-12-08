@@ -21,3 +21,6 @@ lepton number
 Δ𝜖 = Δmc$^2$
 	same energy -> the missing mass
 	from where? the nucleus
+### Beta- vs beta+
+neutron decay -> B$^-$ viable process in isolation
+Proton decay -> B$^+$ not viable process in isolation
