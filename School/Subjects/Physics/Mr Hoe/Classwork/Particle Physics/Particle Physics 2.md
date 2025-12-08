@@ -2,7 +2,7 @@
 #1/12/25 
 In 1936, a muon was discovered, roughly 200x mass of electron
 Charge = 1.6 x 10$^{-19}$
-#### The  beta decay problem
+#### The beta decay problem
 How can an electron be emitted from the nucleus?
 Neutron decay?
 	n -> p + e$^{-}$
@@ -39,7 +39,7 @@ Fundamental - cannot be broken down
 Gluons hold them together
 ### Quarks
 
-| Name        | Change | Baryon Number | Charm | Strangeness |
+| Name        | Charge | Baryon Number | Charm | Strangeness |
 | ----------- | ------ | ------------- | ----- | ----------- |
 | up (u)      | +2/3e  | 1/3           | 0     | 0           |
 | down (d)    | -1/3e  | 1/3           | 0     | 0           |
