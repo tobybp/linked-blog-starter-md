@@ -1,3 +1,3 @@
 [[Maths]]
 #5/12/25
-![[Excalidraw/NumMethods2.md|700]]
+![[NumMethods2|700]]

@@ -4,4 +4,4 @@
 - Electron
 - Neutron
 - Proton
-![[Excalidraw/particlemodel.md]]
+![[particlemodel]]

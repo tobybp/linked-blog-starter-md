@@ -1,6 +1,6 @@
 [[Physics]]
 #17/11/25 
-![[Excalidraw/plumpudding.md|550]]
+![[plumpudding|550]]
 ### Background:
 - Charge and mass
 - Matter tends to be neutral
@@ -14,7 +14,7 @@
 - No empty space
 - "Gas-like cloud" - plums can stream out from...
 ## Rutherford's Experiment
-![[Excalidraw/rutherfordsexperiment.md|700]]
+![[rutherfordsexperiment|700]]
 - Alpha source - radiation
 - Gold foil - absorber or deflector
 - Detector - notice where alpha particles have travelled
@@ -29,13 +29,13 @@
 - Small and positive nucleus causing repulsion for alpha
 - Nucleus must be high in mass for alpha particle to rebound (considering momentum)
 ## The Nuclear Model
-![[Excalidraw/NuclearModel.md]]
+![[NuclearModel]]
 - Neutral overall
 - Lots of empty space
 - Small, heavy, positive nucleus
 - Very small negative electrons
 ## Further Discoveries
-![[Excalidraw/FurtherDiscoveries.md|700]]
+![[FurtherDiscoveries|700]]
 Nucleus is not one big lump, but made of tiny bits.
 Alpha particles have knocked proton out from the Al nuclei
 ## Comparing the models

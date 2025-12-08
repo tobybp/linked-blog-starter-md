@@ -30,7 +30,7 @@ small - most alpha particles pass through the empty space
 positive - alpha particles deflect and are repelled
 heavy - head on collision, the alpha particle recoils completely
 
-b) ![[Excalidraw/alphanucleusdiagram.md]]
+b) ![[alphanucleusdiagram]]
 ###### i) The alpha particle comes to rest instantaneously a short distance away from the aluminium nucleus. It then reverses its direction of travel. Describe and explain the motion of the aluminium nucleus at the instant the alpha particle is at rest.
 Where has the momentum in alpha particle gone?
 Momentum is always conserved
@@ -89,7 +89,7 @@ F = GMm / r$^2$
 	Way way smaller, therefore must be a third force
 Fcharge is much greater than Fgravity
 So, we need something else to make it all balance out... Equilibrium of forces...
-![[Excalidraw/repulseattract.md|600]]
+![[repulseattract|600]]
 - Shor range
 - Attractive when close (<3fm) these distances are quoted in the specification
 - Really attractive at the right distance (1.8fm, peak 1.2ish fm)
