@@ -14,3 +14,7 @@ charge
 baryon number
 	1/3 -> 1/3 + 0
 lepton number
+	0 -> 0 + -1 
+	oh dear... complete the picture...
+	we need a lepton, charge less one.
+	p$^+$ - > n + e$^+$ + v
