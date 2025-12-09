@@ -11,3 +11,6 @@
 - Sometimes this continues to granddaughter 
 - Decay chain
 - Radiation is random in nature
+
+## What are the mechanisms for radioactive decay?
+Alpha decay = emission of alpha particle (2p+ & 2n) Beta decay = emission of an electron (e) Beta* decay = emission of a positron (e*) Gamma decay = emisison of a photon (of energy)
