@@ -16,3 +16,11 @@ Is the heater the only thing affecting the melting?
 - Use of a control experiment
 - Then deduct the mass m(c) from m
 - m(melted) = m - m(c)
+### Method - you need to know
+1) Fill bulb with water
+2) Turn heater on
+3) **Allow the apparatus to reach constant state.** (ie the rate of boiling equals the rate of condensation - this can be seen by the rate of flow of condensate collected in the flask)
+4) Start timer
+5) Take readings on the Ammeter, voltmeter, scales and stop clock (every 30 seconds)
+6) Plot a graph of E against m
+7) Gradient is Lv
