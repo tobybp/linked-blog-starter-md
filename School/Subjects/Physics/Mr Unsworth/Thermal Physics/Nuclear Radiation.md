@@ -18,3 +18,15 @@ Beta$^-$ decay = emission of an electron (e$^-$)
 Beta$^+$ decay = emission of a positron (e$^+$) 
 Gamma decay = emission of a photon (of energy)
 ![[Pasted image 20251209150430.png]]
+
+## Practical
+
+| d/cm | count 10s | 1/d^2 |
+| ---- | --------- | ----- |
+| 5    | 72000     |       |
+| 10   | 2658      |       |
+| 15   | 1350      |       |
+| 20   | 898       |       |
+| 25   | 480       |       |
+| 30   | 278       |       |
+| 35   |           |       |
