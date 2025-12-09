@@ -8,4 +8,4 @@ where L = Latent heat
 	Units: Jkg$^{-1}$
 - Specific Latent Heat of Fusion, Lf - Defines the latent heat required to change phase between solid and liquid (and vice versa)
 	Lf = F/m
-- Specific Latent Heat of Vaporisation, Lv
+- Specific Latent Heat of Vaporisation, Lv - Defines the latent heat required to change phase between liquid and gas (and vice versa)
