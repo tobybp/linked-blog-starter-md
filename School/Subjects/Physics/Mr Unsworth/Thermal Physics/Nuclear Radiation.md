@@ -13,4 +13,8 @@
 - Radiation is random in nature
 
 ## What are the mechanisms for radioactive decay?
-Alpha decay = emission of alpha particle (2p+ & 2n) Beta decay = emission of an electron (e) Beta* decay = emission of a positron (e*) Gamma decay = emisison of a photon (of energy)
+Alpha decay = emission of alpha particle (2p+ & 2n)
+Beta$^-$ decay = emission of an electron (e$^-$) 
+Beta$^+$ decay = emission of a positron (e$^+$) 
+Gamma decay = emission of a photon (of energy)
+![[Pasted image 20251209150430.png]]
