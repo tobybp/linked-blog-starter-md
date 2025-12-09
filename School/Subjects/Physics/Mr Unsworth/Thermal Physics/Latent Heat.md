@@ -12,3 +12,7 @@ where L = Latent heat
 - The kinetic energy of the molecules remains the same during a phase change
 - The potential energy changes
 - As a substance is heated - the bonds between molecules become weaker and the electrostatic potential energy increases
+Is the heater the only thing affecting the melting?
+- Use of a control experiment
+- Then deduct the mass m(c) from m
+- m(melted) = m - m(c)
