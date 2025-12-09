@@ -9,3 +9,6 @@ where L = Latent heat
 - Specific Latent Heat of Fusion, Lf - Defines the latent heat required to change phase between solid and liquid (and vice versa)
 	Lf = F/m
 - Specific Latent Heat of Vaporisation, Lv - Defines the latent heat required to change phase between liquid and gas (and vice versa)
+- The kinetic energy of the molecules remains the same during a phase change
+- The potential energy changes
+- As a substance is heated - the bonds between molecules become weaker and the electrostatic potential energy increases
