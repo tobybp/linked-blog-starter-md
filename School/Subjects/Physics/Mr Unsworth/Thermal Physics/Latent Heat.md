@@ -24,4 +24,3 @@ Is the heater the only thing affecting the melting?
 5) Take readings on the Ammeter, voltmeter, scales and stop clock (every 30 seconds)
 6) Plot a graph of E against m
 7) Gradient is Lv
-8) 
