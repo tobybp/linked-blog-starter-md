@@ -1,4 +1,4 @@
-[/[Computing]]
+[[Computing]]
 #22/2/25
 ## Assembly Code
 - Computers process instructions that are written in machine code only.

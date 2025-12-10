@@ -1,4 +1,4 @@
-[[Maths]]
+[[Physics]]
 #21/10/25
 - All bodies with mass create a gravitational field
 - This field extends to infinity getting weaker as the distance increases
