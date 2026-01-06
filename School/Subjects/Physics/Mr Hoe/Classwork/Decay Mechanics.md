@@ -30,3 +30,10 @@
 | 23     | 1         | 99      | 0        | -     |
 | 24     | 1         | 99      | 0        | -     |
 | 25     | 0         | 100     | 1        | 0     |
+## Activity and Half Life
+A = dN/dt = -λN
+	Change in number of radionuclides per time
+	A = Activity / Bq (Bequerel)
+	N = Number of radionuclides
+	t = time/s
+	λ = Decay Constant / s$^{-1}$ 
