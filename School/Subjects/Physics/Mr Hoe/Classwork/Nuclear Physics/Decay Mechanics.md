@@ -1,7 +1,6 @@
 [[Physics]]
 #6/1/26
 
-
 | Throws | Undecayed | Decayed | Activity | ln(A) |
 | ------ | --------- | ------- | -------- | ----- |
 | 0      | 100       | 0       | -        | -     |
@@ -33,7 +32,8 @@
 ## Activity and Half Life
 A = dN/dt = -λN
 	Change in number of radionuclides per time
-	A = Activity / Bq (Bequerel)
+	A = Activity / Bq (Becquerel)
 	N = Number of radionuclides
-	t = time/s
+	t = time / s
 	λ = Decay Constant / s$^{-1}$ 
+		Decays per time per particle
