@@ -53,4 +53,9 @@ vᵧ = 5 - 10t
 Sᵧ = 5t - 5t$^2$
 ### i) Max height, let Vᵧ = 0
 Vᵧ$^2$ = uᵧ$^2$ + 2aᵧSᵧ
-Sᵧ = 
+Sᵧ = 1.25m Therefore max height = 11.25m
+### ii) Time of flight, let Sᵧ = -10
+-10 = uᵧt - 1/2gt$^2$
+t = 2s
+### iii) Range, Sₓ and time at flight
+Sₓ = 2 x 4 = 8m
