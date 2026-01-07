@@ -34,4 +34,23 @@ Maximum horizontal position
 - Use Vᵧ$^2$ = uy$^2$ + 2aᵧSᵧ 
 	let Vᵧ = 0
 ## Example 1
-A ball is projected with a velocity (4, 5) from a position (0,10). Assuming g = 19m
+A ball is projected with a velocity (4,5) from a position (0,10). Assuming g = 19ms$^{-2}$
+find:
+i) The maximum height
+ii) The time of flight
+iii) The range
+iv) The angle of flight after 1 second.
+![[Excalidraw/example1particles.md]]
+### Horizontal:
+aₓ = 0
+uₓ = 4
+vₓ = 4
+Sₓ = 4t
+### Vertical:
+aᵧ = -10
+uᵧ = 5
+vᵧ = 5 - 10t
+Sᵧ = 5t - 5t$^2$
+### i) Max height, let Vᵧ = 0
+Vᵧ$^2$ = uᵧ$^2$ + 2aᵧSᵧ
+Sᵧ = 
