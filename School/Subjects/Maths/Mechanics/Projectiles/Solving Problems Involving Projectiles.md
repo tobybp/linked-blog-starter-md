@@ -59,4 +59,8 @@ Sᵧ = 1.25m Therefore max height = 11.25m
 t = 2s
 ### iii) Range, Sₓ and time at flight
 Sₓ = 2 x 4 = 8m
-### iv) Direction of flight when t = 1s# Exercise 6B
+### iv) Direction of flight when t = 1s
+...
+
+---
+# Exercise 6B
