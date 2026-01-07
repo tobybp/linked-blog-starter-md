@@ -18,6 +18,10 @@ Velocity at any point = `Vᵧ = uᵧ + aᵧ = Vsinθ - gt`
 Vertical position = `Sᵧ = Uᵧt + 1/2aᵧt$^2$`
                      = `utsinθ - 1/2gt$^2$`
 ### Direction of flight
-![[Excalidraw/direction of flight.md|4]]
+![[Excalidraw/direction of flight.md|300]]
 Vᵧ = utsinθ - gt
 θ = tan$^{-1}$(Vᵧ / Vₓ)
+### Time of Flight
+![[Excalidraw/timeofflight.md]]
+- Let Sᵧ = 0 and solve for t
+- Calculate time to max height, and double it
