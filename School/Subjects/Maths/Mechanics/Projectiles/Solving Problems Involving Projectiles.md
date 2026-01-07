@@ -25,3 +25,13 @@ Vᵧ = utsinθ - gt
 ![[Excalidraw/timeofflight.md]]
 - Let Sᵧ = 0 and solve for t
 - Calculate time to max height, and double it
+### Range
+Maximum horizontal position
+- Sₓ = time of flight x `ucosθ`
+### Max Height
+- Let Vᵧ = 0 and solve for t
+	Sub t into Sᵧ
+- Use Vᵧ$^2$ = uy$^2$ + 2aᵧSᵧ 
+	let Vᵧ = 0
+## Example 1
+A ball is projected with a velocity (4, 5) from a position (0,10). Assuming g = 19m
