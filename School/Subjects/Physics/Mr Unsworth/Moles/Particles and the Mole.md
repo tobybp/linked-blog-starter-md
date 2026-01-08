@@ -33,3 +33,6 @@ When a particle collides elastically with a container wall, it bounces off with 
 Since F = dp/dt this means the wall exerted a force on the molecule.
 By Newton's 3rd law, the molecule exerts an equal and opposite force on the wall
 The sum of all these forces over the area of the container walls is equal to the pressure
+## Summary Questions
+1) 3 x 6.02x10$^{23}$ = 1.806x10$^{24}$
+2) Different elements have different mass numbers
