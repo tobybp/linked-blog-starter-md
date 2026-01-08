@@ -29,4 +29,7 @@ Pressure = mu$^2$ / L / L$^2$
 Pressure = mu$^2$ / L$^3$ where L$^3$ is the volume of the box
 Pressure = mu$^2$ / V
 Hence pressure is inversely proportional to the volume
-	
+When a particle collides elastically with a container wall, it bounces off with the same speed but now has a different direction, so there is a change in velocity and hence momentum.
+Since F = dp/dt this means the wall exerted a force on the molecule.
+By Newton's 3rd law, the molecule exerts an equal and opposite force on the wall
+The sum of all these forces over the area of the container walls is equal to the pressure
