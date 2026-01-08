@@ -18,3 +18,8 @@ Force = Δp / Δt
 Δt is the time taken between collisions on the wall of the cube.
 speed = distance / time
 Therefore time = distance / speed = 2L / u
+Force = Δp / Δt
+Force = -2mu / 2L / u
+Force = -2mu x u/2L = -mu$^2$ / L
+Using Newton's third law, the force on Face A of the box will be equal and opposite
+Force on the wall = mu$^2$ / L
