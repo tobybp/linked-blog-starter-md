@@ -14,3 +14,7 @@ Now consider a particle travelling towards the wall of a container.
 Its change in momentum = Final momentum - initial momentum
 = (-mu) - (mu)
 Therefore, change in momentum = -2mu
+Force = Δp / Δt
+Δt is the time taken between collisions on the wall of the cube.
+speed = distance / time
+Therefore time = distance / speed = 2L / u
