@@ -23,3 +23,10 @@ Force = -2mu / 2L / u
 Force = -2mu x u/2L = -mu$^2$ / L
 Using Newton's third law, the force on Face A of the box will be equal and opposite
 Force on the wall = mu$^2$ / L
+Pressure = Force / Area
+Area = L$^2$
+Pressure = mu$^2$ / L / L$^2$
+Pressure = mu$^2$ / L$^3$ where L$^3$ is the volume of the box
+Pressure = mu$^2$ / V
+Hence pressure is inversely proportional to the volume
+	
