@@ -28,4 +28,4 @@ moles x 6.02x10$^{23}$ = number of particles
 moles = 22 / 14
 particles = 22/14 x 6.02x10$^{23}$
 λ = ln(2) / 5730x3.16x10$^7$
-λ = 
+How many
