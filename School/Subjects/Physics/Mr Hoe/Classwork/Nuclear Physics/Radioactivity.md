@@ -15,3 +15,4 @@ A₀/2 = A₀e$^{-λ(t1/2)}$
 ln(A₀/2) = A₀(-λ\*t1/2)
 **ln2 / t(1/2) = λ**
 ![[Excalidraw/AtGraph.md]]
+We have a sample with 22g
