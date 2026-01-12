@@ -25,3 +25,7 @@ If we have 1 moles, there is 6.02 x 10$^{23}$ particles
 C₁₄ -  1 mole is 14kg
 mass of sample / mass of one mole = number of moles
 moles x 6.02x10$^{23}$ = number of particles
+moles = 22 / 14
+particles = 22/14 x 6.02x10$^{23}$
+λ = ln(2) / 5730x3.16x10$^7$
+λ = 
