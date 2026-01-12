@@ -35,3 +35,8 @@ How many years until 7g of C₁₄ left?
 - ln(7/22) = -λt
 - t = 2.99x10$^{11}$s
 - 2.99x10$^{11}$ / 60 / 60 / 24 = 9466 years
+1) A = λN
+2) λ = ln2 / t1/2
+3) A = A₀e$^{-λt}$
+4) N = N₀e$^{-λt}$
+5) ln(A) = ln()
