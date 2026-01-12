@@ -15,4 +15,13 @@ A₀/2 = A₀e$^{-λ(t1/2)}$
 ln(A₀/2) = A₀(-λ\*t1/2)
 **ln2 / t(1/2) = λ**
 ![[Excalidraw/AtGraph.md]]
-We have a sample with 22g
+We have a sample with 22g of C₁₄
+Half life of C₁₄ is 5730yrs
+Initial activity?
+A = -λN
+
+moles??
+If we have 1 moles, there is 6.02 x 10$^{23}$ particles
+C₁₄ -  1 mole is 14kg
+mass of sample / mass of one mole = number of moles
+moles x 6.02x10$^{23}$ = number of particles
