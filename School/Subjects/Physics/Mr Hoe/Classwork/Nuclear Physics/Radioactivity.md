@@ -12,3 +12,5 @@ A₀ = Initial activity
 t = t1/2 (half life)
 at t1/2 the activity will be A₀/2
 A₀/2 = A₀e$^{-λ(t1/2)}$
+ln(A₀/2) = A₀(-λ\*t1/2)
+**ln2 / t(1/2) = λ**
