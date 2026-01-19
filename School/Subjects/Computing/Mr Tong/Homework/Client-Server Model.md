@@ -95,11 +95,8 @@ A webpage can load the Google Maps API with:
 ## Mapping to CRUD
 
 - GET → Retrieve
-    
 - POST → Create
-    
 - PUT → Update / Create
-    
 - DELETE → Delete
 
 ---
