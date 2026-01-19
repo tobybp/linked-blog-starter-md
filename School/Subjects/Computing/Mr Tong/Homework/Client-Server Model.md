@@ -149,29 +149,19 @@ A webpage can load the Google Maps API with:
 ## Thick client
 
 - Powerful host machine.
-    
 - Performs most processing locally.
-    
 - Each device must be maintained individually.
-    
-- Higher hardware cost.
-    
+- Higher hardware costs.
 
 ## Thin client
 
 - Lightweight host device.
-    
 - Most processing happens on central server.
-    
 - Simple operating system, lower maintenance.
-    
 - A zero-client loads its OS from a server at boot.
-    
 - Requires a powerful server and reliable network.
-    
 
 ## Comparison
 
 - Thick clients → more local power, less dependency on central server, more costly.
-    
 - Thin clients → cheaper hardware, easier centralised management, heavily dependent on server performance.
