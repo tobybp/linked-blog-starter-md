@@ -106,25 +106,18 @@ A webpage can load the Google Maps API with:
 ## Key principles
 
 - Architectural style for designing web services.
-    
 - Typically uses HTTP methods for CRUD operations.
-    
 - Client and server are separated (loose coupling).
-    
 - Server database can change without affecting the client’s behaviour.
-    
 
 ## Example requests to a database named `dinosaur`:
 
 - `PUT dino.com/dinosaur/Triceratops/period/Cretaceous`  
     Updates (or creates) the period for Triceratops.
-    
-- `DELETE dino.com/dinosaur/Chindesaurus`  
-    Deletes the Chindesaurus record.
-    
+- `DELETE dino.com/dinosaur/DoYouThinkHesaurus`  
+    Deletes the DoYouThinkHesaurus record.
 - `GET dino.com/dinosaur/`  
     Retrieves all dinosaur records.
-    
 
 ---
 
@@ -133,31 +126,21 @@ A webpage can load the Google Maps API with:
 ## JSON (JavaScript Object Notation)
 
 - Lightweight.
-    
 - Easy for humans to read.
-    
 - Matches programming data structures.
-    
 - Directly usable in JavaScript.
-    
 
 ## XML (Extensible Markup Language)
 
 - Tag-based structure similar to HTML.
-    
 - More verbose.
-    
 - Supports schemas and advanced structuring.
-    
 
 ## Comparison summary
 
 - JSON is simpler and faster to parse.
-    
 - XML supports mixed content and is more flexible but heavier.
-    
 - JSON is generally preferred for modern web APIs.
-    
 
 ---
 
