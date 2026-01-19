@@ -58,7 +58,6 @@ A webpage can load the Google Maps API with:
 ---
 
 # CRUD Operations
-
 ## Definition
 
 - Create – write a new record.
@@ -68,7 +67,6 @@ A webpage can load the Google Maps API with:
 - Update – modify a record.
     
 - Delete – remove a record.
-    
 
 ## Link to SQL
 
@@ -79,7 +77,6 @@ A webpage can load the Google Maps API with:
 - UPDATE → Update
     
 - DELETE → Delete
-    
 
 ---
 
@@ -94,7 +91,6 @@ A webpage can load the Google Maps API with:
 - PUT – upload or overwrite a resource (often Update/Create).
     
 - DELETE – remove a resource.
-    
 
 ## Mapping to CRUD
 
@@ -105,7 +101,6 @@ A webpage can load the Google Maps API with:
 - PUT → Update / Create
     
 - DELETE → Delete
-    
 
 ---
 
