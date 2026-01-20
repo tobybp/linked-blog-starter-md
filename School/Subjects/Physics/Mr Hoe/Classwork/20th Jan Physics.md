@@ -33,6 +33,9 @@ Li-7 nucleus 7.01600 - (3 x 0.00055) = 7.0145
 - Calculate mass loss when Li-7 nucleus forms
 	7.0565 - 7.0145 = 0.0420u
 - This lost mass is known as the mass defect
+	0.042 x 1.66 x 10$^{-27}$ = 6.972 x 10$^{-29}$
 - Convert the mass defect into kg
+	ΔE = Δmc$^2$
+	ΔE = 6.972x10$^{-29}$ x (3x10$^8$)$^2$ 
 - Plug this into the ΔE = Δmc$^2$
 - What does this mean?
