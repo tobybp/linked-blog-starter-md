@@ -29,4 +29,10 @@ electron mass = 0.00055u
 Li-7 atom mass = 7.01600u
 3p + 4n mass
 (3 x 1.00728) + (4 x 1.008665) = 7.0565
-Li-7 nucleus 7.
+Li-7 nucleus 7.01600 - (3 x 0.00055) = 7.0145
+- Calculate mass loss when Li-7 nucleus forms
+	7.0565 - 7.0145 = 0.0420u
+- This lost mass is known as the mass defect
+- Convert the mass defect into kg
+- Plug this into the ΔE = Δmc$^2$
+- What does this mean?
