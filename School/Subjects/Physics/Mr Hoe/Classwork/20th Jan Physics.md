@@ -49,3 +49,5 @@ Li-7 nucleus 7.01600 - (3 x 0.00055) = 7.0145
 - What does this mean?
 	Mass loss -> energy release
 	-> binding energy
+
+![[Excalidraw/NuclearEnergyu.md|600]]
