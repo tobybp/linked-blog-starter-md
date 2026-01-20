@@ -14,4 +14,8 @@ u = unified atomic mass unit
 u = 1/12 mass of a carbon-12 nucleus
 u = a unit in its own right
 u = equivalent of 1.66x10$^{-27}$kg
-$_3$
+u = John Dalton's idea
+
+Nuclear Binding Energy
+The binding energy of a nucleus is the energy released when the nucleus is assembled from its constituent nucleons. This is equal in value to the energy required to separate the nucleus into individual nucleons.
+The b
