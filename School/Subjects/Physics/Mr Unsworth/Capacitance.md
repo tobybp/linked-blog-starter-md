@@ -13,3 +13,5 @@ Units:
 	\[Q] = coulombs, C
 	\[V] = volts, V
 	\[c] farads, F
+Quick example...
+	Calculate the pd across a capacitor of capacitance 0.15 μF when it stores 4.9x10$^{11}$ electrons (e = 1.6 x 10$^{-19}$C)
