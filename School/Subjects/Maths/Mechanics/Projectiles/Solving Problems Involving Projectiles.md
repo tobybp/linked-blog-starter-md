@@ -4,7 +4,7 @@
 - A particle
 - Negligible air resistance
 - Not powered
-![[Excalidraw/particlemodels.md|700]]
+![[particlemodels|700]]
 ### Horizontal:
 Acceleration aₓ = `0`
 Initial velocity `uₓ = ucosθ`
@@ -18,11 +18,11 @@ Velocity at any point = `Vᵧ = uᵧ + aᵧ = Vsinθ - gt`
 Vertical position = `Sᵧ = Uᵧt + 1/2aᵧt$^2$`
                      = `utsinθ - 1/2gt$^2$`
 ### Direction of flight
-![[Excalidraw/direction of flight.md|300]]
+![[direction of flight|300]]
 Vᵧ = utsinθ - gt
 θ = tan$^{-1}$(Vᵧ / Vₓ)
 ### Time of Flight
-![[Excalidraw/timeofflight.md]]
+![[timeofflight]]
 - Let Sᵧ = 0 and solve for t
 - Calculate time to max height, and double it
 ### Range
@@ -40,7 +40,7 @@ i) The maximum height
 ii) The time of flight
 iii) The range
 iv) The angle of flight after 1 second.
-![[Excalidraw/example1particles.md]]
+![[example1particles]]
 ### Horizontal:
 aₓ = 0
 uₓ = 4
