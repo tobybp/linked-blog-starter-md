@@ -1,5 +1,6 @@
 [[Physics]]
 #27/1/26
+
 Products might have an increased BE/nucleus, if so, energy is released
 ΔE = Δmc$^2$
 **IF** there is a loss of mass during the process, energy is released
@@ -9,3 +10,7 @@ Products might have an increased BE/nucleus, if so, energy is released
 - Must get close, so strong force can act
 - Spontaneous? no
 - Conditions? star-like
+#### Advantages of fusion over fission? Disadvantages...
+- Energy density
+- Less (no) radioactive waste
+- Resources
