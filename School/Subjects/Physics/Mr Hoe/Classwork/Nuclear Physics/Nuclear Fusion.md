@@ -14,4 +14,4 @@ Products might have an increased BE/nucleus, if so, energy is released
 - Energy density
 - Less (no) radioactive waste
 - Resources
-![[Excalidraw/heliumfromhydrogenfusion.md]]
+![[Excalidraw/heliumfromhydrogenfusion.md|600]]
