@@ -36,3 +36,5 @@ The sum of all these forces over the area of the container walls is equal to the
 ## Summary Questions
 1) 3 x 6.02x10$^{23}$ = 1.806x10$^{24}$
 2) Different elements have different mass numbers
+## Summary Questions 2 p142-143
+1) 
