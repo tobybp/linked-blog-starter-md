@@ -35,4 +35,6 @@ Functions can work with more than one type
 Haskell can get types automatically, but you can also specify a type to use.
 ## First class obkects
 First class objects are entities that can:
-	
+- Be in expressions
+- Assigned to variables
+- Passed as arguments
