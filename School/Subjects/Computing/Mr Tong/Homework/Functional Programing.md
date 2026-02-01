@@ -46,4 +46,13 @@ First class objects contain:
 - Strings
 - Functions
 ## Composition of Functions
-Functions can be combined, so the output of one becomes the input of the next. This is known as function composition. Allows complex things from sim
+Functions can be combined, so the output of one becomes the input of the next. This is known as function composition. Allows complex things from simple functions.
+## Statelessness
+Functional programming is stateless, meaning variables can be assigned, and then not changed after that.
+This is the opposite of procedural programming, where variables can be changed.
+## Referential Transparency 
+Functions have no side effects, meaning they only work out a result and then return it. If a function is called with the same input, it always returns the same output.
+Benefits:
+- Easier to reason
+- Functions can be individually tested
+- Predictable and reliable
