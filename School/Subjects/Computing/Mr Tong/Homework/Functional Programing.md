@@ -38,3 +38,12 @@ First class objects are entities that can:
 - Be in expressions
 - Assigned to variables
 - Passed as arguments
+First class objects contain:
+- Integers
+- Floats
+- Booleans
+- Characters
+- Strings
+- Functions
+## Composition of Functions
+Functions can be combined, so the output of one becomes the input of the next. This is known as function composition. Allows complex things from sim
