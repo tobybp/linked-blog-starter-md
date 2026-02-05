@@ -21,3 +21,6 @@ lnQ = ln(Q$_0$e$^{-1/RC}$)
 lnQ = lnQ$_0$ - 1/RC x t
 Gradient = -1/RC
 Y intercept = lnQ$_0$
+I = V/R = Q/RC
+Change in Q / change in t = -Q/RC
+We can use this equation to model the decay of charge on a capacitor using a technique called iterative modelling.
