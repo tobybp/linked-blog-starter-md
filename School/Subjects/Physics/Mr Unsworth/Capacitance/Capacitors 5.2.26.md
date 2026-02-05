@@ -7,4 +7,9 @@ d = separation of plates
 
 A **fully charged capacitor** can be thought of as a **power supply**. When the **switch** is **closed**, the **charge** will **flow** from one plate to the other, **dissipating** its **energy** through the **resistor**.
 As charge leaves, the **pd** across the capacitor **decreases**.
-Q = Q$_0$e$^{t/RC}$ 
+Q = Q$_0$e$^{-t/RC}$ 
+	Exponential decay
+## Time Constant
+If the initial charge, pd and current are Q$_0$, V$_0$, and I$_0$ respectively:
+Q = Q$_0$e$^{-t/RC}$ 
+I = I$_0$e$^{-t/RC}$ 
