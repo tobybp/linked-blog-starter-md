@@ -13,3 +13,6 @@ Q = Q$_0$e$^{-t/RC}$
 If the initial charge, pd and current are Q$_0$, V$_0$, and I$_0$ respectively:
 Q = Q$_0$e$^{-t/RC}$ 
 I = I$_0$e$^{-t/RC}$ 
+If t = RC, then V, Q and I all frop to e$^{-1}$ times their initial value (roughly 37%)
+V = V$_0$e$^{-t/RC}$ = V$_0$e$^{-RC/RC}$ = V$_0$e$^{-1}$ = 0.37V$_0$
+The time constant, τ = RC (unit: seconds), is the time taken for the V, Q or I to drop to e$^{-1}$ (roughly 37%) of the original value when discharging
