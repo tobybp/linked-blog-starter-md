@@ -16,4 +16,8 @@ I = I$_0$e$^{-t/RC}$
 If t = RC, then V, Q and I all frop to e$^{-1}$ times their initial value (roughly 37%)
 V = V$_0$e$^{-t/RC}$ = V$_0$e$^{-RC/RC}$ = V$_0$e$^{-1}$ = 0.37V$_0$
 The time constant, τ = RC (unit: seconds), is the time taken for the V, Q or I to drop to e$^{-1}$ (roughly 37%) of the original value when discharging
-The larger the value of τ, the longer the time taken for a given capacitor to 
+The **larger** the **value** of τ, the **longer** the **time** taken for a given capacitor to **discharge**
+lnQ = ln(Q$_0$e$^{-1/RC}$)
+lnQ = lnQ$_0$ - 1/RC x t
+Gradient = -1/RC
+Y intercept = lnQ$_0$
