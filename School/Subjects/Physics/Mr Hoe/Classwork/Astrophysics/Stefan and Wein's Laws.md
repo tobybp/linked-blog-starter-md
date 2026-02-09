@@ -22,3 +22,11 @@ Black body radiation
 Data for the sun:
 Surface temperature = 5800K
 Peak wavelength = 500nm
+
+## Stefan's law
+The luminosity of an object is proportional to the absolute temperature of an object to the power of four
+L is proportional to T$^4$
+Where:
+L = Luminosity / W
+T = Absolute temperature / K
+L$_1$ / L$_2$ = T$_1$$^4$ / T$_1$$^4$ 
