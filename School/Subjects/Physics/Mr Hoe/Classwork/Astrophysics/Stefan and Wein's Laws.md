@@ -29,4 +29,11 @@ L is proportional to T$^4$
 Where:
 L = Luminosity / W
 T = Absolute temperature / K
-L$_1$ / L$_2$ = T$_1$$^4$ / T$_1$$^4$ 
+L$_1$ / L$_2$ = T$_1$$^4$ / T$_2$$^4$ 
+
+L = 4πr$^2$σT$^4$
+Where:
+	L = luminosity of star / W
+	r = radius of star / m
+	σ = Stefan-Boltzman constant
+	T = surface temperature of star / K
