@@ -33,7 +33,9 @@ L$_1$ / L$_2$ = T$_1$$^4$ / T$_2$$^4$
 
 L = 4πr$^2$σT$^4$
 Where:
-	L = luminosity of star / W
+	L = luminosity\* of star / W
 	r = radius of star / m
 	σ = Stefan-Boltzman constant
 	T = surface temperature of star / K
+	\* Luminosity is the total energy emitted per unit time
+![[Excalidraw/hotfusion.md]]
