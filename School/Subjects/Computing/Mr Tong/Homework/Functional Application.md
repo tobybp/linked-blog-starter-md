@@ -12,7 +12,7 @@
 ---
 ## Function application
 - Function application is the process of supplying arguments to a function
-- Although a function may appear to take multiple arguments, **a function actually takes only one argument at a time**
+- Although a function looks like it take multiple arguments, **a function takes only one argument at a time**
 Example:
 	`add3Integers x y z = x + y + z`
 Type declaration:
@@ -24,15 +24,14 @@ More accurately:
 ## One argument at a time
 When evaluating:
 `add3Integers 2 4 5`
-This happens in stages:
+This happens in parts:
 1. `add3Integers 2` returns a new function
-2. That function is applied to `4`, returning another function
-3. That function is applied to `5`, producing the final value
+2. Function is applied to `4`, returning another function
+3. Function is applied to `5`, producing the final value
 
 ---
 ## Partial function application
-- Partial function application occurs when a function is given **fewer arguments than it expects**
-- Instead of returning a value, it returns a **new function** waiting for the remaining arguments
+- Using a function that takes less inputs than another, and setting a default value within the fewer input function to fill the greater number of inputs in the other function. For example 2 numbers can be inputted to one, then that function will call a function with 3 functions, and add a preset value for the 3rd input.
 
 Example:
 	`add :: Integer -> Integer -> Integer add x y = x + y`
@@ -53,150 +52,82 @@ This allows reuse of a function with a fixed value.
 ---
 ## Higher-order functions
 - A higher-order function is a function that:
-    
     - takes a function as an argument, or
-        
     - returns a function as a result, or
-        
     - does both
-        
 
 Examples:
-
 - `map`
-    
 - `filter`
-    
 - `fold`
-    
 
 ---
-
 ## The map function
-
-- `map` applies a function to every element in a list
-    
-- It returns a new list containing the results
-    
-
+- `map` applies a function to each element in a list
+- Returns a new list containing the results
 Syntax:
-
-`map function list`
-
+	`map function list`
 Example:
-
-`map (*2) [1, 2, 3]`
-
+	`map (*2) [1, 2, 3]`
 Result:
-
-`[2, 4, 6]`
+	`[2, 4, 6]`
 
 ---
-
 ## Map with partial application
-
 Example:
-
-`map (max 3) [1,2,3,4,5]`
-
+	`map (max 3) [1,2,3,4,5]`
 Result:
-
-`[3,3,3,4,5]`
+	`[3,3,3,4,5]`
 
 ---
-
 ## The filter function
-
-- `filter` selects elements from a list that satisfy a condition
-    
-- The condition is a **predicate** (a function that returns True or False)
-    
-
+- `filter` selects elements from a list that work with a condition
+- The condition is a **predicate** (function that returns True or False)
 Syntax:
-
-`filter predicate list`
-
+	`filter predicate list`
 Example:
-
-`filter (>6) [2,5,6,8,9]`
-
+	`filter (>6) [2,5,6,8,9]`
 Result:
-
-`[8,9]`
+	`[8,9]`
 
 ---
-
 ## Custom predicates with filter
-
 Example:
-
-``isEven n = n `mod` 2 == 0``
-
+	``isEven n = n `mod` 2 == 0``
 Usage:
-
-`filter isEven [1,2,3,4,5,6]`
-
+	`filter isEven [1,2,3,4,5,6]`
 Result:
-
-`[2,4,6]`
+	`[2,4,6]`
 
 ---
-
 ## Fold (reduce) functions
-
-- A fold function reduces a list to a **single value**
-    
-- It does this using recursion
-    
-- Common uses include summing or multiplying list elements
-    
+- A fold function reduces a list to a single value
+- It does this with recursion
+- Uses include adding or multiplying list items
 
 ---
-
 ## foldl and foldr
-
 ### foldl (fold left)
-
-- Processes the list from left to right
-    
-
+- Processes list from left to right
 Example:
-
-`foldl (+) 0 [2,3,4,5]`
-
+	`foldl (+) 0 [2,3,4,5]`
 Equivalent to:
-
-`(((0 + 2) + 3) + 4) + 5`
+	`(((0 + 2) + 3) + 4) + 5`
 
 ---
-
 ### foldr (fold right)
-
-- Processes the list from right to left
-    
-
+- Processes list from right to left
 Example:
-
-`foldr (+) 0 [2,3,4,5]`
-
+	`foldr (+) 0 [2,3,4,5]`
 Equivalent to:
-
-`2 + (3 + (4 + (5 + 0)))`
+	`2 + (3 + (4 + (5 + 0)))`
 
 ---
-
 ## When order matters
-
-With division:
-
-`foldl (/) 100 [2,5]`
-
+Division:
+	`foldl (/) 100 [2,5]`
 Result:
-
-`10.0`
-
-`foldr (/) 100 [2,5]`
-
+	`10.0`
+	`foldr (/) 100 [2,5]`
 Result:
-
-`40.0`
+	`40.0`
