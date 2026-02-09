@@ -16,3 +16,9 @@ Black body radiation
 - Hotter bodies radiate peak at shorter wavelength
 - Wein's Law says λ$_{max}$= a1/T  
 \*power per unit area
+![[Excalidraw/WeinsLaw.md]]
+λ$_{max}$ is proportional to 1/T
+(λ$_{max1}$)/(λ$_{max2}$) = T$_2$ / T$_1$  
+Data for the sun:
+Surface temperature = 5800K
+Peak wavelength = 500nm
