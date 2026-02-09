@@ -8,10 +8,11 @@ Light -> cold gas -> Prism -> Absorption spectrum
 ## Wein's Law
 Black body radiation
 - A 'perfect black body' radiates the best
-- The way it radiates depends upon tmperature
+- The way it radiates depends upon temperature
 - All bodies radiate when T > 0K
 - They radiate with a peak wavelength
-- Hotter bodies radiate with more total intensity
+- Hotter bodies radiate with more total intensity \*
 - Hotter bodies radiate a broader spectrum
-- Hotter bodies radiate peak at shorter watelength
-- Wein;s 
+- Hotter bodies radiate peak at shorter wavelength
+- Wein's Law says λ$_{max}$= a1/T  
+\*power per unit area
