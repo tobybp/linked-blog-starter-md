@@ -38,4 +38,6 @@ Where:
 	σ = Stefan-Boltzman constant
 	T = surface temperature of star / K
 	\* Luminosity is the total energy emitted per unit time
-![[Excalidraw/hotfusion.md]]
+
+![[Excalidraw/hotfusion.md|700]]
+
