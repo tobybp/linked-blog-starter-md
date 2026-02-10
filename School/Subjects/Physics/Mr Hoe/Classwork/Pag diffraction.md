@@ -9,3 +9,4 @@ theta =
 
 n(lambda) = dsin(theta)
 lambda = (1.7 x 10$^{-5}$ x sin(5.79)) / 2
+lambda = 8.57 x 10$^{-7}$ = 857nm
