@@ -26,4 +26,12 @@ Current model if you go for a walk in a straight line, eventually you end up bac
 p = 1/d
 if star is further away, the angle gets smaller
 ## Distances
-- Proxima Centuri, parallax - 
+- Proxima Centuri, parallax = 0.773", pc? distance in m?
+	2' = 2 minutes, 2" = 2 seconds
+	0.773 seconds of arc
+	1pc = 3.1x10$^{16}$m
+	d = 1/p = 1/0.773 = 1.29pc parsecs
+- Alpha-Centauri A distance = 1.348pc, parallax?
+	1.348 = 1/parallax = 0.74"
+- Alpha-Centauri B, distance = 4.3950ly, pc?
+- 
