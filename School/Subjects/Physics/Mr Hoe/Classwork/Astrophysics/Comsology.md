@@ -13,5 +13,7 @@
 	- If you go for a walk, you can just keep going... forever...
 
 ### Standard Model of the Big Bang
-- The universe is finite in age
+- The universe is finite in age and size
 - The universe is expanding
+
+Current model if you go for a walk in a straight line, eventually you end up back where you began.
