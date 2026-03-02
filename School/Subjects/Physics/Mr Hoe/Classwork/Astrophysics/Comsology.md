@@ -34,4 +34,6 @@ if star is further away, the angle gets smaller
 - Alpha-Centauri A distance = 1.348pc, parallax?
 	1.348 = 1/parallax = 0.74"
 - Alpha-Centauri B, distance = 4.3950ly, pc?
-- 
+- Barnard's Star, distance = 5.94ly, parallax?
+	(5.94 x 9.5 x 10$^{15}$) / (3.1 x 10$^{16}$) = pc
+	1/pc = parallax
