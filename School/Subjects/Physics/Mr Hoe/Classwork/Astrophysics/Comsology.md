@@ -22,3 +22,6 @@ Current model if you go for a walk in a straight line, eventually you end up bac
 - Expanding "outwards"
 - Gravity acts "inwards"
 - Expansion rate should be decreasing
+
+p = 1/d
+if star is further away, the angle gets smaller
