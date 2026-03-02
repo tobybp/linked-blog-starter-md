@@ -17,3 +17,8 @@
 - The universe is expanding
 
 Current model if you go for a walk in a straight line, eventually you end up back where you began.
+
+## Standard Physics
+- Expanding "outwards"
+- Gravity acts "inwards"
+- Expansion rate should be decreasing
