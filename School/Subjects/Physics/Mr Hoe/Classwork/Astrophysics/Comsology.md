@@ -25,3 +25,5 @@ Current model if you go for a walk in a straight line, eventually you end up bac
 
 p = 1/d
 if star is further away, the angle gets smaller
+## Distances
+- Proxima Centuri, parallax - 
