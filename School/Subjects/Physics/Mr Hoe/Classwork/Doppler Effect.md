@@ -8,6 +8,7 @@ When there is a relative movement between an emitter and an observer, the observ
 λ = original wavelength / m
 v = speed / ms$^{-1}$
 c = speed of light in a vacuum / ms$^{-1}$
+λ and c are constant
 ## Hubble's Law
 ### Hubble's Observations
 - Red shift observed from (all) other galaxies
@@ -16,4 +17,5 @@ c = speed of light in a vacuum / ms$^{-1}$
 - At increasing rates with distance
 - Universe is expanding
 
-Redshirt/Blue
+Redshift = an observed increase in the wavelength - object moving further away
+Blueshift = an observed decrease in wavelength - object moving closer
