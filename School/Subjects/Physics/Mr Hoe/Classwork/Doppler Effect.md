@@ -53,3 +53,5 @@ Blueshift = an observed decrease in wavelength - object moving closer
 
 gradient = 372kms$^{-1}$MPc$^{-1}$ (according to hoe)
 
+v is proportional to D
+H$_0$ = 1/t
