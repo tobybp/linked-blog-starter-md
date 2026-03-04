@@ -55,3 +55,4 @@ gradient = 372kms$^{-1}$MPc$^{-1}$ (according to hoe)
 
 v is proportional to D
 H$_0$ = 1/t
+1/H$_0$ yields the age of the universe
