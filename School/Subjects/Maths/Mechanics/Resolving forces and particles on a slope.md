@@ -1,3 +1,3 @@
 [[Maths]]
 #4/3/26
-![[Excalidraw/particlesonslope.md]]
+![[Excalidraw/particlesonslope.md|800]]
