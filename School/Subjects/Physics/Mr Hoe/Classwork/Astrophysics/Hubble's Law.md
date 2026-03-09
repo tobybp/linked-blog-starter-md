@@ -38,10 +38,11 @@ Cosmological red shift
 - of the universe
 - increase in distance
 ### Cosmological Microwave Background Radiation
-- Radiation produced during the big back itself
-- Initially gamma in wavelength
-- Has been cosmologically red shifted
+- **Radiation** produced during the big back itself
+- Initially **gamma in wavelength**
+- Has been **cosmologically red shifted**
 - Now in the microwave spectrum
+	- Today
 - Wavelength corresponds to that given out by a black body at 3K
 - On the larger scale is homogenous
 - This is due to local fluctuations in density
