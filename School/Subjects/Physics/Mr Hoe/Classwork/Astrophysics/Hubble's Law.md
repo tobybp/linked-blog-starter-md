@@ -22,3 +22,9 @@ Evidence
 - Red shift of radiation from galaxies
 - Deep field photography, quasars, black holes
 - Olber's paradox
+
+Quasars
+- Messy looking stars
+- not very together
+- Irregular shape
+Main phase not looking like a sphere
