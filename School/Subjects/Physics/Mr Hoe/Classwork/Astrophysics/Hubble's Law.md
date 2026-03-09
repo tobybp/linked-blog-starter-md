@@ -21,6 +21,7 @@ Evidence
 - Cosmological microwave background radiation
 - Red shift of radiation from galaxies
 - Deep field photography, quasars, black holes
+	Black holes vary with time
 - Olber's paradox
 
 Quasars
@@ -28,3 +29,5 @@ Quasars
 - not very together
 - Irregular shape
 Main phase not looking like a sphere
+Temperature of the universe >> today?
+not around today, conditions different - changing
