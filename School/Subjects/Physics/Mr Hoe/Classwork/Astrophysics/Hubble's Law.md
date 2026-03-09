@@ -9,4 +9,6 @@ For a while, Hubble constant was calculated at 42kms$^{-1}$Mpc$^{-1}$
 13.7 x 10$^9$ x 3.16 x 10$^7$ = 4.32 x 10$^{17}$s
 H$_0$ is units s$^{-1}$ 
 1 / (4.32 x 10$^{17}$) = 2.31 x 10$^{-18}$s$^{-1}$
-H$_0$ in units
+H$_0$ in units kms$^{-1}$Mpc$^{-1}$  -> x10$^6$ x 3.1 x 10$^{16}$
+-> /1000
+72kms$^{-1}$Mpc$^{-1}$ 
