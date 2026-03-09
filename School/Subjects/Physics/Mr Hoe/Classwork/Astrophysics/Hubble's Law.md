@@ -31,3 +31,4 @@ Quasars
 Main phase not looking like a sphere
 Temperature of the universe >> today?
 not around today, conditions different - changing
+![[universeinabox|800]]
