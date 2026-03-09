@@ -43,9 +43,13 @@ Cosmological red shift
 - Has been **cosmologically red shifted**
 - Now in the microwave spectrum
 	Today
-- Wavelength corresponds to that given out by a black body at 3K
+- Wavelength corresponds to that **given out by a black body at 3K**
 - On the larger scale is **homogenous**
 	Reveals spread of matter
 - This is due to local **fluctuations in density**
 	How we get galaxies
 - Making stars and galaxies possible
+Hubble's law
+v = H$_0$D
+H$_0$ = 1/t
+1/H$_0$ = age of universe
