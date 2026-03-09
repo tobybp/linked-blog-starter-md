@@ -42,8 +42,10 @@ Cosmological red shift
 - Initially **gamma in wavelength**
 - Has been **cosmologically red shifted**
 - Now in the microwave spectrum
-	- Today
+	Today
 - Wavelength corresponds to that given out by a black body at 3K
-- On the larger scale is homogenous
-- This is due to local fluctuations in density
+- On the larger scale is **homogenous**
+	Reveals spread of matter
+- This is due to local **fluctuations in density**
+	How we get galaxies
 - Making stars and galaxies possible
