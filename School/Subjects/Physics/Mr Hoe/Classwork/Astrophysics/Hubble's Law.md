@@ -32,3 +32,8 @@ Main phase not looking like a sphere
 Temperature of the universe >> today?
 not around today, conditions different - changing
 ![[universeinabox|800]]
+
+Cosmological red shift
+- Uncrease in wavelength
+- of the universe
+- increase is distance
