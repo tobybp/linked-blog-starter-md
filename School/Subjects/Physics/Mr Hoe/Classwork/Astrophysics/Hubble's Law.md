@@ -34,6 +34,7 @@ not around today, conditions different - changing
 ![[universeinabox|800]]
 
 Cosmological red shift
-- Uncrease in wavelength
+- Increase in wavelength
 - of the universe
-- increase is distance
+- increase in distance
+### Cosmological Microwave Background 
