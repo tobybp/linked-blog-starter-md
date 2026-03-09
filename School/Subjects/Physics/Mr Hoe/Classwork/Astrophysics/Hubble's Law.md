@@ -12,3 +12,13 @@ H$_0$ is units s$^{-1}$
 H$_0$ in units kms$^{-1}$Mpc$^{-1}$  -> x10$^6$ x 3.1 x 10$^{16}$
 -> /1000
 72kms$^{-1}$Mpc$^{-1}$ 
+
+### What does the model suggest?
+- An ever-changing, ever expanding universe
+- Finite in age and size
+- Cosmological principle 
+Evidence
+- Cosmological microwave background radiation
+- Red shift of radiation from galaxies
+- Deep field photography, quasars, black holes
+- Olber's paradox
