@@ -17,7 +17,7 @@ General relativity
 The two don't really merge
 ### The story ... in enough detail ...
 Phase 1
-- Everything starts out in a ho and dense state (singularity)
+- Everything starts out in a hot and dense state <span style="color:rgb(0, 176, 80)">(singularity)</span>
 Phase 2
 - suddenly expansion begins
 	x$10^{-43}$ 
