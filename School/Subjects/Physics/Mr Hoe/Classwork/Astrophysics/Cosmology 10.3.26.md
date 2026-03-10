@@ -18,7 +18,7 @@ The two don't really merge
 ### The story ... in enough detail ...
 **Phase 1: The unknown**
 - Everything starts out in a hot and dense state (singularity)
-<span style="color:rgb(179, 180, 214)"><span style="color:rgb(179, 180, 214)"><span style="color:rgb(179, 180, 214)">r</span></span></span>Phase 2: Big bang
+	**Phase 2: Big bang**
 - suddenly expansion begins
 	x$10^{-43}$ 
 **Phase 3: Primordial soup**
@@ -33,6 +33,7 @@ The two don't really merge
 - Matter and antimatter collides and annihilates
 - Pair production processes occur
 - More matter forms through these processes than antimatter
+- And the anti-matter is annihilated
 **Phase 5: Formation of atoms**
 - Protons and neutrons form from quarks
 - Hydrogen and helium nuclei form
@@ -57,3 +58,14 @@ Hot dense
 - ??? Cool and low enough in density -> none of it
 - Lots of it!
 "Matter increases and anti-matter decreases through the asymmetry of pair production"
+
+### The future?
+- Old ideas suggest closed, flat or open Universe
+- Old ideas assume Universal expansion will slow down
+- Closed = contracts into a big crunch
+- Flat = expansion slows, Universe tends towards finite volume
+- Open = expands forever into heat death
+- New idea is expansion rate is increasing!
+- Dark energy is responsible?
+- There is much more dark than visible matter
+
