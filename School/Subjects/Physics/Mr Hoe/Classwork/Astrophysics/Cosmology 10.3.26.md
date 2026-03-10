@@ -16,24 +16,34 @@ General relativity
 - Smooth
 The two don't really merge
 ### The story ... in enough detail ...
-Phase 1
+Phase 1: The unknown
 - Everything starts out in a hot and dense state <span style="color:rgb(0, 176, 80)">(singularity)</span>
-Phase 2
+Phase 2: Big bang
 - suddenly expansion begins
 	x$10^{-43}$ 
-Phase 3
+Phase 3: Primordial soup
 - All laws of physics emerge
 	What laws?
 - All of the building blocks of matter & antimatter exist in a soup
 - With lots of energy and radiation
 	Quarks, leptons
 - it is very hot
-Phase 4: Cooling, expansion
+Phase 4: Rise of matter, `Cooling, expansion` / `demise of antimatter`
 - As the universe expanse, it cools
 - Matter and antimatter collides and annihilates
 - Pair production processes occur
 - More matter forms through these processes than antimatter
 - And the anti-matter is annihilated
+Phase 5: Formation of atoms
+- Protons and neutrons form from quarks
+- Hydrogen and helium nuclei form
+- Electrons are captured by nuclei, but immediately ionised
+- Due to collisions with photons
+- At this point the Universe is opaque to radiation
+- The universe continues to cool and expand until
+- Radiation can now travel without hitting electrons
+- Atoms can now be stable
+- 
 
 2 way pair production
 	Matter + Antimatter ⇋ 2 photons
