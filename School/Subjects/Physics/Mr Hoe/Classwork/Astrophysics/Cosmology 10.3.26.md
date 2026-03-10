@@ -65,7 +65,11 @@ Hot dense
 - Closed = contracts into a big crunch
 - Flat = expansion slows, Universe tends towards finite volume
 - Open = expands forever into heat death
-- New idea is expansion rate is increasing!
-- Dark energy is responsible?
+- **New idea is expansion rate is increasing!**
+- **Dark energy is responsible?**
 - There is much more dark than visible matter
 
+![[Excalidraw/volumetimeuniversegraph.md|700]]
+Big bang -> Momentum
+Gravity -> Slowing expansion
+Density -> Critical density
