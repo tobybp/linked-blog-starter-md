@@ -36,5 +36,10 @@ Phase 4: Cooling, expansion
 - And the anti-matter is annihilated
 
 2 way pair production
-	Matter + Antimatter -> 2 photons
-	Where ∆ε = ∆mc$^2$ ⇄⇋
+	Matter + Antimatter ⇋ 2 photons
+		Asymmetry, matter more than antimatter
+	Where ∆ε = ∆mc$^2$ 
+Hot dense
+- ??? Cool and low enough in density -> none of it
+- Lots of it!
+"Matter increases and anti-matter decreases through the asymmetry of pair production"
