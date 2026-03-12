@@ -8,4 +8,6 @@
 		3 x 10$^8$ / 1 x 10$^{-10}$ = 3 x 10$^{18}$
 	b) the energy of a single X-ray photon
 		e = hf
-		e = 
+		e = 3 x 10$^8$ x 6.62 x 10$^{-34}$
+		e = 1.986 x 10$^{-15}$
+3) 
