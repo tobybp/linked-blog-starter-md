@@ -10,4 +10,7 @@
 		e = hf
 		e = 3 x 10$^8$ x 6.62 x 10$^{-34}$
 		e = 1.986 x 10$^{-15}$
-3) 
+3) An x-ray tube is connected to a 65kV supply. Calculate:
+	a) the kinetic energy of an electron
+	e = Q x V
+	= 1 x 10${-14}$J
