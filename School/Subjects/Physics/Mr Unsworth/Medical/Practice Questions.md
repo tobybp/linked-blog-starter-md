@@ -2,6 +2,8 @@
 #20/3/26 
 1) a) Ionising radiation
 	High energy
-	b) 1.670 MeV
+	b) E = hc / λ
+		1.02 = hc / λ
+		
 	c) 
 	
