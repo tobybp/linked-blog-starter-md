@@ -1,8 +1,8 @@
 [[Physics]]
 #23/1/26 
-A capacitor is any two conductors separated from each other by an insulating material (or a vacuum)t 
+A capacitor is any two conductors separated from each other by an insulating material (or a vacuum)
 The simplest arrangement is two parallel plates of area A and separation d
-![[capacitordiagram|600]]
+![[capacitordiagram|700]]
 When a pd is applied, electrons move from one plate to the other until the pd across the capacitor is equal to e.m.f. source
 A capacitor stores charge (separation), and hence energy
 Once a capacitor has finished charging, a total charge of Q in electrons has moved from one plate to the other, and there is now a pd V across it.
